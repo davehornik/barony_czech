@@ -2,1514 +2,1514 @@
     "version": 1,
     "items": {
         "wooden_shield": {
-            "name_identified": "wooden shield",
-            "name_unidentified": "wooden shield"
+            "name_identified": "dřevěný štít",
+            "name_unidentified": "dřevěný štít"
         },
         "quarterstaff": {
-            "name_identified": "quarter staff",
-            "name_unidentified": "quarter staff"
+            "name_identified": "hůl",
+            "name_unidentified": "hůl"
         },
         "bronze_sword": {
-            "name_identified": "bronze sword",
-            "name_unidentified": "bronze sword"
+            "name_identified": "bronzový meč",
+            "name_unidentified": "bronzový meč"
         },
         "bronze_mace": {
-            "name_identified": "bronze mace",
-            "name_unidentified": "bronze mace"
+            "name_identified": "bronzový palcát",
+            "name_unidentified": "bronzový palcát"
         },
         "bronze_axe": {
-            "name_identified": "bronze axe",
-            "name_unidentified": "bronze axe"
+            "name_identified": "bronzová sekera",
+            "name_unidentified": "bronzová sekera"
         },
         "bronze_shield": {
-            "name_identified": "bronze shield",
-            "name_unidentified": "bronze shield"
+            "name_identified": "bronzový štít",
+            "name_unidentified": "bronzový štít"
         },
         "sling": {
-            "name_identified": "slingshot",
-            "name_unidentified": "slingshot"
+            "name_identified": "prak",
+            "name_unidentified": "prak"
         },
         "iron_spear": {
-            "name_identified": "iron spear",
-            "name_unidentified": "iron spear"
+            "name_identified": "železné kopí",
+            "name_unidentified": "železné kopí"
         },
         "iron_sword": {
-            "name_identified": "iron sword",
-            "name_unidentified": "iron sword"
+            "name_identified": "železný meč",
+            "name_unidentified": "železný meč"
         },
         "iron_mace": {
-            "name_identified": "iron mace",
-            "name_unidentified": "iron mace"
+            "name_identified": "železný palcát",
+            "name_unidentified": "železný palcát"
         },
         "iron_axe": {
-            "name_identified": "iron axe",
-            "name_unidentified": "iron axe"
+            "name_identified": "železná sekera",
+            "name_unidentified": "železná sekera"
         },
         "iron_shield": {
-            "name_identified": "iron shield",
-            "name_unidentified": "iron shield"
+            "name_identified": "železný štít",
+            "name_unidentified": "železný štít"
         },
         "shortbow": {
-            "name_identified": "shortbow",
-            "name_unidentified": "shortbow"
+            "name_identified": "krátký luk",
+            "name_unidentified": "krátký luk"
         },
         "steel_halberd": {
-            "name_identified": "steel halberd",
-            "name_unidentified": "steel halberd"
+            "name_identified": "ocelová halapartna",
+            "name_unidentified": "ocelová halapartna"
         },
         "steel_sword": {
-            "name_identified": "steel sword",
-            "name_unidentified": "steel sword"
+            "name_identified": "ocelový meč",
+            "name_unidentified": "ocelový meč"
         },
         "steel_mace": {
-            "name_identified": "steel mace",
-            "name_unidentified": "steel mace"
+            "name_identified": "ocelový palcát",
+            "name_unidentified": "ocelový palcát"
         },
         "steel_axe": {
-            "name_identified": "steel axe",
-            "name_unidentified": "steel axe"
+            "name_identified": "ocelová sekera",
+            "name_unidentified": "ocelová sekera"
         },
         "steel_shield": {
-            "name_identified": "steel shield",
-            "name_unidentified": "steel shield"
+            "name_identified": "ocelový štít",
+            "name_unidentified": "ocelový štít"
         },
         "steel_shield_resistance": {
-            "name_identified": "steel shield of magic resistance",
-            "name_unidentified": "steel shield"
+            "name_identified": "ocelový štít magické odolnosti",
+            "name_unidentified": "ocelový štít"
         },
         "crossbow": {
-            "name_identified": "crossbow",
-            "name_unidentified": "crossbow"
+            "name_identified": "kuše",
+            "name_unidentified": "kuše"
         },
         "gloves": {
-            "name_identified": "leather gloves",
-            "name_unidentified": "gloves"
+            "name_identified": "kožené rukavice",
+            "name_unidentified": "rukavice"
         },
         "gloves_dexterity": {
-            "name_identified": "leather gloves of dexterity",
-            "name_unidentified": "gloves"
+            "name_identified": "kožené rukavice obratnosti",
+            "name_unidentified": "rukavice"
         },
         "bracers": {
-            "name_identified": "iron bracers",
-            "name_unidentified": "bracers"
+            "name_identified": "železné chrániče",
+            "name_unidentified": "chrániče"
         },
         "bracers_constitution": {
-            "name_identified": "iron bracers of constitution",
-            "name_unidentified": "bracers"
+            "name_identified": "železné chrániče odolnosti",
+            "name_unidentified": "chrániče"
         },
         "gauntlets": {
-            "name_identified": "steel gauntlets",
-            "name_unidentified": "gauntlets"
+            "name_identified": "ocelové rukavice",
+            "name_unidentified": "rukavice"
         },
         "gauntlets_strength": {
-            "name_identified": "steel gauntlets of might",
-            "name_unidentified": "gauntlets"
+            "name_identified": "ocelové rukavice síly",
+            "name_unidentified": "rukavice"
         },
         "cloak": {
-            "name_identified": "cloak",
-            "name_unidentified": "cloak"
+            "name_identified": "plášť",
+            "name_unidentified": "plášť"
         },
         "cloak_magicreflection": {
-            "name_identified": "cloak of magic reflection",
-            "name_unidentified": "cloak"
+            "name_identified": "plášť odrážení magie",
+            "name_unidentified": "plášť"
         },
         "cloak_invisibility": {
-            "name_identified": "cloak of invisibility",
-            "name_unidentified": "cloak"
+            "name_identified": "plášť neviditelnosti",
+            "name_unidentified": "plášť"
         },
         "cloak_protection": {
-            "name_identified": "cloak of protection",
-            "name_unidentified": "cloak"
+            "name_identified": "plášť ochrany",
+            "name_unidentified": "plášť"
         },
         "leather_boots": {
-            "name_identified": "leather boots",
-            "name_unidentified": "leather boots"
+            "name_identified": "kožené boty",
+            "name_unidentified": "kožené boty"
         },
         "leather_boots_speed": {
-            "name_identified": "leather boots of speed",
-            "name_unidentified": "leather boots"
+            "name_identified": "kožené boty rychlosti",
+            "name_unidentified": "kožené boty"
         },
         "iron_boots": {
-            "name_identified": "iron boots",
-            "name_unidentified": "iron boots"
+            "name_identified": "železné boty",
+            "name_unidentified": "železné boty"
         },
         "iron_boots_waterwalking": {
-            "name_identified": "iron boots of water walking",
-            "name_unidentified": "iron boots"
+            "name_identified": "železné boty chůze po vodě",
+            "name_unidentified": "železné boty"
         },
         "steel_boots": {
-            "name_identified": "steel boots",
-            "name_unidentified": "steel boots"
+            "name_identified": "ocelové boty",
+            "name_unidentified": "ocelové boty"
         },
         "steel_boots_levitation": {
-            "name_identified": "steel boots of levitation",
-            "name_unidentified": "steel boots"
+            "name_identified": "ocelové boty levitace",
+            "name_unidentified": "ocelové boty"
         },
         "steel_boots_feather": {
-            "name_identified": "steel boots of feather",
-            "name_unidentified": "steel boots"
+            "name_identified": "ocelové boty peříčka",
+            "name_unidentified": "ocelové boty"
         },
         "leather_breastpiece": {
-            "name_identified": "leather breastpiece",
-            "name_unidentified": "leather breastpiece"
+            "name_identified": "kožený náprsník",
+            "name_unidentified": "kožený náprsník"
         },
         "iron_breastpiece": {
-            "name_identified": "iron breastpiece",
-            "name_unidentified": "iron breastpiece"
+            "name_identified": "železný náprsník",
+            "name_unidentified": "železný náprsník"
         },
         "steel_breastpiece": {
-            "name_identified": "steel breastpiece",
-            "name_unidentified": "steel breastpiece"
+            "name_identified": "ocelový náprsník",
+            "name_unidentified": "ocelový náprsník"
         },
         "hat_phrygian": {
-            "name_identified": "phrygian hat",
-            "name_unidentified": "phrygian hat"
+            "name_identified": "frygická čapka",
+            "name_unidentified": "frygická čapka"
         },
         "hat_hood": {
-            "name_identified": "hood",
-            "name_unidentified": "hood"
+            "name_identified": "kapuce",
+            "name_unidentified": "kapuce"
         },
         "hat_wizard": {
-            "name_identified": "wizard hat",
-            "name_unidentified": "wizard hat"
+            "name_identified": "kouzelnický klobouk",
+            "name_unidentified": "kouzelnický klobouk"
         },
         "hat_jester": {
-            "name_identified": "jester hat",
-            "name_unidentified": "jester hat"
+            "name_identified": "šaškovský klobouk",
+            "name_unidentified": "šaškovský klobouk"
         },
         "leather_helm": {
-            "name_identified": "leather helm",
-            "name_unidentified": "leather helm"
+            "name_identified": "kožená helma",
+            "name_unidentified": "kožená helma"
         },
         "iron_helm": {
-            "name_identified": "iron helm",
-            "name_unidentified": "iron helm"
+            "name_identified": "železná helma",
+            "name_unidentified": "železná helma"
         },
         "steel_helm": {
-            "name_identified": "steel helm",
-            "name_unidentified": "steel helm"
+            "name_identified": "ocelová helma",
+            "name_unidentified": "ocelová helma"
         },
         "amulet_sexchange": {
-            "name_identified": "amulet of sex change",
+            "name_identified": "amulet změny pohlaví",
             "name_unidentified": "amulet"
         },
         "amulet_lifesaving": {
-            "name_identified": "amulet of life saving",
+            "name_identified": "amulet záchrany života",
             "name_unidentified": "amulet"
         },
         "amulet_waterbreathing": {
-            "name_identified": "amulet of olympic swimming",
+            "name_identified": "amulet olympijského plavání",
             "name_unidentified": "amulet"
         },
         "amulet_magicreflection": {
-            "name_identified": "amulet of magic reflection",
+            "name_identified": "amulet odrážení magie",
             "name_unidentified": "amulet"
         },
         "amulet_strangulation": {
-            "name_identified": "amulet of strangulation",
+            "name_identified": "amulet škrcení",
             "name_unidentified": "amulet"
         },
         "amulet_poisonresistance": {
-            "name_identified": "amulet of poison resistance",
+            "name_identified": "amulet odolnosti jedu",
             "name_unidentified": "amulet"
         },
         "potion_water": {
-            "name_identified": "bottle of water",
-            "name_unidentified": "potion"
+            "name_identified": "láhev vody",
+            "name_unidentified": "lektvar"
         },
         "potion_booze": {
-            "name_identified": "bottle of booze",
-            "name_unidentified": "potion"
+            "name_identified": "láhev alkoholu",
+            "name_unidentified": "lektvar"
         },
         "potion_juice": {
-            "name_identified": "bottle of fruit juice",
-            "name_unidentified": "potion"
+            "name_identified": "láhev ovocné šťávy",
+            "name_unidentified": "lektvar"
         },
         "potion_sickness": {
-            "name_identified": "potion of sickness",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar nemoci",
+            "name_unidentified": "lektvar"
         },
         "potion_confusion": {
-            "name_identified": "potion of confusion",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar zmatení",
+            "name_unidentified": "lektvar"
         },
         "potion_extrahealing": {
-            "name_identified": "potion of extra healing",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar masivního léčení",
+            "name_unidentified": "lektvar"
         },
         "potion_healing": {
-            "name_identified": "potion of healing",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar léčení",
+            "name_unidentified": "lektvar"
         },
         "potion_cureailment": {
-            "name_identified": "potion of cure ailment",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar vyléčení nemocí",
+            "name_unidentified": "lektvar"
         },
         "potion_blindness": {
-            "name_identified": "potion of blindness",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar slepoty",
+            "name_unidentified": "lektvar"
         },
         "potion_restoremagic": {
-            "name_identified": "potion of restore magic",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar obnovení magie",
+            "name_unidentified": "lektvar"
         },
         "potion_invisibility": {
-            "name_identified": "potion of invisibility",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar neviditelnosti",
+            "name_unidentified": "lektvar"
         },
         "potion_levitation": {
-            "name_identified": "potion of levitation",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar levitace",
+            "name_unidentified": "lektvar"
         },
         "potion_speed": {
-            "name_identified": "potion of speed",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar rychlosti",
+            "name_unidentified": "lektvar"
         },
         "potion_acid": {
-            "name_identified": "potion of acid",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar kyseliny",
+            "name_unidentified": "lektvar"
         },
         "potion_paralysis": {
-            "name_identified": "potion of paralysis",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar paralýzy",
+            "name_unidentified": "lektvar"
         },
         "scroll_mail": {
-            "name_identified": "piece of mail",
-            "name_unidentified": "stamped scroll"
+            "name_identified": "kus pošty",
+            "name_unidentified": "ofrankovaný svitek"
         },
         "scroll_identify": {
-            "name_identified": "scroll of identify",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek identifikace",
+            "name_unidentified": "svitek"
         },
         "scroll_light": {
-            "name_identified": "scroll of light",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek světla",
+            "name_unidentified": "svitek"
         },
         "scroll_blank": {
-            "name_identified": "blank scroll",
-            "name_unidentified": "scroll"
+            "name_identified": "prázdný svitek",
+            "name_unidentified": "svitek"
         },
         "scroll_enchantweapon": {
-            "name_identified": "scroll of enchant weapon",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek očarování zbraně",
+            "name_unidentified": "svitek"
         },
         "scroll_enchantarmor": {
-            "name_identified": "scroll of enchant armor",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek očarování zbroje",
+            "name_unidentified": "svitek"
         },
         "scroll_removecurse": {
-            "name_identified": "scroll of remove curse",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek sejmutí kletby",
+            "name_unidentified": "svitek"
         },
         "scroll_fire": {
-            "name_identified": "scroll of fire",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek ohně",
+            "name_unidentified": "svitek"
         },
         "scroll_food": {
-            "name_identified": "scroll of food",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek jídla",
+            "name_unidentified": "svitek"
         },
         "scroll_magicmapping": {
-            "name_identified": "scroll of magic mapping",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek magického mapování",
+            "name_unidentified": "svitek"
         },
         "scroll_repair": {
-            "name_identified": "scroll of repair",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek opravy",
+            "name_unidentified": "svitek"
         },
         "scroll_destroyarmor": {
-            "name_identified": "scroll of destroy armor",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek zničení zbroje",
+            "name_unidentified": "svitek"
         },
         "scroll_teleportation": {
-            "name_identified": "scroll of teleportation",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek teleportace",
+            "name_unidentified": "svitek"
         },
         "scroll_summon": {
-            "name_identified": "scroll of summon",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek přivolání",
+            "name_unidentified": "svitek"
         },
         "magicstaff_light": {
-            "name_identified": "magicstaff of light",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl světla",
+            "name_unidentified": "magická hůl"
         },
         "magicstaff_digging": {
-            "name_identified": "magicstaff of digging",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl kopání",
+            "name_unidentified": "magická hůl"
         },
         "magicstaff_locking": {
-            "name_identified": "magicstaff of locking",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl zamykání",
+            "name_unidentified": "magická hůl"
         },
         "magicstaff_magicmissile": {
-            "name_identified": "magicstaff of magic missile",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl magické střely",
+            "name_unidentified": "magická hůl"
         },
         "magicstaff_opening": {
-            "name_identified": "magicstaff of opening",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl otevírání",
+            "name_unidentified": "magická hůl"
         },
         "magicstaff_slow": {
-            "name_identified": "magicstaff of slow",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl zpomalení",
+            "name_unidentified": "magická hůl"
         },
         "magicstaff_cold": {
-            "name_identified": "magicstaff of cold",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl mrazu",
+            "name_unidentified": "magická hůl"
         },
         "magicstaff_fire": {
-            "name_identified": "magicstaff of fire",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl ohně",
+            "name_unidentified": "magická hůl"
         },
         "magicstaff_lightning": {
-            "name_identified": "magicstaff of lightning",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl blesku",
+            "name_unidentified": "magická hůl"
         },
         "magicstaff_sleep": {
-            "name_identified": "magicstaff of sleep",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl spánku",
+            "name_unidentified": "magická hůl"
         },
         "ring_adornment": {
-            "name_identified": "ring of adornment",
-            "name_unidentified": "ring"
+            "name_identified": "prsten ozdoby",
+            "name_unidentified": "prsten"
         },
         "ring_slowdigestion": {
-            "name_identified": "ring of slow digestion",
-            "name_unidentified": "ring"
+            "name_identified": "prsten pomalého trávení",
+            "name_unidentified": "prsten"
         },
         "ring_protection": {
-            "name_identified": "ring of protection",
-            "name_unidentified": "ring"
+            "name_identified": "prsten ochrany",
+            "name_unidentified": "prsten"
         },
         "ring_warning": {
-            "name_identified": "ring of warning",
-            "name_unidentified": "ring"
+            "name_identified": "prsten varování",
+            "name_unidentified": "prsten"
         },
         "ring_strength": {
-            "name_identified": "ring of might",
-            "name_unidentified": "ring"
+            "name_identified": "prsten síly",
+            "name_unidentified": "prsten"
         },
         "ring_constitution": {
-            "name_identified": "ring of constitution",
-            "name_unidentified": "ring"
+            "name_identified": "prsten odolnosti",
+            "name_unidentified": "prsten"
         },
         "ring_invisibility": {
-            "name_identified": "ring of invisibility",
-            "name_unidentified": "ring"
+            "name_identified": "prsten neviditelnosti",
+            "name_unidentified": "prsten"
         },
         "ring_magicresistance": {
-            "name_identified": "ring of magic resistance",
-            "name_unidentified": "ring"
+            "name_identified": "prsten magické odolnosti",
+            "name_unidentified": "prsten"
         },
         "ring_conflict": {
-            "name_identified": "ring of conflict",
-            "name_unidentified": "ring"
+            "name_identified": "prsten konfliktu",
+            "name_unidentified": "prsten"
         },
         "ring_levitation": {
-            "name_identified": "ring of levitation",
-            "name_unidentified": "ring"
+            "name_identified": "prsten levitace",
+            "name_unidentified": "prsten"
         },
         "ring_regeneration": {
-            "name_identified": "ring of regeneration",
-            "name_unidentified": "ring"
+            "name_identified": "prsten regenerace",
+            "name_unidentified": "prsten"
         },
         "ring_teleportation": {
-            "name_identified": "ring of teleportation",
-            "name_unidentified": "ring"
+            "name_identified": "prsten teleportace",
+            "name_unidentified": "prsten"
         },
         "spellbook_forcebolt": {
-            "name_identified": "spellbook of forcebolt",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha silového šípu",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_magicmissile": {
-            "name_identified": "spellbook of magic missile",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha magické střely",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_cold": {
-            "name_identified": "spellbook of cold",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha mrazu",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_fireball": {
-            "name_identified": "spellbook of fireball",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha ohnivé koule",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_light": {
-            "name_identified": "spellbook of light",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha světla",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_removecurse": {
-            "name_identified": "spellbook of remove curse",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha sejmutí kletby",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_lightning": {
-            "name_identified": "spellbook of lightning",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha blesku",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_identify": {
-            "name_identified": "spellbook of identify",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha identifikace",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_magicmapping": {
-            "name_identified": "spellbook of magic mapping",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha magického mapování",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_sleep": {
-            "name_identified": "spellbook of sleep",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha spánku",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_confuse": {
-            "name_identified": "spellbook of confuse",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha zmatení",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_slow": {
-            "name_identified": "spellbook of slow",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha zpomalení",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_opening": {
-            "name_identified": "spellbook of opening",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha otevírání",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_locking": {
-            "name_identified": "spellbook of locking",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha zamykání",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_levitation": {
-            "name_identified": "spellbook of levitation",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha levitace",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_invisibility": {
-            "name_identified": "spellbook of invisibility",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha neviditelnosti",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_teleportation": {
-            "name_identified": "spellbook of teleportation",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha teleportace",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_healing": {
-            "name_identified": "spellbook of healing",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha léčení",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_extrahealing": {
-            "name_identified": "spellbook of extra healing",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha masivního léčení",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_cureailment": {
-            "name_identified": "spellbook of cure ailment",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha vyléčení nemocí",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_dig": {
-            "name_identified": "spellbook of dig",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha kopání",
+            "name_unidentified": "kouzelná kniha"
         },
         "gem_rock": {
-            "name_identified": "rock",
-            "name_unidentified": "rock"
+            "name_identified": "kámen",
+            "name_unidentified": "kámen"
         },
         "gem_luck": {
-            "name_identified": "luckstone",
-            "name_unidentified": "rock"
+            "name_identified": "kámen štěstí",
+            "name_unidentified": "kámen"
         },
         "gem_garnet": {
-            "name_identified": "garnet",
-            "name_unidentified": "gem"
+            "name_identified": "granát",
+            "name_unidentified": "drahokam"
         },
         "gem_ruby": {
-            "name_identified": "ruby",
-            "name_unidentified": "gem"
+            "name_identified": "rubín",
+            "name_unidentified": "drahokam"
         },
         "gem_jacinth": {
-            "name_identified": "jacinth",
-            "name_unidentified": "gem"
+            "name_identified": "hyacint",
+            "name_unidentified": "drahokam"
         },
         "gem_amber": {
-            "name_identified": "amber",
-            "name_unidentified": "gem"
+            "name_identified": "jantar",
+            "name_unidentified": "drahokam"
         },
         "gem_citrine": {
-            "name_identified": "citrine",
-            "name_unidentified": "gem"
+            "name_identified": "citrín",
+            "name_unidentified": "drahokam"
         },
         "gem_jade": {
-            "name_identified": "jade",
-            "name_unidentified": "gem"
+            "name_identified": "nefrit",
+            "name_unidentified": "drahokam"
         },
         "gem_emerald": {
-            "name_identified": "emerald",
-            "name_unidentified": "gem"
+            "name_identified": "smaragd",
+            "name_unidentified": "drahokam"
         },
         "gem_sapphire": {
-            "name_identified": "sapphire",
-            "name_unidentified": "gem"
+            "name_identified": "safír",
+            "name_unidentified": "drahokam"
         },
         "gem_aquamarine": {
-            "name_identified": "aquamarine",
-            "name_unidentified": "gem"
+            "name_identified": "akvamarín",
+            "name_unidentified": "drahokam"
         },
         "gem_amethyst": {
-            "name_identified": "amethyst",
-            "name_unidentified": "gem"
+            "name_identified": "ametyst",
+            "name_unidentified": "drahokam"
         },
         "gem_fluorite": {
-            "name_identified": "fluorite",
-            "name_unidentified": "gem"
+            "name_identified": "fluorit",
+            "name_unidentified": "drahokam"
         },
         "gem_opal": {
-            "name_identified": "opal",
-            "name_unidentified": "gem"
+            "name_identified": "opál",
+            "name_unidentified": "drahokam"
         },
         "gem_diamond": {
-            "name_identified": "diamond",
-            "name_unidentified": "gem"
+            "name_identified": "diamant",
+            "name_unidentified": "drahokam"
         },
         "gem_jetstone": {
-            "name_identified": "jetstone",
-            "name_unidentified": "gem"
+            "name_identified": "gagát",
+            "name_unidentified": "drahokam"
         },
         "gem_obsidian": {
-            "name_identified": "obsidian",
-            "name_unidentified": "gem"
+            "name_identified": "obsidián",
+            "name_unidentified": "drahokam"
         },
         "gem_glass": {
-            "name_identified": "piece of worthless glass",
-            "name_unidentified": "gem"
+            "name_identified": "kus bezcenného skla",
+            "name_unidentified": "drahokam"
         },
         "tool_pickaxe": {
-            "name_identified": "pickaxe",
-            "name_unidentified": "pickaxe"
+            "name_identified": "krumpáč",
+            "name_unidentified": "krumpáč"
         },
         "tool_tinopener": {
-            "name_identified": "tin opener",
-            "name_unidentified": "tin opener"
+            "name_identified": "otvírák na konzervy",
+            "name_unidentified": "otvírák na konzervy"
         },
         "tool_mirror": {
-            "name_identified": "mirror",
-            "name_unidentified": "mirror"
+            "name_identified": "zrcadlo",
+            "name_unidentified": "zrcadlo"
         },
         "tool_lockpick": {
-            "name_identified": "lockpick",
-            "name_unidentified": "lockpick"
+            "name_identified": "paklíč",
+            "name_unidentified": "paklíč"
         },
         "tool_skeletonkey": {
-            "name_identified": "skeleton key",
-            "name_unidentified": "key"
+            "name_identified": "kostěný klíč",
+            "name_unidentified": "klíč"
         },
         "tool_torch": {
-            "name_identified": "torch",
-            "name_unidentified": "torch"
+            "name_identified": "pochodeň",
+            "name_unidentified": "pochodeň"
         },
         "tool_lantern": {
-            "name_identified": "lantern",
-            "name_unidentified": "lantern"
+            "name_identified": "lucerna",
+            "name_unidentified": "lucerna"
         },
         "tool_blindfold": {
-            "name_identified": "blindfold",
-            "name_unidentified": "blindfold"
+            "name_identified": "páska přes oči",
+            "name_unidentified": "páska přes oči"
         },
         "tool_towel": {
-            "name_identified": "towel",
-            "name_unidentified": "towel"
+            "name_identified": "ručník",
+            "name_unidentified": "ručník"
         },
         "tool_glasses": {
-            "name_identified": "pair of glasses",
-            "name_unidentified": "pair of glasses"
+            "name_identified": "brýle",
+            "name_unidentified": "brýle"
         },
         "tool_beartrap": {
-            "name_identified": "beartrap",
-            "name_unidentified": "beartrap"
+            "name_identified": "medvědí past",
+            "name_unidentified": "medvědí past"
         },
         "food_bread": {
-            "name_identified": "bread",
-            "name_unidentified": "bread"
+            "name_identified": "chléb",
+            "name_unidentified": "chléb"
         },
         "food_creampie": {
-            "name_identified": "cream pie",
-            "name_unidentified": "cream pie"
+            "name_identified": "smetanový koláč",
+            "name_unidentified": "smetanový koláč"
         },
         "food_cheese": {
-            "name_identified": "cheese",
-            "name_unidentified": "cheese"
+            "name_identified": "sýr",
+            "name_unidentified": "sýr"
         },
         "food_apple": {
-            "name_identified": "apple",
-            "name_unidentified": "apple"
+            "name_identified": "jablko",
+            "name_unidentified": "jablko"
         },
         "food_meat": {
-            "name_identified": "meat",
-            "name_unidentified": "meat"
+            "name_identified": "maso",
+            "name_unidentified": "maso"
         },
         "food_fish": {
-            "name_identified": "fish",
-            "name_unidentified": "fish"
+            "name_identified": "ryba",
+            "name_unidentified": "ryba"
         },
         "food_tin": {
-            "name_identified": "tin",
-            "name_unidentified": "tin"
+            "name_identified": "konzerva",
+            "name_unidentified": "konzerva"
         },
         "readable_book": {
-            "name_identified": "book",
-            "name_unidentified": "readable book"
+            "name_identified": "kniha",
+            "name_unidentified": "čitelná kniha"
         },
         "spell_item": {
-            "name_identified": "spell",
-            "name_unidentified": "spell"
+            "name_identified": "kouzlo",
+            "name_unidentified": "kouzlo"
         },
         "artifact_sword": {
             "name_identified": "Dyrnwyn",
-            "name_unidentified": "magic sword"
+            "name_unidentified": "magický meč"
         },
         "artifact_mace": {
             "name_identified": "Sharur",
-            "name_unidentified": "magic mace"
+            "name_unidentified": "magický palcát"
         },
         "artifact_spear": {
             "name_identified": "Gungnir",
-            "name_unidentified": "magic spear"
+            "name_unidentified": "magické kopí"
         },
         "artifact_axe": {
             "name_identified": "Parashu",
-            "name_unidentified": "magic axe"
+            "name_unidentified": "magická sekera"
         },
         "artifact_bow": {
             "name_identified": "Khryselakatos",
-            "name_unidentified": "magic bow"
+            "name_unidentified": "magický luk"
         },
         "artifact_breastpiece": {
             "name_identified": "Dragon's Mail",
-            "name_unidentified": "artifact breastpiece"
+            "name_unidentified": "artefaktový náprsník"
         },
         "artifact_helm": {
             "name_identified": "Sphinx's Casque",
-            "name_unidentified": "artifact helm"
+            "name_unidentified": "artefaktová helma"
         },
         "artifact_boots": {
             "name_identified": "Oracle's Treads",
-            "name_unidentified": "artifact boots"
+            "name_unidentified": "artefaktové boty"
         },
         "artifact_cloak": {
             "name_identified": "Wraith's Gown",
-            "name_unidentified": "artifact cloak"
+            "name_unidentified": "artefaktový plášť"
         },
         "artifact_gloves": {
             "name_identified": "Djinni's Brace",
-            "name_unidentified": "artifact gloves"
+            "name_unidentified": "artefaktové rukavice"
         },
         "crystal_breastpiece": {
-            "name_identified": "crystal breastpiece",
-            "name_unidentified": "crystal breastpiece"
+            "name_identified": "krystalový náprsník",
+            "name_unidentified": "krystalový náprsník"
         },
         "crystal_helm": {
-            "name_identified": "crystal helm",
-            "name_unidentified": "crystal helm"
+            "name_identified": "krystalová helma",
+            "name_unidentified": "krystalová helma"
         },
         "crystal_boots": {
-            "name_identified": "crystal boots",
-            "name_unidentified": "crystal boots"
+            "name_identified": "krystalové boty",
+            "name_unidentified": "krystalové boty"
         },
         "crystal_shield": {
-            "name_identified": "crystal shield",
-            "name_unidentified": "crystal shield"
+            "name_identified": "krystalový štít",
+            "name_unidentified": "krystalový štít"
         },
         "crystal_gloves": {
-            "name_identified": "crystal gauntlets",
-            "name_unidentified": "crystal gauntlets"
+            "name_identified": "krystalové rukavice",
+            "name_unidentified": "krystalové rukavice"
         },
         "vampire_doublet": {
-            "name_identified": "vampire doublet",
-            "name_unidentified": "doublet"
+            "name_identified": "vampýří kabátec",
+            "name_unidentified": "kabátec"
         },
         "wizard_doublet": {
-            "name_identified": "wizard doublet",
-            "name_unidentified": "doublet"
+            "name_identified": "kouzelnický kabátec",
+            "name_unidentified": "kabátec"
         },
         "healer_doublet": {
-            "name_identified": "healer doublet",
-            "name_unidentified": "doublet"
+            "name_identified": "léčitelský kabátec",
+            "name_unidentified": "kabátec"
         },
         "mirror_shield": {
-            "name_identified": "mirror shield",
-            "name_unidentified": "mirror shield"
+            "name_identified": "zrcadlový štít",
+            "name_unidentified": "zrcadlový štít"
         },
         "brass_knuckles": {
-            "name_identified": "brass knuckles",
-            "name_unidentified": "knuckles"
+            "name_identified": "mosazné boxery",
+            "name_unidentified": "boxery"
         },
         "iron_knuckles": {
-            "name_identified": "iron knuckles",
-            "name_unidentified": "knuckles"
+            "name_identified": "železné boxery",
+            "name_unidentified": "boxery"
         },
         "spiked_gauntlets": {
-            "name_identified": "spiked gauntlets",
-            "name_unidentified": "knuckles"
+            "name_identified": "hrotité rukavice",
+            "name_unidentified": "boxery"
         },
         "food_tomalley": {
             "name_identified": "tomalley",
             "name_unidentified": "tomalley"
         },
         "tool_crystalshard": {
-            "name_identified": "crystal shard",
-            "name_unidentified": "crystal shard"
+            "name_identified": "krystalový úlomek",
+            "name_unidentified": "krystalový úlomek"
         },
         "crystal_sword": {
-            "name_identified": "crystal sword",
-            "name_unidentified": "crystal sword"
+            "name_identified": "krystalový meč",
+            "name_unidentified": "krystalový meč"
         },
         "crystal_spear": {
-            "name_identified": "crystal spear",
-            "name_unidentified": "crystal spear"
+            "name_identified": "krystalové kopí",
+            "name_unidentified": "krystalové kopí"
         },
         "crystal_battleaxe": {
-            "name_identified": "crystal axe",
-            "name_unidentified": "crystal axe"
+            "name_identified": "krystalová sekera",
+            "name_unidentified": "krystalová sekera"
         },
         "crystal_mace": {
-            "name_identified": "crystal mace",
-            "name_unidentified": "crystal mace"
+            "name_identified": "krystalový palcát",
+            "name_unidentified": "krystalový palcát"
         },
         "bronze_tomahawk": {
-            "name_identified": "bronze tomahawk",
-            "name_unidentified": "bronze tomahawk"
+            "name_identified": "bronzový tomahawk",
+            "name_unidentified": "bronzový tomahawk"
         },
         "iron_dagger": {
-            "name_identified": "iron dagger",
-            "name_unidentified": "iron dagger"
+            "name_identified": "železná dýka",
+            "name_unidentified": "železná dýka"
         },
         "steel_chakram": {
-            "name_identified": "steel chakram",
-            "name_unidentified": "steel chakram"
+            "name_identified": "ocelový chakram",
+            "name_unidentified": "ocelový chakram"
         },
         "crystal_shuriken": {
-            "name_identified": "crystal shuriken",
-            "name_unidentified": "crystal shuriken"
+            "name_identified": "krystalový shuriken",
+            "name_unidentified": "krystalový shuriken"
         },
         "cloak_black": {
-            "name_identified": "black cloak",
-            "name_unidentified": "black cloak"
+            "name_identified": "černý plášť",
+            "name_unidentified": "černý plášť"
         },
         "magicstaff_stoneblood": {
-            "name_identified": "magicstaff of stoneblood",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl kamenné krve",
+            "name_unidentified": "magická hůl"
         },
         "magicstaff_bleed": {
-            "name_identified": "magicstaff of bloodletting",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl krvácení",
+            "name_unidentified": "magická hůl"
         },
         "magicstaff_summon": {
-            "name_identified": "magicstaff of conjure skeleton",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl přivolání kostlivce",
+            "name_unidentified": "magická hůl"
         },
         "tool_blindfold_focus": {
-            "name_identified": "blindfold of free action",
-            "name_unidentified": "blindfold"
+            "name_identified": "páska přes oči volného pohybu",
+            "name_unidentified": "páska přes oči"
         },
         "tool_blindfold_telepathy": {
-            "name_identified": "blindfold of telepathy",
-            "name_unidentified": "blindfold"
+            "name_identified": "páska přes oči telepatie",
+            "name_unidentified": "páska přes oči"
         },
         "spellbook_summon": {
-            "name_identified": "spellbook of conjure skeleton",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha přivolání kostlivce",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_stoneblood": {
-            "name_identified": "spellbook of stoneblood",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha kamenné krve",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_bleed": {
-            "name_identified": "spellbook of bloodletting",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha krvácení",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_reflect_magic": {
-            "name_identified": "spellbook of reflect magic",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha odrazu magie",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_acid_spray": {
-            "name_identified": "spellbook of spray acid",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha kyselinové sprchy",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_steal_weapon": {
-            "name_identified": "spellbook of steal weapon",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha krádeže zbraně",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_drain_soul": {
-            "name_identified": "spellbook of drain soul",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha vysátí duše",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_vampiric_aura": {
-            "name_identified": "spellbook of vampiric aura",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha vampýří aury",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_charm": {
-            "name_identified": "spellbook of charm monster",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha okouzlení nestvůry",
+            "name_unidentified": "kouzelná kniha"
         },
         "potion_empty": {
-            "name_identified": "empty bottle",
-            "name_unidentified": "empty bottle"
+            "name_identified": "prázdná láhev",
+            "name_unidentified": "prázdná láhev"
         },
         "artifact_orb_blue": {
-            "name_identified": "blue mystic orb",
-            "name_unidentified": "blue mystic orb"
+            "name_identified": "modrá mystická koule",
+            "name_unidentified": "modrá mystická koule"
         },
         "artifact_orb_red": {
-            "name_identified": "red mystic orb",
-            "name_unidentified": "red mystic orb"
+            "name_identified": "červená mystická koule",
+            "name_unidentified": "červená mystická koule"
         },
         "artifact_orb_purple": {
-            "name_identified": "purple mystic orb",
-            "name_unidentified": "purple mystic orb"
+            "name_identified": "fialová mystická koule",
+            "name_unidentified": "fialová mystická koule"
         },
         "artifact_orb_green": {
-            "name_identified": "green mystic orb",
-            "name_unidentified": "green mystic orb"
+            "name_identified": "zelená mystická koule",
+            "name_unidentified": "zelená mystická koule"
         },
         "tunic": {
-            "name_identified": "tunic",
-            "name_unidentified": "tunic"
+            "name_identified": "tunika",
+            "name_unidentified": "tunika"
         },
         "hat_fez": {
             "name_identified": "fez",
             "name_unidentified": "fez"
         },
         "magicstaff_charm": {
-            "name_identified": "magicstaff of charm monster",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl okouzlení nestvůry",
+            "name_unidentified": "magická hůl"
         },
         "potion_polymorph": {
-            "name_identified": "potion of polymorph",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar proměny",
+            "name_unidentified": "lektvar"
         },
         "food_blood": {
-            "name_identified": "vial of blood",
-            "name_unidentified": "potion"
+            "name_identified": "flakon krve",
+            "name_unidentified": "lektvar"
         },
         "cloak_backpack": {
-            "name_identified": "backpack",
-            "name_unidentified": "backpack"
+            "name_identified": "batoh",
+            "name_unidentified": "batoh"
         },
         "tool_alembic": {
-            "name_identified": "alembic",
-            "name_unidentified": "alembic"
+            "name_identified": "alchymistická destilérna",
+            "name_unidentified": "alchymistická destilérna"
         },
         "potion_firestorm": {
-            "name_identified": "potion of firestorm",
-            "name_unidentified": "unstable potion"
+            "name_identified": "lektvar ohnivé bouře",
+            "name_unidentified": "nestabilní lektvar"
         },
         "potion_icestorm": {
-            "name_identified": "potion of icestorm",
-            "name_unidentified": "unstable potion"
+            "name_identified": "lektvar ledové bouře",
+            "name_unidentified": "nestabilní lektvar"
         },
         "potion_thunderstorm": {
-            "name_identified": "potion of thunderstorm",
-            "name_unidentified": "unstable potion"
+            "name_identified": "lektvar hromové bouře",
+            "name_unidentified": "nestabilní lektvar"
         },
         "potion_strength": {
-            "name_identified": "potion of strength",
-            "name_unidentified": "potion"
+            "name_identified": "lektvar síly",
+            "name_unidentified": "lektvar"
         },
         "suede_boots": {
-            "name_identified": "suede boots",
-            "name_unidentified": "suede boots"
+            "name_identified": "semišové boty",
+            "name_unidentified": "semišové boty"
         },
         "suede_gloves": {
-            "name_identified": "suede gloves",
-            "name_unidentified": "suede gloves"
+            "name_identified": "semišové rukavice",
+            "name_unidentified": "semišové rukavice"
         },
         "cloak_silver": {
-            "name_identified": "silver cloak",
-            "name_unidentified": "silver cloak"
+            "name_identified": "stříbrný plášť",
+            "name_unidentified": "stříbrný plášť"
         },
         "hat_hood_silver": {
-            "name_identified": "silver hood",
-            "name_unidentified": "silver hood"
+            "name_identified": "stříbrná kapuce",
+            "name_unidentified": "stříbrná kapuce"
         },
         "hat_hood_red": {
-            "name_identified": "red hood",
-            "name_unidentified": "red hood"
+            "name_identified": "červená kapuce",
+            "name_unidentified": "červená kapuce"
         },
         "silver_doublet": {
-            "name_identified": "silver doublet",
-            "name_unidentified": "silver doublet"
+            "name_identified": "stříbrný kabátec",
+            "name_unidentified": "stříbrný kabátec"
         },
         "spellbook_revert_form": {
-            "name_identified": "spellbook of revert form",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha návratu podoby",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_rat_form": {
-            "name_identified": "spellbook of rat form",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha krysí podoby",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_spider_form": {
-            "name_identified": "spellbook of arthropod form",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha členovcové podoby",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_troll_form": {
-            "name_identified": "spellbook of troll form",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha trollí podoby",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_imp_form": {
-            "name_identified": "spellbook of imp form",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha démonické podoby",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_spray_web": {
-            "name_identified": "spellbook of spray web",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha pavučinové sprchy",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_poison": {
-            "name_identified": "spellbook of poison",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha jedu",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_speed": {
-            "name_identified": "spellbook of speed",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha rychlosti",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_fear": {
-            "name_identified": "spellbook of fear",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha strachu",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_strike": {
-            "name_identified": "spellbook of power strike",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha mocného úderu",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_detect_food": {
-            "name_identified": "spellbook of detect food",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha detekce jídla",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_weakness": {
-            "name_identified": "spellbook of weakness",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha slabosti",
+            "name_unidentified": "kouzelná kniha"
         },
         "mask_shaman": {
-            "name_identified": "shaman mask",
-            "name_unidentified": "shaman mask"
+            "name_identified": "šamanova maska",
+            "name_unidentified": "šamanova maska"
         },
         "spellbook_amplify_magic": {
-            "name_identified": "spellbook of elemental focus",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha soustředění živlů",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_shadow_tag": {
-            "name_identified": "spellbook of arcane mark",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha mystického znaku",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_telepull": {
-            "name_identified": "spellbook of teleport other",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha teleportace jiných",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_demon_illu": {
-            "name_identified": "spellbook of inner demon",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha vnitřního démona",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_trolls_blood": {
-            "name_identified": "spellbook of troll's blood",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha trollí krve",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_salvage": {
-            "name_identified": "spellbook of salvage",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha recyklace",
+            "name_unidentified": "kouzelná kniha"
         },
         "tool_whip": {
-            "name_identified": "whip",
-            "name_unidentified": "whip"
+            "name_identified": "bič",
+            "name_unidentified": "bič"
         },
         "spellbook_flutter": {
-            "name_identified": "spellbook of flutter",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha třepotání",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_dash": {
-            "name_identified": "spellbook of dash",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha sprintu",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_self_polymorph": {
-            "name_identified": "spellbook of polymorph",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha proměny",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_9": {
-            "name_identified": "spellbook of 9",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha 9",
+            "name_unidentified": "kouzelná kniha"
         },
         "spellbook_10": {
-            "name_identified": "spellbook of 10",
-            "name_unidentified": "spellbook"
+            "name_identified": "kouzelná kniha 10",
+            "name_unidentified": "kouzelná kniha"
         },
         "magicstaff_poison": {
-            "name_identified": "magicstaff of poison",
-            "name_unidentified": "magicstaff"
+            "name_identified": "magická hůl jedu",
+            "name_unidentified": "magická hůl"
         },
         "tool_metal_scrap": {
-            "name_identified": "metal scrap",
-            "name_unidentified": "scrap"
+            "name_identified": "kovový šrot",
+            "name_unidentified": "šrot"
         },
         "tool_magic_scrap": {
-            "name_identified": "magic scrap",
-            "name_unidentified": "scrap"
+            "name_identified": "magický šrot",
+            "name_unidentified": "šrot"
         },
         "tool_tinkering_kit": {
-            "name_identified": "tinkering kit",
-            "name_unidentified": "tinkering kit"
+            "name_identified": "kutilská sada",
+            "name_unidentified": "kutilská sada"
         },
         "tool_sentrybot": {
-            "name_identified": "sentry bot",
-            "name_unidentified": "sentry bot"
+            "name_identified": "hlídací robot",
+            "name_unidentified": "hlídací robot"
         },
         "tool_detonated_charge": {
-            "name_identified": "detonator",
-            "name_unidentified": "detonator"
+            "name_identified": "detonátor",
+            "name_unidentified": "detonátor"
         },
         "tool_fire_bomb": {
-            "name_identified": "flame trap",
-            "name_unidentified": "trap"
+            "name_identified": "ohnivá past",
+            "name_unidentified": "past"
         },
         "tool_sleep_bomb": {
-            "name_identified": "sleep trap",
-            "name_unidentified": "trap"
+            "name_identified": "uspávací past",
+            "name_unidentified": "past"
         },
         "tool_freeze_bomb": {
-            "name_identified": "freeze trap",
-            "name_unidentified": "trap"
+            "name_identified": "mrazivá past",
+            "name_unidentified": "past"
         },
         "tool_teleport_bomb": {
-            "name_identified": "teleportation trap",
-            "name_unidentified": "trap"
+            "name_identified": "teleportační past",
+            "name_unidentified": "past"
         },
         "tool_gyrobot": {
             "name_identified": "gyrobot",
             "name_unidentified": "gyrobot"
         },
         "tool_spellbot": {
-            "name_identified": "spellbot",
-            "name_unidentified": "spellbot"
+            "name_identified": "kouzelný robot",
+            "name_unidentified": "kouzelný robot"
         },
         "tool_decoy": {
-            "name_identified": "noisemaker",
-            "name_unidentified": "noisemaker"
+            "name_identified": "hlučítko",
+            "name_unidentified": "hlučítko"
         },
         "tool_dummybot": {
-            "name_identified": "dummybot",
-            "name_unidentified": "dummybot"
+            "name_identified": "robotická loutka",
+            "name_unidentified": "robotická loutka"
         },
         "machinist_apron": {
-            "name_identified": "leather apron",
-            "name_unidentified": "apron"
+            "name_identified": "kožená zástěra",
+            "name_unidentified": "zástěra"
         },
         "enchanted_feather": {
-            "name_identified": "enchanted feather",
-            "name_unidentified": "feather"
+            "name_identified": "očarované pírko",
+            "name_unidentified": "pírko"
         },
         "punisher_hood": {
-            "name_identified": "executioner hood",
-            "name_unidentified": "hood"
+            "name_identified": "katova kapuce",
+            "name_unidentified": "kapuce"
         },
         "scroll_charging": {
-            "name_identified": "scroll of charging",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek nabití",
+            "name_unidentified": "svitek"
         },
         "quiver_silver": {
-            "name_identified": "quiver of silver ammo",
-            "name_unidentified": "quiver"
+            "name_identified": "toulec se stříbrnými střelami",
+            "name_unidentified": "toulec"
         },
         "quiver_pierce": {
-            "name_identified": "quiver of piercing ammo",
-            "name_unidentified": "quiver"
+            "name_identified": "toulec s pronikavými střelami",
+            "name_unidentified": "toulec"
         },
         "quiver_lightweight": {
-            "name_identified": "quiver of swift ammo",
-            "name_unidentified": "quiver"
+            "name_identified": "toulec s rychlými střelami",
+            "name_unidentified": "toulec"
         },
         "quiver_fire": {
-            "name_identified": "quiver of fire ammo",
-            "name_unidentified": "quiver"
+            "name_identified": "toulec s ohnivými střelami",
+            "name_unidentified": "toulec"
         },
         "quiver_heavy": {
-            "name_identified": "quiver of springshot ammo",
-            "name_unidentified": "quiver"
+            "name_identified": "toulec s pružinovými střelami",
+            "name_unidentified": "toulec"
         },
         "quiver_crystal": {
-            "name_identified": "quiver of crystal ammo",
-            "name_unidentified": "quiver"
+            "name_identified": "toulec s krystalovými střelami",
+            "name_unidentified": "toulec"
         },
         "quiver_hunting": {
-            "name_identified": "quiver of hunting ammo",
-            "name_unidentified": "quiver"
+            "name_identified": "toulec s loveckými střelami",
+            "name_unidentified": "toulec"
         },
         "longbow": {
-            "name_identified": "longbow",
-            "name_unidentified": "longbow"
+            "name_identified": "dlouhý luk",
+            "name_unidentified": "dlouhý luk"
         },
         "compound_bow": {
-            "name_identified": "compound bow",
-            "name_unidentified": "compound bow"
+            "name_identified": "kladkový luk",
+            "name_unidentified": "kladkový luk"
         },
         "heavy_crossbow": {
-            "name_identified": "arbalest",
-            "name_unidentified": "arbalest"
+            "name_identified": "těžká kuše",
+            "name_unidentified": "těžká kuše"
         },
         "boomerang": {
-            "name_identified": "boomerang",
-            "name_unidentified": "boomerang"
+            "name_identified": "bumerang",
+            "name_unidentified": "bumerang"
         },
         "scroll_conjurearrow": {
-            "name_identified": "scroll of conjure arrow",
-            "name_unidentified": "scroll"
+            "name_identified": "svitek přivolání šípu",
+            "name_unidentified": "svitek"
         },
         "monocle": {
-            "name_identified": "monocle",
-            "name_unidentified": "monocle"
+            "name_identified": "monokl",
+            "name_unidentified": "monokl"
         },
 		"tool_player_loot_bag": {
-            "name_identified": "death box",
-            "name_unidentified": "death box"
+            "name_identified": "smrtelná truhla",
+            "name_unidentified": "smrtelná truhla"
         },
 		"mask_bandit": {
-			"name_identified": "bandit mask",
-			"name_unidentified": "bandit mask"
+			"name_identified": "banditská maska",
+			"name_unidentified": "banditská maska"
 		},
 		"mask_eyepatch": {
-			"name_identified": "eyepatch",
-			"name_unidentified": "eyepatch"
+			"name_identified": "oční páska",
+			"name_unidentified": "oční páska"
 		},
 		"mask_masquerade": {
-			"name_identified": "masquerade mask",
-			"name_unidentified": "masquerade mask"
+			"name_identified": "maškarní maska",
+			"name_unidentified": "maškarní maska"
 		},
 		"mask_mouth_rose": {
-			"name_identified": "rose",
-			"name_unidentified": "rose"
+			"name_identified": "růže",
+			"name_unidentified": "růže"
 		},
 		"mask_golden": {
-			"name_identified": "golden mask",
-			"name_unidentified": "golden mask"
+			"name_identified": "zlatá maska",
+			"name_unidentified": "zlatá maska"
 		},
 		"mask_spooky": {
-			"name_identified": "spooky mask",
-			"name_unidentified": "spooky mask"
+			"name_identified": "strašidelná maska",
+			"name_unidentified": "strašidelná maska"
 		},
 		"mask_tech_goggles": {
-			"name_identified": "tech goggles",
-			"name_unidentified": "tech goggles"
+			"name_identified": "technické brýle",
+			"name_unidentified": "technické brýle"
 		},
 		"mask_hazard_goggles": {
-			"name_identified": "hazard goggles",
-			"name_unidentified": "hazard goggles"
+			"name_identified": "ochranné brýle",
+			"name_unidentified": "ochranné brýle"
 		},
 		"mask_phantom": {
-			"name_identified": "phantom mask",
-			"name_unidentified": "phantom mask"
+			"name_identified": "přízračná maska",
+			"name_unidentified": "přízračná maska"
 		},
 		"mask_pipe": {
-			"name_identified": "pipe",
-			"name_unidentified": "pipe"
+			"name_identified": "dýmka",
+			"name_unidentified": "dýmka"
 		},
 		"mask_grass_sprig": {
-			"name_identified": "sweetgrass sprig",
-			"name_unidentified": "sweetgrass sprig"
+			"name_identified": "snítka sladké trávy",
+			"name_unidentified": "snítka sladké trávy"
 		},
 		"mask_plague": {
-			"name_identified": "plague mask",
-			"name_unidentified": "plague mask"
+			"name_identified": "morová maska",
+			"name_unidentified": "morová maska"
 		},
 		"mask_mouthknife": {
-			"name_identified": "mouth knife",
-			"name_unidentified": "mouth knife"
+			"name_identified": "nůž v ústech",
+			"name_unidentified": "nůž v ústech"
 		},
 		"hat_silken_bow": {
-			"name_identified": "silken bow",
-			"name_unidentified": "silken bow"
+			"name_identified": "hedvábná mašle",
+			"name_unidentified": "hedvábná mašle"
 		},
 		"hat_plumed_cap": {
-			"name_identified": "plumed cap",
-			"name_unidentified": "plumed cap"
+			"name_identified": "čepice s chocholem",
+			"name_unidentified": "čepice s chocholem"
 		},
 		"hat_bycocket": {
-			"name_identified": "bycocket",
-			"name_unidentified": "bycocket"
+			"name_identified": "bikovský klobouk",
+			"name_unidentified": "bikovský klobouk"
 		},
 		"hat_tophat": {
-			"name_identified": "top hat",
-			"name_unidentified": "top hat"
+			"name_identified": "cylindr",
+			"name_unidentified": "cylindr"
 		},
 		"hat_bandana": {
-			"name_identified": "bandana",
-			"name_unidentified": "bandana"
+			"name_identified": "šátek",
+			"name_unidentified": "šátek"
 		},
 		"hat_circlet": {
-			"name_identified": "circlet",
-			"name_unidentified": "circlet"
+			"name_identified": "čelenka",
+			"name_unidentified": "čelenka"
 		},
 		"hat_crown": {
-			"name_identified": "crown",
-			"name_unidentified": "crown"
+			"name_identified": "koruna",
+			"name_unidentified": "koruna"
 		},
 		"hat_laurels": {
-			"name_identified": "laurels",
-			"name_unidentified": "laurels"
+			"name_identified": "vavřínový věnec",
+			"name_unidentified": "vavřínový věnec"
 		},
 		"hat_turban": {
 			"name_identified": "turban",
 			"name_unidentified": "turban"
 		},
 		"hat_crowned_helm": {
-			"name_identified": "crowned helmet",
-			"name_unidentified": "crowned helmet"
+			"name_identified": "korunovaná helma",
+			"name_unidentified": "korunovaná helma"
 		},
 		"hat_warm": {
-			"name_identified": "warm hat",
-			"name_unidentified": "warm hat"
+			"name_identified": "teplá čepice",
+			"name_unidentified": "teplá čepice"
 		},
 		"hat_wolf_hood": {
-			"name_identified": "wolf hood",
-			"name_unidentified": "wolf hood"
+			"name_identified": "vlčí kapuce",
+			"name_unidentified": "vlčí kapuce"
 		},
 		"hat_bear_hood": {
-			"name_identified": "bear hood",
-			"name_unidentified": "bear hood"
+			"name_identified": "medvědí kapuce",
+			"name_unidentified": "medvědí kapuce"
 		},
 		"hat_stag_hood": {
-			"name_identified": "stag hood",
-			"name_unidentified": "stag hood"
+			"name_identified": "jelenní kapuce",
+			"name_unidentified": "jelenní kapuce"
 		},
 		"hat_bunny_hood": {
-			"name_identified": "bunny hood",
-			"name_unidentified": "bunny hood"
+			"name_identified": "králičí kapuce",
+			"name_unidentified": "králičí kapuce"
 		},
 		"hat_bountyhunter": {
-			"name_identified": "bounty hunter's hat",
-			"name_unidentified": "bounty hunter's hat"
+			"name_identified": "klobouk lovce odměn",
+			"name_unidentified": "klobouk lovce odměn"
 		},
 		"hat_miter": {
-			"name_identified": "priestly miter",
-			"name_unidentified": "priestly miter"
+			"name_identified": "kněžská mitra",
+			"name_unidentified": "kněžská mitra"
 		},
 		"hat_headdress": {
-			"name_identified": "magus' headdress",
-			"name_unidentified": "magus' headdress"
+			"name_identified": "mágova čelenka",
+			"name_unidentified": "mágova čelenka"
 		},
 		"hat_chef": {
-			"name_identified": "chef's toque",
-			"name_unidentified": "chef's toque"
+			"name_identified": "kuchařská čepice",
+			"name_unidentified": "kuchařská čepice"
 		},
 		"helm_mining": {
-			"name_identified": "mining helmet",
-			"name_unidentified": "mining helmet"
+			"name_identified": "hornická helma",
+			"name_unidentified": "hornická helma"
 		},
 		"mask_steel_visor": {
-			"name_identified": "steel visor",
-			"name_unidentified": "steel visor"
+			"name_identified": "ocelový štít obličeje",
+			"name_unidentified": "ocelový štít obličeje"
 		},
 		"mask_crystal_visor": {
-			"name_identified": "crystal visor",
-			"name_unidentified": "crystal visor"
+			"name_identified": "krystalový štít obličeje",
+			"name_unidentified": "krystalový štít obličeje"
 		},
 		"mask_artifact_visor": {
 			"name_identified": "Valkyrie's Veil",
-			"name_unidentified": "artifact visor"
+			"name_unidentified": "artefaktový štít obličeje"
 		},
 		"hat_circlet_wisdom": {
-			"name_identified": "circlet of wisdom",
-			"name_unidentified": "circlet"
+			"name_identified": "čelenka moudrosti",
+			"name_unidentified": "čelenka"
 		},
 		"hat_hood_apprentice": {
-			"name_identified": "apprentice's hood",
-			"name_unidentified": "hood"
+			"name_identified": "učednická kapuce",
+			"name_unidentified": "kapuce"
 		},
 		"hat_hood_assassin": {
-			"name_identified": "assassin's hood",
-			"name_unidentified": "hood"
+			"name_identified": "vrahova kapuce",
+			"name_unidentified": "kapuce"
 		},
 		"hat_hood_whispers": {
-			"name_identified": "hood of whispers",
-			"name_unidentified": "hood"
+			"name_identified": "kapuce šepotů",
+			"name_unidentified": "kapuce"
 		},
 		"ring_resolve": {
-			"name_identified": "ring of resolve",
-			"name_unidentified": "ring"
+			"name_identified": "prsten odhodlání",
+			"name_unidentified": "prsten"
 		},
 		"cloak_guardian": {
-			"name_identified": "cloak of the guardian",
-			"name_unidentified": "cloak"
+			"name_identified": "plášť strážce",
+			"name_unidentified": "plášť"
 		},
 		"mask_marigold": {
-			"name_identified": "marigold",
-			"name_unidentified": "marigold"
+			"name_identified": "měsíček",
+			"name_unidentified": "měsíček"
 		}
     },
 	"spell_names": {
         "spell_forcebolt": {
-            "name": "Forcebolt"
+            "name": "Silový šíp"
         },
         "spell_magicmissile": {
-            "name": "Magic Missile"
+            "name": "Magická střela"
         },
         "spell_cold": {
-            "name": "Cold"
+            "name": "Mráz"
         },
         "spell_fireball": {
-            "name": "Fireball"
+            "name": "Ohnivá koule"
         },
         "spell_lightning": {
-            "name": "Lightning"
+            "name": "Blesk"
         },
         "spell_removecurse": {
-            "name": "Remove Curse"
+            "name": "Sejmutí kletby"
         },
         "spell_light": {
-            "name": "Light"
+            "name": "Světlo"
         },
         "spell_identify": {
-            "name": "Identify"
+            "name": "Identifikace"
         },
         "spell_magicmapping": {
-            "name": "Magic Mapping"
+            "name": "Magické mapování"
         },
         "spell_sleep": {
-            "name": "Sleep"
+            "name": "Spánek"
         },
         "spell_confuse": {
-            "name": "Confuse"
+            "name": "Zmatení"
         },
         "spell_slow": {
-            "name": "Slow"
+            "name": "Zpomalení"
         },
         "spell_opening": {
-            "name": "Opening"
+            "name": "Otevření"
         },
         "spell_locking": {
-            "name": "Locking"
+            "name": "Zamčení"
         },
         "spell_levitation": {
-            "name": "Levitation"
+            "name": "Levitace"
         },
         "spell_invisibility": {
-            "name": "Invisibility"
+            "name": "Neviditelnost"
         },
         "spell_teleportation": {
-            "name": "Teleportation"
+            "name": "Teleportace"
         },
         "spell_healing": {
-            "name": "Healing"
+            "name": "Léčení"
         },
         "spell_extrahealing": {
-            "name": "Extra Healing"
+            "name": "Masivní léčení"
         },
         "spell_cureailment": {
-            "name": "Cure Ailment"
+            "name": "Vyléčení nemocí"
         },
         "spell_dig": {
-            "name": "Dig"
+            "name": "Kopání"
         },
         "spell_summon": {
-            "name": "Conjure Skeleton"
+            "name": "Přivolání kostlivce"
         },
         "spell_stoneblood": {
-            "name": "Stone Blood"
+            "name": "Kamenná krev"
         },
         "spell_bleed": {
-            "name": "Bloodletting"
+            "name": "Krvácení"
         },
         "spell_dominate": {
-            "name": "Dominate"
+            "name": "Nadvláda"
         },
         "spell_reflect_magic": {
-            "name": "Reflect Magic"
+            "name": "Odraz magie"
         },
         "spell_acid_spray": {
-            "name": "Spray Acid"
+            "name": "Kyselinová sprcha"
         },
         "spell_steal_weapon": {
-            "name": "Steal Weapon"
+            "name": "Krádež zbraně"
         },
         "spell_drain_soul": {
-            "name": "Drain Soul"
+            "name": "Vysátí duše"
         },
         "spell_vampiric_aura": {
-            "name": "Vampiric Aura"
+            "name": "Vampýří aura"
         },
         "spell_charm": {
-            "name": "Charm Monster"
+            "name": "Okouzlení nestvůry"
         },
         "spell_revert_form": {
-            "name": "Revert Form"
+            "name": "Návrat podoby"
         },
         "spell_rat_form": {
-            "name": "Rat Form"
+            "name": "Krysí podoba"
         },
         "spell_spider_form": {
-            "name": "Arthropod Form"
+            "name": "Členovcová podoba"
         },
         "spell_troll_form": {
-            "name": "Troll Form"
+            "name": "Trollí podoba"
         },
         "spell_imp_form": {
-            "name": "Imp Form"
+            "name": "Démonická podoba"
         },
         "spell_spray_web": {
-            "name": "Spray Web"
+            "name": "Pavučinová sprcha"
         },
         "spell_poison": {
-            "name": "Poison"
+            "name": "Jed"
         },
         "spell_speed": {
-            "name": "Speed"
+            "name": "Rychlost"
         },
         "spell_fear": {
-            "name": "Fear"
+            "name": "Strach"
         },
         "spell_strike": {
-            "name": "Power Strike"
+            "name": "Mocný úder"
         },
         "spell_detect_food": {
-            "name": "Detect Food"
+            "name": "Detekce jídla"
         },
         "spell_weakness": {
-            "name": "Weakness"
+            "name": "Slabost"
         },
         "spell_amplify_magic": {
-            "name": "Elemental Focus"
+            "name": "Soustředění živlů"
         },
         "spell_shadow_tag": {
-            "name": "Arcane Mark"
+            "name": "Mystický znak"
         },
         "spell_telepull": {
-            "name": "Teleport Other"
+            "name": "Teleportace jiných"
         },
         "spell_demon_illu": {
-            "name": "Inner Demon"
+            "name": "Vnitřní démon"
         },
         "spell_trolls_blood": {
-            "name": "Troll's Blood"
+            "name": "Trollí krev"
         },
         "spell_salvage": {
-            "name": "Salvage"
+            "name": "Recyklace"
         },
         "spell_flutter": {
-            "name": "Flutter"
+            "name": "Třepotání"
         },
         "spell_dash": {
-            "name": "Dash"
+            "name": "Sprint"
         },
         "spell_self_polymorph": {
-            "name": "Polymorph"
+            "name": "Proměna"
         },
         "spell_crab_form": {
-            "name": "Arthropod Form"
+            "name": "Členovcová podoba"
         },
         "spell_crab_web": {
-            "name": "Spray Web"
+            "name": "Pavučinová sprcha"
 		},
 		"spell_ghost_bolt": {
-			"name": "Ghostbolt"
+			"name": "Přízračný šíp"
 		},
 		"spell_slime_acid": {
-			"name": "Slime Spray (Acid)"
+			"name": "Slizová sprcha (kyselina)"
 		},
 		"spell_slime_water": {
-			"name": "Slime Spray (Water)"
+			"name": "Slizová sprcha (voda)"
 		},
 		"spell_slime_fire": {
-			"name": "Slime Spray (Magma)"
+			"name": "Slizová sprcha (magma)"
 		},
 		"spell_slime_tar": {
-			"name": "Slime Spray (Tar)"
+			"name": "Slizová sprcha (dehet)"
 		},
 		"spell_slime_metal": {
-			"name": "Slime Spray (Metal)"
+			"name": "Slizová sprcha (kov)"
 		}
     }
 }
