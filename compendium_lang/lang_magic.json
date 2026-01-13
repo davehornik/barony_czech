@@ -1,171 +1,171 @@
 {
     "blessings": {
         "blurb": [
-            "In war, or in adventuring parties, those",
-            "who offer BLESSINGS are in high demand.",
-            "They benefit both the thaumaturgist, plus",
-            "nearby followers and allies.",
+            "Ve válce i mezi dobrodruhy jsou ti,",
+            "kdo nabízejí POŽEHNÁNÍ, velmi žádaní.",
+            "Prospívají jak samotnému thaumaturgovi,",
+            "tak i jeho společníkům a spojencům.",
             "",
-            "Some blessings have lasting effects."
+            "Některá požehnání mají trvalý efekt."
         ]
     },
     "contravention": {
         "blurb": [
-            "While most magic could be described as",
-            "breaking the rules of reality, the study",
-            "of CONTRAVENTION allows sorcerors to",
-            "change how rules effect one's self.",
-            "This requires ongoing magic energy to",
-            "sustain, but can be disabled at will."
+            "Zatímco většinu magie lze popsat jako",
+            "porušování pravidel reality, studium",
+            "KONTRAVERSE umožňuje čaroději měnit,",
+            "jak pravidla ovlivňují jeho samotného.",
+            "Vyžaduje to stálý přísun magické energie,",
+            "ale lze to kdykoliv vypnout."
         ]
     },
     "daimonia": {
         "blurb": [
-            "DAIMONIA is the craft of using magic to",
-            "tap into the will of spirits, compelling their",
-            "influence with transformative results.",
-            "Though shunned by civilized society,",
-            "some mystics claim that their own spirit",
-            "is incomplete without this communion."
+            "DAIMONIA je umění používat magii k",
+            "propojení s vůlí duchů a vynucovat si",
+            "jejich vliv s proměnlivými výsledky.",
+            "Ačkoliv je civilizovanou společností zavržená,",
+            "někteří mystici tvrdí, že bez tohoto spojení",
+            "je jejich vlastní duch neúplný."
         ]
     },
     "divinations": {
         "blurb": [
-            "DIVINATIONS grant access to hidden",
-            "knowledge, revealing information that",
-            "there may be no other way to know.",
+            "VĚŠTĚNÍ odhaluje skryté",
+            "znalosti a informace, ke kterým",
+            "by jinak nebyla žádná cesta.",
             "",
-            "Practicing thaumaturgists claim",
-            "that knowledge is power."
+            "Praktikující thaumaturgové tvrdí,",
+            "že znalost je moc."
         ]
     },
     "enchanted amulets": {
         "blurb": [
-            "AMULETS provide reactive benefits",
-            "to their wearer, often intervening",
-            "against harm a number of times",
-            "until their magic is spent.",
-            "Some amulets have the opposite objective.",
-            "It is wise to appraise before wearing."
+            "AMULETY poskytují nositeli reaktivní",
+            "výhody a často mu pomáhají odvrátit",
+            "nebezpečí, dokud se nevyčerpá",
+            "jejich magická síla.",
+            "Některé amulety mají opačný účel.",
+            "Je moudré je před nošením ohodnotit."
         ]
     },
     "enchanted feather": {
         "blurb": [
-            "The ENCHANTED FEATHER can be depleted to",
-            "restore spellbooks or inscribe magic words",
-            "onto a blank scroll.",
-            "Only those who know the magic",
-            "words can inscribe with purpose.",
-            "Depleted feathers may be recharged."
+            "KOUZELNÉ PERO lze vyčerpat k obnovení",
+            "kouzelnických knih nebo k zapsání",
+            "magických slov na prázdný svitek.",
+            "Pouze ti, kdo znají magická slova,",
+            "mohou záměrně zapisovat.",
+            "Vyčerpaná pera lze znovu nabít."
         ]
     },
     "enchanted rings": {
         "blurb": [
-            "Adventurers covet magical RINGS for",
-            "the passive magical benefits they",
-            "provide, with effects that range",
-            "from mild, to situational, to",
-            "extremely powerful.",
-            "Magical rings may change the world."
+            "Dobrodruzi touží po magických PRSTENECH",
+            "kvůli pasivním magickým výhodám,",
+            "které poskytují - s efekty od",
+            "mírných přes situační až",
+            "po nesmírně mocné.",
+            "Magické prsteny mohou změnit svět."
         ]
     },
     "evocation": {
         "blurb": [
-            "Sorcerors practice EVOCATION to conjure",
-            "energies and material using their minds.",
-            "Largely this is used to launch harmful",
-            "projectiles at enemies by adventurers,",
-            "many of which leave a lasting effect",
-            "that may continue to harm the target."
+            "Čarodějové praktikují EVOKACI k vyvolávání",
+            "energií a hmoty pomocí své mysli.",
+            "Dobrodruzi ji většinou využívají k vypouštění",
+            "škodlivých projektilů na nepřátele,",
+            "z nichž mnohé zanechávají trvalý efekt",
+            "a dále poškozují cíl."
         ]
     },
     "impeturia": {
         "blurb": [
-            "Mystics who practice IMPETURIA do so by",
-            "calling to the spirit of the object they",
-            "wish to manipulate, and compel it to alter",
-            "its state. Sorcerors attempting to do the",
-            "same thing with kinesis have so far been",
-            "unsuccessful."
+            "Mystici praktikující IMPETURII tak činí",
+            "voláním k duchu objektu, který chtějí",
+            "ovládnout, a nutí jej změnit svůj stav.",
+            "Čarodějové, kteří se o totéž pokusili",
+            "pomocí Kineze, zatím nebyli",
+            "úspěšní."
         ]
     },
     "kinesis": {
         "blurb": [
-            "Sorcerers practice KINESIS to move",
-            "things with their minds. While trying to",
-            "improve control and accuracy, they have",
-            "stumbled upon other innovations, but",
-            "precise manipulation remains difficult."
+            "Čarodějové praktikují KINEZI k pohybu",
+            "věcí pomocí mysli. Při snaze",
+            "zlepšit kontrolu a přesnost narazili",
+            "na jiné inovace, ale precizní",
+            "manipulace zůstává obtížná."
         ]
     },
     "magicstaffs": {
         "blurb": [
-            "These weapons allow any adventurer, no",
-            "matter how mundane, to fire magical spells.",
-            "",
-            "The color of the staff indicates",
-            "what kinds of spells it might contain.",
-            "The item always breaks when depleted."
+            "Tyto zbraně umožňují jakémukoliv",
+            "dobrodruhovi, i tomu nejprostšímu,",
+            "vystřelovat magická kouzla.",
+            "Barva hole naznačuje,",
+            "jaký druh kouzel může obsahovat.",
+            "Při vyčerpání se vždy rozbije."
         ]
     },
     "meditations": {
         "blurb": [
-            "A simple MEDITATION is most magicians'",
-            "first introduction to thaumaturgy.",
+            "Jednoduchá MEDITACE je pro většinu",
+            "kouzelníků první seznámení s thaumaturgií.",
             "",
-            "These spells require concentration to",
-            "sustain, and will only effect the caster,",
-            "but they can be dismissed at will."
+            "Tato kouzla vyžadují soustředění",
+            "k udržení, ovlivní pouze sesílatele,",
+            "ale lze je kdykoliv zrušit."
         ]
     },
     "miraculous feats": {
         "blurb": [
-            "Those in ancient times who performed",
-            "MIRACULOUS FEATS are the first known",
-            "thaumaturgists. Casting immediately",
-            "performs a single wonderous action.",
-            "It is taught that aligning one's self with",
-            "great purpose will yield these powers."
+            "Ti, kdo ve starých dobách vykonávali",
+            "ZÁZRAČNÉ ČINY, jsou první známí",
+            "thaumaturgové. Seslání okamžitě",
+            "vykoná jeden úžasný skutek.",
+            "Učí se, že sladění sebe sama se",
+            "vznešeným účelem přinese tyto síly."
         ]
     },
     "psianimus": {
         "blurb": [
-            "The most commonly practiced of the",
-            "mystic's arts, PSIANIMUS is the craft",
-            "of using magic to alter the mind of a",
-            "living (or unliving) target.",
-            "The effects are usually temporary,",
-            "otherwise its reputation might differ."
+            "Nejčastěji praktikované z mystických",
+            "umění, PSIANIMUS je řemeslo",
+            "používání magie ke změně mysli",
+            "živého (či neživého) cíle.",
+            "Efekty jsou obvykle dočasné,",
+            "jinak by jeho pověst mohla být jiná."
         ]
     },
     "sarkomancy": {
         "blurb": [
-            "Considered a forbidden and dark art by",
-            "the church, SARKOMANCY is the craft of",
-            "using magic to manipulate the body,",
-            "usually against unwilling targets.",
-            "Uses of this magic to benefit one's",
-            "own body are said to only be rumors."
+            "Církví považovaná za zakázané a temné",
+            "umění, SARKOMANCIE je řemeslo používání",
+            "magie k manipulaci s tělem, obvykle",
+            "proti neochotným cílům.",
+            "Využití této magie k posílení vlastního",
+            "těla prý existuje jen v pověstech."
         ]
     },
     "scrolls": {
         "blurb": [
-            "A scroll can be invoked by any adventurer",
-            "to spend its stored spell, however it is",
-            "immediately consumed upon use.",
-            "Some spells can only be found on scrolls.",
-            "Blank scrolls may later be inscribed,",
-            "with the right tools and knowledge."
+            "Svitek může použít jakýkoliv dobrodruh",
+            "k uvolnění uloženého kouzla, avšak",
+            "při použití se okamžitě spotřebuje.",
+            "Některá kouzla lze najít pouze na svitcích.",
+            "Prázdné svitky lze později zapsat,",
+            "s pravými nástroji a znalostmi."
         ]
     },
     "temulturgy": {
         "blurb": [
-            "Sometimes magic is needed that does",
-            "not simply hurl one force at another.",
-            "The study of TEMULTURGY is specialized",
-            "toward disrupting an object's structure.",
-            "So far sorcerors haven't figured out",
-            "how to practice this on living targets."
+            "Někdy je potřeba magie, která",
+            "jednoduše nemetá sílu proti síle.",
+            "Studium TEMULTURGIE se specializuje",
+            "na narušování struktury objektů.",
+            "Zatím čarodějové nepřišli na to,",
+            "jak toto praktikovat na živých cílích."
         ]
     }
 }
