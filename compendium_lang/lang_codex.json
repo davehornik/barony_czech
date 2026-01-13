@@ -1,73 +1,76 @@
 {
   "ac": {
     "blurb": [
-      "ARMOR CLASS (AC) snižuje poškození",
-      "z fyzických útoků o 1 bod za každý bod AC,",
-      "maximálně však o 75% celkového poškození.",
-      "Když se bráníš štítem, AC může snížit",
+      "ARMOR CLASS (AC) snižuje fyzické",
+      "poškození z útoků o 1 bod za každý bod AC,",
+      "maximálně však o 75% celkového poškození útoku.",
+      "Když blokuješ štítem, AC může snížit",
       "až 100% fyzického poškození."
     ],
     "details": [
-      "Hromadění co nejvíce AC ti může",
+      "Nasbírání co nejvyššího AC ti může",
       "dát pocit téměř neporazitelnosti,",
       "což je určitě velká výhoda.",
       "",
       "Nicméně nebezpečí z pastí, magie",
-      "a stavů nepříjemného charakteru zůstávají",
+      "a negativních status efektů zůstávají",
       "nedotčeny AC. Některé zbraně nepřátel",
-      "jsou speciálně navrženy tak, aby",
-      "prolomily zbroj.",
+      "jsou navrženy speciálně tak, aby",
+      "pronikly zbrojí.",
       "",
-      "Je rozumné neodsouvat AC stranou,",
+      "Je rozumné AC nezanedbávat,",
       "ale dávej pozor, abys nebyl příliš sebevědomý!"
     ],
     "details_line_highlights": []
   },
   "alchemy skill": {
     "blurb": [
-      "S pomocí alchýmického přístroje můžou alchymisté",
-      "připravovat nejrůznější lektvary, například nestálé",
-      "elixíry, které se zvyšují mocí s tvou dovedností.",
-      "Pití a hod lektvary také trénuje tuto dovednost."
+      "S pomocí alembiku můžou alchymisté",
+      "vařit mnoho druhů lektvarů, například nestabilní",
+      "lektvary, které sílí s úrovní skillu.",
+      "Pití a házení lektvarů také",
+      "trénuje tento skill."
     ],
     "details": [
-      "Sice můžeš něco získat pití a házením",
-      "lektvarů, ale alchýmie se skutečně",
-      "trénuje s pomocí alchýmického přístroje.",
+      "I když něco můžeš získat pítím",
+      "a házením lektvarů, alchemy skill",
+      "se skutečně trénuje pomocí",
+      "alembiku.",
       "",
-      "Kombinuj libovolnou primární ingredienci",
-      "se sekundární, aby vznikl nový recept.",
-      "Každý naučený recept zvyšuje dovednost.",
+      "Zkombinuj jakoukoliv primární ingredienci",
+      "se sekundární, abys vytvořil recept.",
+      "Každý naučený recept zlepšuje skill.",
       "",
-      "Sbírej prázdné lahvičky a čerpej vodu",
-      "z vodovodních kohoutků, protože potřebuješ",
-      "spousty vody na duplikaci,",
-      "což ti dává více možností řešit problémy",
-      "pomocí lektvarů."
+      "Schovávej prázdné lahvičky a čepuj vodu",
+      "z umyvadel, budeš potřebovat hodně",
+      "vody na duplikaci, což ti dává více",
+      "možností řešit problémy pomocí lektvarů."
     ],
     "details_line_highlights": []
   },
   "appraisal skill": {
     "blurb": [
-      "Každý dobrodruh vidí, co předmět je jen",
-      "pohledem, ale OHODNOCENÍ odhaluje detaily,",
-      "zejména magické. Čím cennější je předmět,",
-      "tím těžší je ho ohodnotit."
+      "Každý dobrodruh vidí, co předmět je,",
+      "pouhým pohledem, ale APPRAISAL odhaluje",
+      "detaily, zejména magické. Čím cennější",
+      "je předmět, tím těžší je ho",
+      "identifikovat."
     ],
     "details": [
-      "Ohodnocování levných věcí, jako",
-      "sýr nebo kožené vybavení, je obvykle",
-      "skvělé pro nováčka.",
+      "Identifikace levných předmětů, jako",
+      "sýr nebo kožené věci, je obvykle",
+      "skvělé pro trénink bez předchozí",
+      "praxe.",
       "",
       "Několik tříd začíná bez schopnosti",
-      "ohodnocování, díky velmi špatné",
+      "identifikovat, kvůli velmi nízké",
       "percepci.",
       "",
-      "Použití neidetifikovaných lektvarů nebo svitků",
-      "ti také může zvýšit dovednost ohodnocování,",
-      "až do úrovně Základní (20).",
+      "Použití neidentifikovaných lektvarů",
+      "nebo svitků může také zvýšit",
+      "appraisal skill, až do úrovně Basic (20).",
       "",
-      "Brýle ti také mohou pomoci."
+      "Brýle také mohou pomoci."
     ],
     "details_line_highlights": []
   },
@@ -75,169 +78,175 @@
     "blurb": [
       "Těžká sekera dává bonus ATK na dřevěné",
       "předměty, užitečné pro prolomení překážky",
-      "v nouzi, jako je zamčené dveře nebo",
-      "volný mimic.",
-      "Legenda v SEKERA SKILL vždy způsobí zpomalení",
-      "nepřátel při legendárním úderu."
+      "v nouzi, jako jsou zamčené dveře nebo",
+      "zbloudilý mimic.",
+      "Legenda v AXE SKILLU vždy způsobí zpomalení",
+      "nepříteli při legendary strike."
     ],
     "details": [
-      "Sekery jsou spolehlivá, byť nespecializovaná",
-      "volba, s málo nepřáteli, kteří by mohli",
-      "podstatně odolávat její těžké čepeli.",
+      "Sekery jsou spolehlivá, i když",
+      "nespecializovaná volba, s málo",
+      "nepřáteli, kteří by dokázali výrazně",
+      "odolat její mohutné čepeli.",
       "",
-      "Její síla hacků poskytuje přidaný bod",
-      "zaručeného poškození, což ji dělá skvělou",
-      "pro obecné vražení a postupné oslabování",
-      "zbroj nosících nepřátel."
+      "Její sečná síla poskytuje extra",
+      "bod garantovaného poškození, což",
+      "z ní dělá skvělou volbu pro běžné",
+      "zabíjení a okusování obrněných nepřátel."
     ],
     "details_line_highlights": []
   },
   "backstabs": {
     "blurb": [
-      "Chceš-li backstab nepřítele, zaútoč na něj",
-      "zblízka zezadu, když si tebe neuvědomuje.",
-      "Budou si tě neuvědomovat žádné hrozby.",
-      "Udělíš větší poškození. Pokud nepřítele zabíješ",
-      "tímto úderem, počítá se to jako vražda!"
+      "K backstabnutí nepřítele ho zaútoč zblízka",
+      "zezadu, když si není vědom",
+      "žádné hrozby, čímž způsobíš větší poškození.",
+      "Pokud nepřítele zabij tímto úderem,",
+      "počítá se to jako assassination!"
     ],
     "details": [
-      "Můžeš utéct z těžšího boje a vrátit se",
-      "k svojí kořisti poté, co si tebe",
-      "ztratila z dohledu. Pokud tak učiníš,",
-      "dostaneš další šanci na backstab poškození",
-      "a vraždu nepřátel, jejichž zdraví by jinak",
-      "bylo příliš velké na zvládnutí",
-      "v jednom boji.",
+      "Můžeš utéct z těžkého boje",
+      "a vrátit se ke své kořisti poté, co",
+      "tě ztratila z dohledu. Tímto získáš",
+      "další šanci způsobit backstab poškození",
+      "a assassinovat nepřátele, jejichž",
+      "HP by jinak bylo příliš velké na to,",
+      "abys je zvládl v jednom boji.",
       "",
-      "Zvažuj použití quickturnu",
-      "pro nejrychlejší útěk!"
+      "Zvaž použití quickturn",
+      "pro co nejrychlejší útěk!"
     ],
     "details_line_highlights": []
   },
   "blocking": {
     "blurb": [
-      "Když drží štít nebo pochodeň v levé ruce,",
-      "dobrodruzi mohou odrážet příchozí fyzické",
-      "útoky, ale předmět se může poškodit.",
-      "Vyšší dovednost zlepšuje množství",
-      "odrazeného poškození."
+      "Když drží štít nebo pochodeň",
+      "v druhé ruce, dobrodruzi mohou odrazit",
+      "přicházející fyzické útoky, ale předmět",
+      "může být poškozen. Vyšší skill zlepšuje",
+      "množství odraženého poškození."
     ],
     "details": [
-      "Zatímco se bráníš, dobrodruh může",
-      "odrážet útoky ze všech stran.",
-      "Pokud se rozhodneš, že musíš utéct,",
-      "blok zpoza zad ti může zachránit život",
-      "při ústupu!",
+      "Při blokování může dobrodruh",
+      "odrazit útoky ze všech stran.",
+      "Pokud se rozhodneš utéct, blokování",
+      "za zády ti může zachránit",
+      "život během ústupu!",
       "",
-      "I když je obvykle dobrá myšlenka",
-      "bránit se proti každému melee útoku,",
-      "pokračování v útoku a pohltnutí",
-      "neblokovaného zásahu může znamenat",
-      "menší celkové poškození.",
+      "Ačkoliv je obvykle dobrý nápad",
+      "blokovat každý útok na blízko, pokračování",
+      "v útoku a snese si neblokovaný",
+      "úder může vést k menšímu celkovému poškození.",
       "",
-      "Pamatuj, AC neblokuje poškození kouzel,",
-      "takže se brap jen proti magii,",
-      "pokud má tvůj štít zvláštní vlastnosti."
+      "Pamatuj, AC neblokuje magické",
+      "poškození, takže blokuj proti magii",
+      "jen pokud tvůj štít má speciální vlastnosti."
     ],
     "details_line_highlights": []
   },
   "blocking skill": {
     "blurb": [
-      "BLOCKING SKILL poskytuje přidanou zbroj",
-      "při používání štítu, i když se nebráníš.",
-      "Legendy v blocking skill mohou odrážet údery",
-      "bez poškozování předmětu používaného k obraně."
+      "BLOCKING SKILL poskytuje dodatečné brnění,",
+      "když držíš štít, i když zrovna neblokuješ.",
+      "Legendy v blocking skillu mohou",
+      "odrazit útoky bez poškození předmětu",
+      "použitého k blokování."
     ],
     "details": [
-      "Chceš-li zlepšit svou obranu, klíčem",
-      "je cvičení.",
+      "Když chceš zlepšit své schopnosti",
+      "blokování, klíčem je praxe.",
       "",
-      "Vyhni se rychlým zabijackým boji",
-      "a měj náhradní štíty, aby jsi mohl",
-      "blokovat co nejčastěji, než zvítězíš",
-      "nad nepřítelem, bez ohrožení sebe.",
+      "Vyhýbej se rychlým zabíjením a měj záložní",
+      "štíty, abys mohl blokovat co nejvíckrát",
+      "před poražením nepřítele,",
+      "aniž bys se ohrozil.",
       "",
-      "Trénování blocking skill s pochodní",
-      "tě může dovést maximálně na skill 40.",
-      "Poté je potřeba štít, aby jsi postoupil dál."
+      "Trénink block skillu s pochodní může",
+      "dobrodruh dotáhnout maximálně",
+      "na skill 40. Potom je potřeba štít",
+      "pro další postup."
     ],
     "details_line_highlights": []
   },
   "casting skill": {
     "blurb": [
-      "Vylepšování CASTING SKILL snižuje šanci,",
-      "že se kouzlo nepodaří, a zvyšuje MP RGN.",
-      "Když dosáhneš legendární casting,",
-      "získáš kouzlo forcebolt jako cantrip."
+      "Zlepšování CASTING SKILLU snižuje",
+      "šanci, že kouzlo selže, a zvyšuje",
+      "MP RGN. Po dosažení legendary casting",
+      "získá dobrodruh kouzlo forcebolt",
+      "jako cantrip."
     ],
     "details": [
-      "Když je tvá casting skill nízká, kouzlení",
+      "Když je tvůj casting skill nízký, sesílání",
       "levných kouzel bude nejspolehlivější",
       "cestou k růstu.",
       "",
       "Může být lákavé seslat velké kouzlo,",
-      "ale může to selhat a okrást tě o spoustu",
-      "příležitostí seslat více levnějších kouzel",
-      "vyprázdněním tvého MP/EN/ST."
+      "ale může selhat a připravit tě o mnoho",
+      "šancí seslat víc levnějších kouzel",
+      "tím, že vyprázdní tvé MP/EN/ST zásoby."
     ],
     "details_line_highlights": []
   },
   "chr": {
     "blurb": [
-      "Každý bod v CHARISMU (CHR) zlepšuje",
-      "obchodní sazby s obchodníky. Také",
-      "zlepšuje rychlost následovníků, leadership skill",
-      "a kouzla založená na charismu."
+      "Každý bod v CHARISMA (CHR) zlepšuje",
+      "ceny při obchodování s obchodníky. Také",
+      "zlepšuje rychlost followerů, leadership skill",
+      "a kouzla založená na charisma."
     ],
     "details": [
-      "Místo toho, aby ses dostala do nebezpečí,",
-      "dobrodruh s vysokým CHARISMA má možnosti",
-      "nechat si \"špinavou práci\" udělat někým jiným.",
+      "Místo toho, aby se člověk vystavoval",
+      "nebezpečí, dobrodruh s vysokým",
+      "CHR má možnosti nechat",
+      "někoho jiného dělat tu špinavou práci.",
       "",
-      "Charismatická bůhyně leadership skill,",
-      "vysoké CHR může vyrovnat nezkušenost",
-      "a dát ti časný přístup k příkazům",
-      "následovníků a silnějším kouzlům kouzlem.",
+      "CHR je patron stat leadership skillu,",
+      "vysoké CHR může kompenzovat nedostatek zkušeností,",
+      "umožňuje dřívější přístup k commandům followerů",
+      "a silnější charm kouzla.",
       "",
-      "Také zlepšuje trading skill,",
-      "neměl by sis podceňovat hodnotu",
-      "lepších jednání s obchody.",
-      "Časný přístup k privátnímu inventáři obchodníka",
-      "může znamenat rozdíl mezi skvělým",
-      "dobrodružstvím a zoufale slabým."
+      "Také zlepšuje trade skill, člověk",
+      "by neměl podceňovat hodnotu",
+      "lepších obchodů s obchody.",
+      "Získání dřívějšího přístupu k soukromému",
+      "skladu obchodníka může znamenat rozdíl",
+      "mezi skvělým dobrodružstvím a",
+      "zoufalým."
     ],
     "details_line_highlights": []
   },
   "class": {
     "blurb": [
-      "Třída postavy určuje její startovní dovednosti,",
-      "HP a MP/EN/ST, vybavení a kouzla,",
-      "statistiky a pravděpodobnost, že se každá",
-      "statistika zvýší při level up."
+      "Třída postavy určuje její",
+      "počáteční skills, HP a MP/EN/ST,",
+      "vybavení a kouzla, staty a",
+      "pravděpodobnost zvýšení každého statu",
+      "při levelování."
     ],
     "details": [
-      "Zatímco se mnoho dobrodruhů daří",
-      "hrát podle svých silných stránek,",
-      "někteří se darí kompenzací jejich slabostí.",
+      "Zatímco většina dobrodruhů najde úspěch",
+      "hraním podle svých silných stránek, někteří prosperují",
+      "vyrovnáváním svých slabých stránek.",
       "",
       "Vynalézavost může být důležitější",
-      "než surová schopnost, v závislosti",
+      "než hrubá schopnost, záleží",
       "na situaci.",
       "",
-      "Když tvoříš skupinu, spolupracuj",
+      "Když tvoříš partu, spolupracujte",
       "na výběru tříd, které pokryjí",
-      "slabosti jeden druhého, nebo",
-      "zesílí společné silné stránky."
+      "vzájemné slabiny, nebo",
+      "posílí sdílené přednosti."
     ],
     "details_line_highlights": []
   },
   "classes list": {
     "blurb": [
-      "Dobrodruhi se mohou přizpůsobovat",
-      "během postupu, přijímající dovednosti",
-      "a vybavení podle výzev dungeonu.",
-      "Přesto je volba třídy základem",
-      "silného startu a pokračujícího růstu."
+      "Dobrodruzi se mohou přizpůsobit při postupu,",
+      "osvojovat si skills a používat vybavení podle toho,",
+      "jak to výzvy dungeonu vyžadují.",
+      "Přesto je výběr třídy zásadní pro",
+      "silný start a pokračující růst."
     ],
     "details": [
       ""
@@ -246,46 +255,48 @@
   },
   "con": {
     "blurb": [
-      "Každý bod CONSTITUTION (CON) přidá",
-      "přirozenou zbroj (AC). Ti s vysokou",
-      "konstitucí se mohou zotavit z negativních",
-      "stavů rychleji a obnovit více zdraví",
-      "při léčení."
+      "Každý bod CONSTITUTION (CON) přidává",
+      "přirozené brnění (AC). Ti s vysokou",
+      "constitutionem se mohou zotavit z negativních",
+      "status efektů rychleji a obnovit",
+      "více zdraví při léčení."
     ],
     "details": [
-      "Třídy se silným CON růstem si mohou",
-      "dovolit rozhodování o vybavení",
-      "podle benefitů bez závislosti na AC.",
+      "Třídy se silným CON růstem se mohou",
+      "rozhodovat o vybavení na základě benefitů",
+      "bez závislosti na přidaném AC.",
       "",
-      "Ti s nízkým AC si mohou preferovat",
-      "zbroj a efekty ochrany.",
+      "Ti s nízkým AC mohou preferovat",
+      "prioritizaci brnění a ochranných",
+      "efektů.",
       "",
-      "V obou případech zůstává AC důležité",
-      "pro zajištění, že neutrpíš příliš",
-      "velkému poškození, když tě fyzičtí",
-      "nepřátelé zasáhnou."
+      "V obou případech AC zůstává důležité",
+      "pro ujištění, že nedostáváš příliš",
+      "mnoho poškození, když tě zasáhne fyzický",
+      "útok nepřátel."
     ],
     "details_line_highlights": []
   },
   "crits": {
     "blurb": [
-      "Při melee útoku si nabij útok, dokud",
-      "se ti ruka nezačne třást napětím.",
-      "Uvolnění útoku v kterémkoli bodě",
-      "poté způsobí CRITICAL STRIKE,",
+      "Když útočíš na blízko, nabij",
+      "útok, dokud ti ruka nezačne třást",
+      "napětím. Vypuštění útoku kdykoli",
+      "poté bude mít za následek CRITICAL STRIKE,",
       "který způsobí dodatečné poškození!"
     ],
     "details": [
-      "Tvůj útok získá výhodu critical strike",
-      "v okamžiku, kdy se tvá zbraň začne",
-      "třást.",
+      "Tvůj útok získá benefit critical strike",
+      "v okamžiku, kdy se tvoje",
+      "zbraň začne třást.",
       "",
-      "Načasuj uvolnění tak, aby se shodovalo",
-      "s tvým přístupem k cíli. To je ještě",
-      "účinnější, pokud je nepřítel zády.",
+      "Načasuj vypuštění podle tvého",
+      "přiblížení k cíli. Je to ještě",
+      "efektivnější, pokud má nepřítel",
+      "otočená záda.",
       "",
-      "Není obvykle dobrý nápad",
-      "pokračovat v prováděnín critical striků",
+      "Obvykle není dobrý nápad",
+      "pokračovat v provádění critical strikes",
       "uprostřed boje."
     ],
     "details_line_highlights": []
@@ -293,345 +304,342 @@
   "dex": {
     "blurb": [
       "Každý bod DEXTERITY (DEX) zlepšuje",
-      "potenciální rychlost pohybu dobrodruha",
-      "a zvyšuje sílu ranged útoku (ATK)."
+      "potenciální rychlost pohybu dobrodruhaa",
+      "vylepšuje ranged útok (ATK) sílu."
     ],
     "details": [
       "Zatímco každá postava může těžit",
       "ze zvýšené rychlosti pohybu,",
-      "postavy, které upřednostňují ranged",
-      "útoky, těží z DEX nejvíce.",
+      "postavy, které preferují ranged",
+      "útoky, budou těžit z DEX nejvíce.",
       "",
-      "Zručnost zlepšuje ranged útoky,",
-      "ale zvýšená rychlost také doplňuje",
-      "skirmishing. Rychlý dobrodruh snáze",
-      "zůstane mimo dosah nepřítele,",
-      "převyšuje pasti a vyhýbá se projektilům",
-      "házaným nepřáteli.",
+      "Dexterity zlepšuje ranged útoky,",
+      "ale zlepšená rychlost také doplňuje",
+      "skirmishing. Rychlý dobrodruh může",
+      "snadněji zůstat mimo dosah nepřátel,",
+      "utéct pastím a uhnout projektilům",
+      "vrženým nepřáteli.",
       "",
-      "Když se potřebuješ pohybovat nízko",
-      "na nohou, DEX je nezbytné!"
+      "Když potřebuješ zůstat pohyblivý,",
+      "DEX je nezbytný!"
     ],
     "details_line_highlights": []
   },
   "equipment degradation": {
     "blurb": [
-      "Většina předmětů má šanci na degradaci",
-      "při použití, ať už hit v zbroji,",
-      "vynakládání náboje na magický předmět,",
-      "nebo útok zbraní. Degradované předměty",
-      "mohou fungovat hůř než čistý originál."
+      "Většina předmětů má šanci se zhoršit při",
+      "použití, ať už při přijetí zásahu ve zbroji,",
+      "vyčerpání náboje na magickém předmětu nebo",
+      "útoku se zbraní. Zhoršené předměty",
+      "mohou fungovat hůř než nové."
     ],
     "details": [
-      "Příležitosti k opravě vybavení mohou",
-      "být vzácné nebo drahé, a prasknutí",
-      "vybavení uprostřed boje může být",
-      "smrtelné.",
+      "Příležitosti k opravě vybavení",
+      "mohou být vzácné nebo drahé",
+      "a rozbitíEquipmentu uprostřed",
+      "boje může být smrtící.",
       "",
-      "Pravidelná výměna vybavení za předměty",
-      "v lepšímu stavu je obvykle dobrá myšlenka.",
+      "Pravidelná výměna tvého vybavení",
+      "za předměty v lepším stavu",
+      "je obvykle dobrý nápad.",
       "",
-      "Zatímco opraváři nejsou běžní zedníci,",
-      "ti, kdo jsou velmi zruční, mohou mít",
-      "schopnost opravit předměty za cenu.",
-      "Svitek opravy, byť vzácný, je",
-      "spolehlivější pro většinu dobroduhů."
+      "Ačkoliv kutil nejsou kováři,",
+      "ti velmi zkušení mohou být",
+      "schopni opravit předměty za cenu.",
+      "Scrolly of repair, i když vzácné, jsou",
+      "spolehlivější pro většinu dobrodruhů."
     ],
     "details_line_highlights": []
   },
   "flanking": {
     "blurb": [
-      "Pokud je nepřítel zabsorbován boji",
+      "Pokud je nepřítel zaneprázdněn v boji",
       "proti jinému nepříteli, má těžší",
-      "se bránit! Zaútočit zezadu, aby si",
-      "získal dodatečné flanking poškození."
+      "se bránit! Zaútoč zezadu",
+      "pro získání dodatečného flanking poškození."
     ],
     "details": [
-      "Zatímco je nepřítel zaměřen",
-      "na někoho jiného, rychlý útok může být",
-      "nejlepší způsob, jak porazit cíl,",
-      "čerpajícím plnou výhodu z dodatečného",
+      "Zatímco je nepřítel soustředěný na někoho",
+      "jiného, rychlé útoky mohou být",
+      "nejlepší způsob, jak srazit tvůj cíl,",
+      "plně využívající extra",
       "flanking poškození.",
       "",
-      "Když bojuješ sám, neočekávej spoustu",
-      "příležitostí na flanking. Ale když",
-      "dobrodružíš se spojenci nebo následovníky,",
-      "jeden člen skupiny velmi často získává",
-      "flanking benefity!"
+      "Když bojuješ sólo, neočekávej mnoho",
+      "příležitostí k flankování. Ale když",
+      "dobrodružíš se spojenci nebo followery,",
+      "jeden člen party velmi",
+      "často získává flanking benefity!"
     ],
     "details_line_highlights": []
   },
   "hp": {
     "blurb": [
-      "HEALTH POINTS (HP) měří vitalitu sužitele,",
-      "přičemž každý bod poškození odstraní 1 HP",
-      "a každý bod léčení obnoví 1 HP.",
-      "Sužitel je zabit, když se jeho HP",
-      "sníží na 0 nebo méně."
+      "HEALTH POINTS (HP) měří",
+      "vitalitu, kde každý bod poškození",
+      "odebere 1 HP a každý bod léčení",
+      "obnoví 1 HP. Jsi zabit, když",
+      "tvé HP klesne na 0 nebo méně."
     ],
     "details": [
-      "Zatímco se maximální HP sužitele",
-      "během dobrodružství zvyšuje, jak se",
-      "zvyšuje level, jejich regenerace HP",
-      "se obvykle nezvyšuje.",
+      "Zatímco se tvé maximální HP",
+      "výrazně zvyšuje během dobrodružství",
+      "s levelováním, tvá HP",
+      "regenerace se obecně nezvýší.",
       "",
       "Výsledkem je, že je důležité pokračovat",
-      "v minimalizaci ztráty HP v setkání",
-      "a nabýt prostředků na obnovu HP",
-      "k zotavení se z větších zranění."
+      "v minimalizaci ztráty HP v soubojích",
+      "a získat prostředky k obnově HP",
+      "pro zotavení se z větších šrámů."
     ],
     "details_line_highlights": []
   },
   "int": {
     "blurb": [
       "Každý bod INTELLIGENCE (INT) zlepšuje",
-      "magickou sílu a MP regeneraci",
-      "v procentu. Také přispívá k magickým",
-      "dovednostem, což umožňuje zapamatovat",
-      "si obtížnější kouzla."
+      "magickou sílu a MP regeneraci o",
+      "procento. Také přispívá k magickým",
+      "skillům, umožňující zapamatovat si",
+      "obtížnější kouzla."
     ],
     "details": [
-      "INT je skvělý pro zlepšování magické",
-      "schopnosti obecně, zvyšuje RGN a PWR,",
-      "a usnadňuje učení kouzel.",
+      "INT je skvělý pro zlepšení magických schopností",
+      "obecně, vylepšování RGN a PWR,",
+      "a usnadňování učení kouzel.",
       "",
-      "Nicméně výběr předmětů, které",
-      "přímo zvyšují RGN nebo PWR, mohou",
-      "dát lepší výsledky než surový INT",
-      "pro zaměřené kouzelníky."
+      "Nicméně výběr předmětů, které přímo",
+      "zvyšují RGN nebo PWR, může přinést lepší",
+      "výsledky než samotný INT pro zaměřené",
+      "spellcastery."
     ],
     "details_line_highlights": []
   },
   "leadership skill": {
     "blurb": [
-      "Netrénovaný dobrodruh může stále",
-      "shromažďovat čtyři následovníky, ale nebudou",
-      "schopni příliš jim командuat. Vyšší",
-      "úrovně LEADERSHIP SKILL dávají přístup",
-      "mnoha užitečným příkazům."
+      "Netrénovaný dobrodruh může stále shromáždit",
+      "čtyři followery, ale nebude je schopen",
+      "commandovat k mnoha akcím. Vyšší úrovně",
+      "LEADERSHIP SKILLU poskytují přístup k mnoha",
+      "užitečným commandům."
     ],
     "details": [
-      "Sčítání a verbování následovníků",
-      "se mohou stát docela silní, pokud",
-      "jsou pěstovány. Nech je dostat poslední",
-      "úder na nepřítele a uvidíš jejich",
-      "důvěru (a jejich úrovně) prudce",
-      "vzestupovat!",
+      "Summoni a naverbovaní followeré mohou",
+      "být docela silní, pokud je pečuješ.",
+      "Nech je dát poslední úder na",
+      "nepřátele a uvidíš, jak jejich",
+      "sebevědomí (a jejich levely) vzrostou",
+      "dramaticky!",
       "",
-      "Vybav je ranged vybavením, měj připravená",
-      "léčivá kouzla a rozptyluj/mate nepřátele",
-      "aby byli tvoji věrní následovníci v bezpečí!",
+      "Vybaví je ranged vybavením,",
+      "měj u sebe léčící kouzla",
+      "a rozptyluj / zmateš nepřátele, abys udržel",
+      "své věrné followery v bezpečí!",
       "",
-      "Noš korunu a inspiruj je dále",
-      "s různými benefity pro následovníky."
+      "Nos korunu, abys je dále inspiroval",
+      "s různými follower benefity."
     ],
     "details_line_highlights": []
   },
   "legendary strikes": {
     "blurb": [
-      "Pokud dobrodruh s LEGENDARY melee skill",
-      "drží critical strike, dokud se neuvolní",
-      "sám od sebe, může získat dodatečný",
-      "stavový efekt proti své oběti.",
-      "Efekt závisí na zbraní."
+      "Pokud dobrodruh s LEGENDARY melee",
+      "skillem drží critical strike, dokud",
+      "se neuvolní samo, může získat",
+      "dodatečný status efekt proti své",
+      "oběti. Efekt závisí na zbrani."
     ],
     "details": [
-      "Nabytí dostatku skill bodů k dosažení",
-      "legendy v melee skill mohou být triky.",
+      "Získání dostatečných skill pointů k dosažení",
+      "legend v melee skillu může být složité.",
       "",
-      "Pokud jsi dost odolný, vyhni se",
-      "critical striků, aby jsi mohl mít",
-      "více úderů, což ti dává více",
-      "příležitostí zvýšit svou skill zbraně.",
+      "Pokud jsi dostatečně odolný, vyhýbej se",
+      "critical strikes, abys dostal víc",
+      "zásahů, což ti dá více šancí",
+      "zvýšit tvůj weapon skill.",
       "",
-      "Pokud je legendární skill vyvinut,",
-      "může být dostupný pro záchranu tvého",
-      "života proti nejzatvrdlejším nepřátelům."
+      "Pokud je legendary skill vyvinutý,",
+      "může ti zachránit život",
+      "proti nejsilnějším nepřátelům dungeonu."
     ],
     "details_line_highlights": []
   },
   "leveling up": {
     "blurb": [
-      "Kdykoliv postava nabere 100 XP,",
-      "její level se zvýší! Při levelu up",
-      "každá postava obdrží následující:",
-      "+5 Max HP, +5 Max MP,",
-      "a zvýšení 3 různých statistik."
+      "Kdykoli postava získá 100 XP,",
+      "její level se zvýší! Při levelování",
+      "každá postava obdrží",
+      "následující: +5 Max HP, +5 Max MP",
+      "a zvýšení 3 různých statů."
     ],
     "details": [
-      "Každá dovednost je založena na statistice.",
+      "Každý skill je založen na statu.",
       "",
-      "Pokud se statistika zvýší při levelu up",
-      "a dovednosti spojené s touto statistikou",
-      "byly dobře cvičeny, zvýšení může být",
-      "o +2 body místo +1.",
+      "Pokud se stat zvýší při levelování",
+      "a skills spojené s tímto statem",
+      "byly dobře trénovány, zvýšení",
+      "může být o +2 body místo +1.",
       "",
-      "Používej dovednosti zarovnané s růstem",
-      "tvé třídy, abys maximalizoval levely up."
+      "Používej skills spojené s růstem statů tvé třídy",
+      "pro maximalizaci tvých level-upů."
     ],
     "details_line_highlights": []
   },
   "mace skill": {
     "blurb": [
-      "Bití nepřátel kyjem jejich může lépe",
-      "rozbít zbroj než jinými zbraněmi.",
-      "Legenda v MACE SKILL způsobuje větší poškození",
-      "a má šanci na paralýzu s legendary úderem."
+      "Mlácení nepřátel palcátem může zlomit",
+      "jejich zbroj více než jinými zbraněmi.",
+      "Legenda v MACE SKILLU způsobuje více poškození",
+      "a má šanci způsobit paralýzu",
+      "legendary strikem."
     ],
     "details": [
-      "Neboj se vzít a používat kyj brzy",
-      "v dungeonech, zejména pokud používáš",
-      "ranged zbraně, magii nebo meče.",
+      "Neboj se vzít a použít",
+      "palcát brzy v dungeonech, zejména",
+      "pokud používáš ranged zbraně, magii",
+      "nebo meče.",
       "",
-      "Jeho účinnost na rozdrcování nemrtvých",
-      "ti velmi dobře pomůže zůstat naživu",
-      "dost dlouho, aby si jsi stal mistrem",
-      "v jiných uměních."
+      "Jeho efektivita při drcení nemrtvých",
+      "ti může velmi dobře pomoci přežít dostatečně",
+      "dlouho, abys se stal mistrem v jiných",
+      "uměních."
     ],
     "details_line_highlights": []
   },
   "magic skill": {
     "blurb": [
-      "Vylepšování MAGIC SKILL umožňuje",
+      "Zlepšování MAGIC SKILLU umožňuje",
       "dobrodruhovi naučit se pokročilejší kouzla",
-      "a zvyšuje PWR. Legenda v magic si také",
-      "přečte kouzlo dominate."
+      "a zvyšuje PWR. Legenda v magii",
+      "se také naučí kouzlo dominate."
     ],
     "details": [
-      "Dobrý kouzelník vždy zůstane",
-      "v tréninku!",
+      "Dobrý spellcaster vždy zůstává",
+      "v praxi!",
       "",
-      "Pro ty s MP/ST regenerací, plný bar",
-      "znamená, že ztrácíš manu, kterou",
-      "jsi mohl regenerovat.",
+      "Pro ty s MP/ST regenerací,",
+      "plný bar znamená, že ztrácíš",
+      "manu, kterou bys mohl regenerovat.",
       "",
-      "Zatímco je dobré ji uschovat na",
-      "časy, kdy ji potřebuješ, ubírá si",
-      "z vrcholu plného baru, aby jsi",
-      "pokračoval v tréninku."
+      "Ačkoliv je dobré to šetřit na kdy potřebuješ,",
+      "okusuj vrchol plného",
+      "baru, abys pokračoval v tréninku."
     ],
     "details_line_highlights": []
   },
   "melee": {
     "blurb": [
-      "Jednoduše drž svoji pěst nebo melee zbraň,",
-      "jako je kyj, kopí, meč nebo sekera, a",
-      "ZAÚTOČIT! Rychlé údery mohou umožnit",
-      "dobrodruhovi zabít nepřítele,",
-      "dříve než se stihne odpovědět."
+      "Prostě drž svou pěst nebo melee zbraň,",
+      "jako palcát, kopí, meč nebo sekeru, a",
+      "ÚTOČ! Rychlé útoky mohou umožnit",
+      "dobrodruhovi zabít nepřítele dříve, než může",
+      "odpovědět vlastním útokem."
     ],
     "details": [
-      "Jednoduchý dotek je dost na provedení",
-      "plně-silného melee úderu.",
+      "Jednoduché ťuknutí stačí k provedení",
+      "melee útoku plné síly.",
       "",
-      "Drž útok déle jen pokud potřebuješ",
-      "načasovat svůj úder, nebo pokud",
+      "Drž útok déle jen pokud",
+      "potřebuješ načasovat svůj úder, nebo pokud",
       "nabíjíš critical strike.",
       "",
-      "Při zásahu, dobrodruhi často",
-      "mají čas na následující critical strike",
-      "s jedním nebo dvěma rychlými údery.",
-      "To je dost na zabití spoustu slabších",
-      "nepřátel, dříve než se vůbec mohou",
-      "bránit."
+      "Při přepadu mají dobrodruzi často",
+      "čas následovat critical strike",
+      "jedním nebo dvěma rychlými útoky. To stačí",
+      "k doražení mnoha slabších",
+      "nepřátel dříve, než stihnou reagovat."
     ],
     "details_line_highlights": []
   },
   "memorized": {
     "blurb": [
-      "Po zapamatování si kouzla mohou být",
-      "připravena bez potřeby kouzelné knihy.",
+      "Jakmile je zapamatováno, kouzla mohou být připravena",
+      "bez potřeby knihy kouzel.",
       "",
       "MP, EN a ST se konzumují během",
-      "doby sesílání, která se ztratí,",
-      "pokud kouzlo selže."
+      "doby sesílání, které budou",
+      "ztraceny, pokud kouzlo selže."
     ],
     "details": [
-      "Ze svého seznamu kouzel použij",
-      "quickcast, aby si okamžitě začal",
-      "sesílat kouzlo bez potřeby jeho vybavení",
-      "nebo umístění na hotbar. Pro kouzla,",
-      "která potřebuješ jen příležitostně,",
-      "to usnadňuje udržet základní kouzla",
-      "připravena.",
+      "Ze svého spell listu použij quickcast",
+      "možnost k okamžitému začátku sesílání",
+      "kouzla bez potřeby ho equipnout nebo",
+      "dát do hotbaru. Pro kouzla, která",
+      "potřebuješ jen občas, to usnadňuje",
+      "udržování esenciálních kouzel připravených.",
       "",
-      "Pokud nechceš používat knihu",
-      "pro zvýšenou PWR, knihy se mohou",
-      "bezpečně zahodit nebo prodat poté,",
-      "co si je zapamatuješ. Dávej pozor,",
-      "aby jsi si nepřečetl zatracená kouzelná",
-      "knihy, která způsobí zapomenutí",
-      "náhodného kouzla!"
+      "Pokud nechceš použít knihu pro",
+      "zvýšený PWR, knihy můžou být bezpečně",
+      "vyhozeny nebo prodány, jakmile je kouzlo",
+      "zapamatováno. Dávej pozor, abys se vyhnul",
+      "čtení prokletých spellbooků, které",
+      "způsobí zapomenutí náhodného kouzla!"
     ],
     "details_line_highlights": []
   },
   "missiles": {
     "blurb": [
-      "Prachy, kuše a lučiště vypálí PROJEKTILY",
-      "při útoku. Tyto zbraně mohou trvat",
-      "před vypálením. Kuše a lučiště mohou",
-      "být nabity speciálními municí, když",
-      "jsou v levé ruce."
+      "Praky, kuše a luky vystřelují",
+      "MISSILES, když jsou použity k útoku. Tyto",
+      "zbraně mohou vyžadovat čas k nabití před",
+      "vystřelením. Kuše a luky mohou být",
+      "nabity speciální municí, když je",
+      "držena v druhé ruce."
     ],
     "details": [
-      "Vylep si kuše a lučiště se speciální",
-      "municí, aby si zvýšil svůj výstup",
-      "poškození a způsoboval oslabující",
-      "statusy na nebezpečné cíle.",
+      "Vylepši kuše a luky",
+      "speciální municí pro zvýšení",
+      "výstupu poškození a způsobení oslabujících",
+      "status efektů na nebezpečné cíle.",
       "",
-      "Nepřátelé si vždy budou vědomi,",
-      "odkud útok z ranged zbraně pochází,",
-      "když jsou zasaženi. Použij to,",
-      "aby jsi lákala své nepřátele,",
-      "kam chceš.",
+      "Nepřátelé vždy budou vědět, odkud",
+      "ranged útok přišel,",
+      "když jsou zasaženi. Použij to k nalákání",
+      "nepřátel, kam je chceš.",
       "",
-      "Mnoho nepřátel je odolných vůči",
-      "malým projektilům, ale tvá schopnost",
+      "Mnoho nepřátel je odolných vůči malým",
+      "projektilům, ale tvá schopnost",
       "hit-and-run ti dá čas, který",
-      "potřebuješ postupně snižovat jejich HP."
+      "potřebuješ k okusování jejich HP."
     ],
     "details_line_highlights": []
   },
   "mp": {
     "blurb": [
-      "Sesílání zapamatovaných kouzel nebo kouzel",
-      "z knih vyžaduje MAGIC POINTS (MP),",
-      "ENERGY (EN), nebo STEAM (ST).",
-      "Kouzelníci musí obvykle mít množství",
-      "rovné nebo větší než náklady kouzla,",
-      "aby mohli sesílat."
+      "Sesílání zapamatovaných kouzel nebo kouzel z",
+      "knih vyžaduje MAGIC POINTS (MP),",
+      "ENERGY (EN) nebo STEAM (ST). Casterové obvykle",
+      "musí mít množství rovno nebo větší",
+      "než cena kouzla, aby ho mohli seslat."
     ],
     "details": [
-      "Pokud se MP zdá příliš vzácné,",
-      "dokonči nepřátele, kteří jsou na",
-      "pokraji smrti bez magie. Spor",
-      "zlato na obchody, které mohou",
-      "prodávat lektvary obnovy magii.",
+      "Pokud se MP zdá příliš vzácné, dokončuj nepřátele,",
+      "kteří jsou blízko smrti, bez magie.",
+      "Šetři zlato na obchody, které mohou prodávat",
+      "lektvary obnovující magic points.",
       "",
       "VAMPIRE BLOOD MAGIC:",
-      "Upíři mohou pokračovat v sesílání,",
-      "když je jejich MP prázdné, konzumující",
-      "HP místo.",
-      "Dávaj si pozor s cílenými kouzly!",
+      "Upíři mohou pokračovat v sesílání, když",
+      "je jejich MP prázdné, konzumující HP",
+      " místo toho.",
+      "Dávej pozor s channeled kouzly!",
       "",
       "AUTOMATON STEAM:",
-      "Regenerace páry závisí na teplotě",
-      "kotlu automatu. Některá paliva mohou",
-      "způsobit přehřívání, což vede k",
-      "rychlému nahromadění páry. Pokud",
-      "je kotel studený, pára se bude",
-      "depresurovat, což nakonec zabije",
-      "automaton.",
+      "Steam regenerace závisí na",
+      "teplotě automatonova kotle. Některá",
+      "paliva mohou způsobit jeho přehřátí,",
+      "vedoucí k rychlému build-upu steamu. Pokud je",
+      "kotel studený, steam se vypustí,",
+      "což nakonec zabije automatona.",
       "",
       "INSECTOID ENERGY:",
-      "Hmyz metabolizuje energii v magii,",
-      "ale mohou jíst jen tolik. Jejich",
-      "energetický fond je omezen a",
-      "neregeneruje se, ale mohou jíst",
-      "všechny potraviny, aby si rychle",
-      "obnovili energii používanou v sesílání.",
-      "Magické lektvary a ovocný džus",
-      "také obnovují spoustu energie."
+      "Insectoidi metabolizují energii do",
+      "magie, ale mohou sníst jen tolik.",
+      "Jejich energy pool je omezený",
+      "a neregeneruje se, ale mohou jíst",
+      "všechna jídla k rychlému získání energie",
+      "použité při sesílání.",
+      "Magic lektvary a ovocná šťáva také",
+      "obnovují hodně energie."
     ],
     "details_line_highlights": [
       {},
@@ -685,6 +693,22 @@
           "r": 198,
           "g": 190,
           "b": 179,
+          "a": 255
+        }
+      },
+      {
+        "color": {
+          "r": 157,
+          "g": 129,
+          "b": 93,
+          "a": 255
+        }
+      },
+      {
+        "color": {
+          "r": 157,
+          "g": 129,
+          "b": 93,
           "a": 255
         }
       },
@@ -797,590 +821,575 @@
   },
   "per": {
     "blurb": [
-      "VNÍMÁNÍ (PER) ti zlepší viditelnost",
-      "ve tmě a zvýší appraisal.",
+      "PERCEPTION (PER) zlepšuje viditelnost ve",
+      "tmě a zvyšuje appraisal.",
       "",
-      "PER také zvyšuje šanci, že si tvůj",
-      "ranged útok prosekne skrz 50 % AC cíle."
+      "PER také zvyšuje pravděpodobnost, že",
+      "ranged útoky proniknou 50% cílového",
+      "brnění."
     ],
     "details": [
-      "PER je klíčové pro střelce,",
-      "kteří si chtějí poradit s těžšími",
-      "nepřáteli.",
+      "PER je nezbytný pro postavy",
+      "zaměřené na missile zbraně, dělající",
+      "tvrdé nepřátele náchylnější k",
+      "ranged útokům.",
       "",
-      "Tinkering a appraisal skill",
-      "také benefitují z vysokého PER.",
+      "Tinkering a appraise skills také",
+      "těží ze silného perception statu.",
       "",
-      "Pokud se ti nedaří appraisovat,",
-      "malý boost v PER může znamenat",
+      "Pokud máš problémy s identifikací,",
+      "malý boost k PER může udělat",
       "velký rozdíl."
     ],
     "details_line_highlights": []
   },
   "polearm skill": {
     "blurb": [
-      "Údery s kopím jsou přesnější,",
-      "s menší variancí poškození oproti",
-      "jiným melee skillům stejné úrovně.",
-      "Legendární kopíčar při legendárním",
-      "úderu vždy způsobí knockback."
+      "Útoky kopím jsou přesnější",
+      "s menší variancí poškození ve srovnání",
+      "s jinými melee skills podobné úrovně.",
+      "Legenda v POLEARM SKILLU vždy způsobí",
+      "Knockback při legendary",
+      "strike."
     ],
     "details": [
-      "Kopí je populární volba pro",
-      "spoustu postav.",
+      "Kopí je populární volbou pro",
+      "mnoho tříd.",
       "",
-      "Díky jeho obecné účinnosti",
-      "proti člověku velkým cílům je to",
-      "běžně skvělá počáteční zbraň.",
+      "Díky své obecné efektivitě",
+      "proti cílům lidské velikosti je",
+      "obecně skvělá",
+      "startovní zbraň.",
       "",
-      "Pozor na některé velké příšery,",
-      "nebo ty malé, kterým se těžko",
-      "nabodáváš."
+      "Dávej pozor na některá velká monstra",
+      "nebo maličká, která mohou být těžko",
+      "napíchnutelná."
     ],
     "details_line_highlights": []
   },
   "pwr": {
     "blurb": [
-      "MAGICKÁ SÍLA (PWR) zlepší tvé",
-      "kouzla o procenta, zvyšuje damage",
-      "magických útoků, healing,",
-      "a trvání efektů."
+      "MAGIC POWER (PWR) zlepšuje",
+      "kouzla, která sesíláš, procentuálně,",
+      "zvyšující výstup poškození, léčení nebo",
+      "dobu trvání status efektu."
     ],
     "details": [
-      "Některá kouzla mají binární efekt,",
-      "takže PWR nemůže ovlivnit každé",
+      "Některá kouzla mají binární efekt",
+      "a výsledkem je, že PWR neovlivní každé",
       "kouzlo.",
       "",
-      "Ale na útočná a léčivá kouzla",
-      "je PWR extrémně užitečné,",
-      "zvlášť když sesíláš z požehnané knihy.",
+      "Ale pro poškozující a léčící kouzla",
+      "je PWR extrémně užitečný, zejména",
+      "když sesíláš z požehnané knihy.",
       "",
-      "Statové efekty se mohou zvýšit",
-      "v trvání s lepší PWR."
+      "Status efekty se mohou zvýšit v",
+      "době trvání se zlepšeným PWR."
     ],
     "details_line_highlights": []
   },
   "races": {
     "blurb": [
-      "Nejsou tu jen lidé. RASY mají",
-      "své vlastní přátelé a nepřátele.",
-      "Mají také speciální schopnosti,",
-      "odolnosti, preferencí v jídle",
-      "a penalizace."
+      "Lidé nejsou jediní inteligentní",
+      "tvorové v dungeonech. RASY mají",
+      "své vlastní přátele a nepřátele.",
+      "Mají také počáteční schopnosti,",
+      "odolnosti, preference jídel",
+      "a postihy."
     ],
     "details": [
-      "Většina monster ras si může",
-      "набрать svého druhu. Jen lidé",
-      "a automati jsou vítáni v lidských",
-      "obchodech.",
+      "Většina monster ras může verbovat své",
+      "druhy. Pouze lidé a automatoni",
+      "jsou vítáni uvnitř obchodů vedených lidmi.",
       "",
-      "Při vytváření postavy si klikni",
-      "na \"Informace o rase\" a uvidíš",
-      "všechny své silné stránky,",
-      "slabosti, schopnosti a aliance.",
+      "Při výběru rasy během",
+      "tvoření postavy použij tlačítko \"Show",
+      "Race Info\" k odhalení všech tvých",
+      "silných stránek, slabostí, schopností",
+      "a aliancí.",
       "",
-      "Aby ti dungeon byl snazší, slaď",
-      "si rasu s třídou, která minimalizuje",
-      "slabosti a zdůrazňuje výhody."
+      "Pro usnadnění dungeonů spáruj",
+      "každou rasu s třídou, která minimalizuje",
+      "nevýhody a zdvojnásobí",
+      "benefity."
     ],
     "details_line_highlights": []
   },
   "ranged skill": {
     "blurb": [
-      "Pálit na nepřátele z dálky může",
-      "prosaknout jejich brnění. Legendární",
-      "ranged skill ti umožní používat",
-      "střelné zbraně bez jejich degradace."
+      "Ostřelování nepřátel missiles může vést",
+      "k proniknutí jejich zbroje. Legendary",
+      "ranged skill umožňuje lučištníkovi používat",
+      "missile zbraně bez degradování",
+      "jejich kvality."
     ],
     "details": [
-      "Používání slabých střelných zbraní",
-      "jako prachy nebo krátký luk je",
-      "spolehlivý způsob, jak zvýšit skill,",
-      "když si vezmeš v úvahu kolik",
-      "výstřelů musíš vypálit.",
+      "Použití missile zbraní s nízkým poškozením jako",
+      "prak nebo short bow je spolehlivý",
+      "způsob, jak zvýšit tvůj skill, vzhledem k tomu,",
+      "kolik výstřelů může trvat srazit",
+      "nepřítele.",
       "",
-      "Dungeon ale obvykle nebudou",
-      "štědré, s málo bezpečnými místy",
-      "na útěk.",
+      "Nicméně dungeony často nebudou",
+      "velkorysé, s málo bezpečnými místy k běhání",
+      "a kiteování.",
       "",
-      "Dej si pozor, aby tvoje přežití",
-      "bylo na prvním místě při tréninku."
+      "Dávej pozor, aby bylo přežití tvou",
+      "hlavní prioritou při tréninku."
     ],
     "details_line_highlights": []
   },
   "res": {
     "blurb": [
-      "Magické poškození ignoruje AC,",
-      "ale MAGICKÁ ODOLNOST (RES) sníží",
-      "poškození o procenta. Trvání",
-      "negativních magických efektů",
-      "se také zkrátí."
+      "Magické poškození ignoruje AC, ale MAGIC RESIST",
+      "(RES) sníží množství přijatého poškození",
+      "procentuálně. Doba trvání",
+      "negativních magických status efektů je také",
+      "snížena."
     ],
     "details": [
-      "Protože AC nesnižuje damage",
-      "ze kouzel, je dobré si hledat",
-      "zdroje magické odolnosti.",
+      "Protože AC nesníží poškození",
+      "z kouzel, je dobrý nápad",
+      "hledat zdroje magic resistance.",
       "",
-      "Magické odrazy zcela negují",
-      "magické projektily, ale stojí to.",
-      "Odolnost je naopak pasivní",
+      "Magic reflect kompletně neguje",
+      "magické projektily, ale má svou cenu.",
+      "Resistance, ve srovnání, je pasivní",
       "a spolehlivá.",
       "",
-      "Některé rasy mají přirozenou",
-      "odolnost nebo zranitelnost",
-      "vůči magii."
+      "Některé rasy mají přirozenou odolnost",
+      "nebo zranitelnost vůči magickým útokům."
     ],
     "details_line_highlights": []
   },
   "rgn": {
     "blurb": [
-      "Většina postav se regeneruje",
-      "postupem času, obnovuje HP a MP.",
-      "Zvýšení REGENERACE (RGN) zrychluje,",
-      "jak se to obnovuje."
+      "Většina bytostí regeneruje přes čas,",
+      "obnovující ztracené HP a MP. Zvyšování",
+      "REGENERATION (RGN) zlepšuje jak rychle",
+      "jsou tyto obnoveny."
     ],
     "details": [
-      "Zatímco HP a MP se mohou",
-      "rychle vypotřebovat, malý trénink",
-      "ti pomůže zvyknout si na dobu",
-      "obnovy.",
+      "Zatímco HP a MP mohou být vyčerpány velmi",
+      "rychle, trocha praxe může pomoci",
+      "dobrodruhovi pohodlně s tím,",
+      "jak dlouho trvá jejich obnovení.",
       "",
-      "Prozkoumávej, spravuj inventář",
-      "a zůstávej pryč od hrozby,",
-      "když jsi vyčerpaný. Tak si",
-      "naplno užiješ RGN.",
+      "Prozkoumávej, spravuj inventář a zůstávej",
+      "daleko od hrozeb, když jsi",
+      "vyčerpaný, což ti umožní plně těžit",
+      "z RGN.",
       "",
-      "Všimni si, že HP regen se",
-      "vypne, pokud vypneš hunger",
-      "v nastavení hry."
+      "Poznámka: HP regen je zakázán s",
+      "hunger Game Setting vypnutým."
     ],
     "details_line_highlights": []
   },
   "skills": {
     "blurb": [
-      "Mnoho akcí, které provedeš,",
-      "se změní podle úrovně tvých SKILLŮ.",
+      "Mnoho akcí, které dobrodruzi podnikají,",
+      "bude upraveno úrovní jejich SKILLS.",
       "",
-      "Jak budeš pokračovat v trénování,",
-      "skilly se budou zvyšovat organicky,",
-      "někdy ti odemknou úplně nové",
-      "schopnosti."
+      "Jak pokračují v praxi, skills",
+      "se budou zvyšovat organicky, někdy",
+      "odemykající zcela nové schopnosti."
     ],
     "details": [
-      "Počáteční skilly třídy mohou",
-      "být vynikajícím návodem, jak",
-      "nejlépe uspět jako ta třída.",
+      "Počáteční skills třídy mohou být",
+      "vynikajícím průvodcem, jak nejlépe",
+      "uspět jako ta třída.",
       "",
-      "V některých případech mají třídy",
-      "skilly, na které nemají vybavení,",
-      "což tě může inspirovat k lovu",
-      "konkrétních věcí.",
+      "V některých případech mají třídy skills,",
+      "ke kterým nemají vybavení, což",
+      "může motivovat lov určitých",
+      "předmětů.",
       "",
-      "Každý skill má novou schopnost,",
-      "která se odemkne, až skill dosáhne",
-      "legendární úrovně (100)."
+      "Každý skill má novou schopnost, která je",
+      "odemčena, jakmile skill dosáhne",
+      "legendary statusu (100)."
     ],
     "details_line_highlights": []
   },
   "sneaking": {
     "blurb": [
-      "S ničím, nebo speciální municí",
-      "v druhé ruce, se můžeš plížit",
-      "pomalu a bude se ti hůř hledat.",
-      "Opatrné PLÍŽENÍ také zlepší",
-      "tvou viditelnost ve tmě."
+      "S ničím nebo speciální municí drženou v",
+      "druhé ruce může dobrodruh plížit se pomalu,",
+      "ztěžující nepřátelům jeho detekci.",
+      "Pečlivé SNEAKING také usnadňuje",
+      "vidění ve stínech."
     ],
     "details": [
-      "Když cítíš, že tě stále někdo",
-      "napádá nebo překvapuje,",
-      "zvažte, jak moc tě vystavují",
-      "světelné zdroje.",
+      "Když se cítíš neustále obklopen nebo",
+      "překvapován nepřáteli, zvaž, jak moc",
+      "tě zdroje světla odhalují.",
       "",
-      "Když si vezmeš výhodu tmy",
-      "a plížíš se, všichni až na",
-      "nejspecializovanější lovce mají",
-      "těžké časy s tebou."
+      "Když využíváš tmy",
+      "a plížení, všichni kromě těch",
+      "nejspecializovanějších lovců mají těžké",
+      "časy najít plížícího se dobrodruhа."
     ],
     "details_line_highlights": []
   },
   "spellbook casting": {
     "blurb": [
-      "Jakýkoliv dobrodruh si může vzít",
-      "kouzelnou knihu do druhé ruky",
-      "a zkusit kouzel uvnitř. Dobrodruzi",
-      "s vysokým INT dostanou bonus PWR,",
-      "když sesílají z knihy oproti sesílání",
-      "z paměti."
+      "Jakýkoli dobrodruh může držet knihu kouzel",
+      "v druhé ruce a pokusit se seslat",
+      "kouzlo uvnitř. Dobrodruzi s vysokým",
+      "INT získají dodatečný PWR bonus,",
+      "když sesílají z knihy ve srovnání s",
+      "sesíláním z paměti."
     ],
     "details": [
-      "Dedikovaní magové mohou benefitovat",
-      "z udržení své oblíbené útočné",
-      "kouzla připraveného s kouzelnou",
-      "knihou.",
+      "Oddaní mágové mohou těžit z",
+      "udržování svého oblíbeného útočného kouzla",
+      "připraveného s drženou knihou kouzel.",
       "",
-      "Kromě toho, že dává větší PWR,",
-      "druhé zapamatované kouzlo",
-      "si také může připravit, což",
-      "umožňuje okamžitý přístup",
+      "Kromě poskytování většího PWR",
+      "může být také připraveno jiné zapamatované kouzlo",
+      ",umožňující okamžitý přístup",
       "k více magickým řešením.",
       "",
-      "Kouzelné knihy v druhé ruce",
-      "si můžeš požehnávat jako",
-      "jakékoliv vybavení, což dává",
-      "obrovské bonusy k PWR knihy.",
-      "Použij kouzelné péro na opravu",
-      "kouzelné knihy, na které spoléháš!"
+      "Knihy kouzel v druhé ruce mohou být požehnány",
+      "jako jakékoli vybavení, poskytující obrovské",
+      "bonusy k PWR knihy. Použij",
+      "kouzelné pero k opravě",
+      "knihy kouzel, na které závisíš!"
     ],
     "details_line_highlights": []
   },
   "stats metastats": {
     "blurb": [
-      "Statystiky měří tvé schopnosti",
-      "a jsou v kořeni každého skille.",
-      "Patří sem STR, CON, DEX, INT, PER, CHR.",
-      "Metastatystiky jako PWR, AC, RGN a ATK",
-      "se zvyšují přímo levelováním."
+      "Staty měří schopnosti postavy",
+      "a jsou u kořene každého skillu. Tyto",
+      "zahrnují STR, CON, DEX, INT, PER, CHR.",
+      "Metastaty jako PWR, AC, RGN a ATK",
+      "nejsou zvyšovány přímo levelováním."
     ],
     "details": [
-      "Každý dobrodruh si najde statystiky,",
-      "které jsou pro něj důležitější.",
-      "Je moudré sledovat tvůj character",
-      "sheet a sbírat vybavení, které",
-      "prospívá tvým nejužitečnějším",
-      "statistikám.",
+      "Každý dobrodruh může najít některé staty",
+      "důležitější než jiné. Je rozumné",
+      "sledovat svůj character sheet",
+      "a sbírat typ vybavení, který",
+      "prospívá tvým nejužitečnějším statům.",
       "",
-      "Věnuj pozornost skill sheetu,",
-      "kde se ukazuje řídící statistika.",
-      "Vysoké statystiky si někdy",
-      "mohou vynahradit špatný skill.",
+      "Dávej pozor na skill sheet, kde",
+      "je ukázán řídící stat. Vysoké staty",
+      "mohou někdy kompenzovat slabý",
+      "skill.",
       "",
-      "Metastatystiky nejsou založeny",
-      "na levelu nebo třídě, ale jsou",
-      "kombinací statystik, skillů,",
-      "levelů a vybavení."
+      "Metastaty nejsou založeny na levelu nebo",
+      "třídě, ale jsou místo toho kombinací",
+      "statů, skills, levelů a vybavení."
     ],
     "details_line_highlights": []
   },
   "stealth skill": {
     "blurb": [
-      "Vysoký STEALTH SKILL ti usnadní",
-      "schovat se před nepřáteli a zlepší",
-      "poškození backstabů a flanking",
-      "úderů.",
+      "Vysoký STEALTH SKILL usnadňuje schovávání",
+      "před nepřáteli a zlepšuje poškození způsobené",
+      "backstaby a flanking útoky.",
       "",
-      "Legendy v stealth si mohou",
-      "stát téměř neviditelní na povel."
+      "Legendy v stealthu se mohou stát téměř",
+      "neviditelnými podle přání."
     ],
     "details": [
-      "Když se plížíš dungeonem,",
-      "postav se, když vidíš nepřítele.",
-      "Pokud si vezmeš chvilku na to,",
-      "aby na tebe nepřítel koukal,",
-      "můžeš se vrhnout na backstab,",
-      "nebo i vraždu!",
+      "Když se plížíš dungeony,",
+      "zastav se, když uvidíš nepřítele. Pokud si vezmeš",
+      "extra moment nechat svého nepřítele",
+      "odvrátit se, můžeš vběhnout pro",
+      "backstab nebo dokonce assassination!",
       "",
-      "Tyto akce mají větší šanci",
-      "na zvýšení tvého stealth skille.",
-      "S věnováním se melee ambushům",
-      "si můžeš stát legendou",
-      "ve stealth schopnosti."
+      "Tyto akce mají vyšší pravděpodobnost",
+      "zvýšení tvého stealth skillu.",
+      "S oddaností melee přepadovým",
+      "taktikám může dobrodruh stát se",
+      "legendou ve své stealth schopnosti."
     ],
     "details_line_highlights": []
   },
   "str": {
     "blurb": [
-      "Každý bod SÍLY (STR) se přidává",
-      "k tvému melee ATK. Silní dobrodruzi",
-      "mohou také nést těžší vybavení,",
-      "a více věcí v inventáři,",
-      "bez zpomalení."
+      "Každý bod STRENGTH (STR) přidává k",
+      "melee útoku (ATK) síle. Silní",
+      "dobrodruzi mohou také nosit těžší",
+      "vybavení a táhnout více ve svém",
+      "inventáři bez zpomalení."
     ],
     "details": [
-      "Postava, která se spoléhá především",
-      "na melee útoky, bude vždy benefitovat",
+      "Postava, která závisí primárně na",
+      "melee útocích, vždy profituje",
       "z více STR.",
       "",
-      "Upřednostní si vybavení",
-      "požehnané STR bonusy,",
-      "abys ještě více zlepšil svou",
-      "melee sílu."
+      "Prioritizuj vybavení požehnané s STR",
+      "bonusy k dalšímu vylepšení tvé",
+      "melee síly."
     ],
     "details_line_highlights": []
   },
   "strafing": {
     "blurb": [
-      "Když průzkumáváš, dobrodruzi se",
-      "pohybují sebejistě vpřed plnou",
-      "rychlostí, ale otáčení zpět",
-      "nebo na stranu je pomalejší.",
-      "To je důležité vědět, když máš",
-      "problémy, kterým se nechceš",
-      "přiblížit."
+      "Při zkoumání se dobrodruzi pohybují",
+      "sebevědomě dopředu plnou rychlostí,",
+      "ale krokování dozadu nebo do strany",
+      "je pomalejší. To je důležité vědět,",
+      "když se potýkáš s hrozbami, kterým se",
+      "nechceš přiblížit."
     ],
     "details": [
-      "Zatímco by ses mohl snažit",
-      "ustoupit před hrozivým nepřítelem,",
-      "nebo si uhnout před kamenem,",
-      "je mnohem rychlejší se obrátit",
-      "a utéci!",
+      "Ačkoliv můžeš být v pokušení couvnout",
+      "před zastrašujícím nepřítelem nebo",
+      "ukroknout od balvanu,",
+      "je mnohem rychlejší otočit se a běžet!",
       "",
-      "Mnoho dobroduhů bylo zmáčknutých,",
-      "protože koukal na zdroj",
-      "své smrti.",
+      "Mnoho dobrodruhů bylo rozdrceno,",
+      "protože byli chyceni při zírání",
+      "na zdroj své zkázy.",
       "",
-      "Použij tlačítko quickturn,",
-      "pokud máš problém s otáčením!"
+      "Použij quickturn tlačítko, pokud",
+      "máš potíže s rychlým otáčením!"
     ],
     "details_line_highlights": []
   },
   "swimming skill": {
     "blurb": [
-      "Plavání není obvykle nejdůležitější",
-      "skill, ale když utíkáš před nebezpečí,",
-      "může to být nejdůležitější skill",
-      "tvého života. Zvlášť užitečné",
-      "v močálech."
+      "Plavání obvykle není nejdůležitější",
+      "skill, ale když utíkáš před",
+      "nebezpečnou hrozbou, může to být nejdůležitější",
+      "skill tvého života. Zejména",
+      "užitečný v bažinách."
     ],
     "details": [
-      "Zatímco chůze po vodě,",
-      "kterou dává swimming skille",
-      "legendární bonus, může být",
-      "užitečná v mnoha situacích,",
-      "někteří dobrodruzi si mohou",
-      "přát, aby si mohli rychle skočit",
-      "do vody a uhasit plameny.",
+      "Zatímco waterwalking poskytnutý",
+      "swimming skillovým legendary bonusem",
+      "může být užitečný v mnoha situacích, někteří",
+      "dobrodruzi mohou zjistit, že si",
+      "přejí si vzít rychlý šluk k",
+      "uhašení hořících plamenů.",
       "",
-      "Zvažte si svou příští koupel!"
+      "Zvaž své další namočení pečlivě!"
     ],
     "details_line_highlights": []
   },
   "sword skill": {
     "blurb": [
-      "Sekání nepřátel mečem zvyšuje",
-      "šanci, že budou krvácet. Legenda",
-      "v SWORD SKILL vždy způsobí krvácení",
-      "při legendárním úderu."
+      "Sekání proti nepřátelům mečem",
+      "zvyšuje šanci, že budou krvácet.",
+      "Legenda v SWORD SKILLU vždy způsobí bleed",
+      "při legendary strike."
     ],
     "details": [
-      "Meče se mohou zdát slabé,",
-      "protože Kostlivci jsou velmi",
-      "odolní vůči břitu meče.",
+      "Meče se mohou zdát slabé zpočátku, protože",
+      "Kostlivci jsou velmi odolní vůči",
+      "meče broušenému ostří.",
       "",
-      "Jak narazíš na více nepřátel,",
-      "zjistíš, že někteří těžcí nepřátelé",
-      "jsou dost zranitelní vůči čepeli.",
+      "Jak narazíš na více nepřátel, objevíš,",
+      "že někteří tvrďí nepřátelé jsou",
+      "docela zranitelní vůči čepeli.",
       "",
-      "Buď trpělivý a opatrný jako",
-      "začínající mečař."
+      "Buď trpělivý a opatrný jako začínající",
+      "šermíř."
     ],
     "details_line_highlights": []
   },
   "thrown": {
     "blurb": [
-      "Vrhaný útok prosaknout brnění",
-      "a dostane zvýšené poškození z DEX.",
+      "Hozené útoky zbraní pronikají zbrojí",
+      "a získávají zvýšené poškození z DEX.",
       "",
-      "Nabití VRHANÉHO ÚTOKU zvýší",
+      "Nabíjení HOZENÉHO ÚTOKU zlepšuje",
       "jeho vzdálenost letu a poškození",
       "značně."
     ],
     "details": [
-      "Vrhané útoky mohou rychle",
-      "srazit jinak tvrdé nepřátele,",
-      "s 50 % snížením AC cíle.",
+      "Hozené útoky zbraní mohou rychle",
+      "srazit jinak tvrdé nepřátele",
+      "s 50% redukcí k cílovému AC.",
       "",
-      "Fakt, že musíš po nich sbírat,",
-      "nebo dokonce během boje, znamená,",
-      "že si musíš dávat pozor a být",
-      "opatrný s inventářem.",
+      "Nutnost sbírat tvé předměty poté",
+      "nebo dokonce během boje znamená, že musíš",
+      "zůstat bdělý a opatrný s",
+      "tvým inventářem.",
       "",
-      "Přichystej si deaktivovat nepřátele",
-      "nebo se schovat, aby sis mohl",
-      "pořídit plný bandolér na střet."
+      "Připrav se zakázat nepřátele nebo se plížit",
+      "pryč, abys se ujistil, že můžeš mít svůj",
+      "bandolier plný na setkání."
     ],
     "details_line_highlights": []
   },
   "tinkering skill": {
     "blurb": [
-      "Jen s vyklovacím náčiním si",
-      "může талантованý tinker udělat",
-      "spoustu věcí. Ale skutečná síla",
-      "tinkeringu se dostane s tinkering",
-      "kitem. Na každý problém mají",
-      "tinkeři mechanické řešení."
+      "Pouze s lockpickem může talentovaný kutil",
+      "dosáhnout docela hodně. Ale skutečná",
+      "síla tinkering je přístupna s",
+      "tinkering kitem. Pro každý problém",
+      "mají kutilové mechanické řešení."
     ],
     "details": [
       "Po pochopení základů naučených",
-      "z likvidace věcí na Expert (60)",
-      "skillové úrovni, zvyšování",
-      "tinkeringu může být výzva.",
+      "z rozebírání předmětů na Expert (60)",
+      "úrovni skillu může být zvyšování tinkering",
+      "výzvou.",
       "",
       "Konstruuj co nejvíce pastí",
-      "a nech strážce, aby dostali",
-      "poslední úder na nepřátele,",
-      "abys zlepšil šance na zvýšení",
-      "skille.",
+      "a nech sentries dát finální úder na",
+      "nepřátele ke zlepšení tvých šancí",
+      "zvýšení tinkering skillu.",
       "",
-      "Když jsi zahlcený zbytky,",
-      "používej flame/freeze pasti",
-      "a medvědí pasti jako primární",
-      "prostředek útoku, což ti také",
-      "může dát zvýšení skille."
+      "Když jsi zatížen nadbytečným šrotem, používej",
+      "flame/freeze pasti a beartrapy jako",
+      "primární prostředek útoku, což může",
+      "také poskytnout zvýšení tinkering skillu."
     ],
     "details_line_highlights": []
   },
   "trading skill": {
     "blurb": [
-      "TRADING SKILL ti pomůže vytěžit",
-      "z tvého zlata, kupováním či prodejem.",
-      "Jen zručný obchodník je může",
-      "přesvědčit, aby se vzdali prodeje",
-      "soukromého skladu."
+      "TRADING SKILL pomáhá dobrodruhovi dostat",
+      "maximum ze svého zlata při nákupu nebo",
+      "prodeji. Pouze zkušený obchodník může",
+      "přesvědčit obchodníka, aby se vzdal svého",
+      "soukromého skladu spotřebních věcí."
     ],
     "details": [
-      "Trade skill se zvýší jen když",
-      "kupuješ věci, s cenou každé",
-      "věci v zlatě představující šanci,",
-      "že se tvůj skill zvýší (až 100).",
+      "Trade skill se zvýší pouze při",
+      "nákupu předmětů, s cenou každého předmětu ve zlatě",
+      "představující šanci, že se",
+      "trade skill zvýší (až do 100).",
       "",
-      "Jinými slovy, věci stojící 100 zlata",
-      "mají 100 % šanci na zvýšení skille.",
+      "Jinými slovy, předměty stojící 100 zlata",
+      "mají 100% šanci na zvýšení skillu.",
       "",
-      "Soukromý sklad je skvělý",
-      "zdroj věcí s dobrou šancí",
-      "na zvýšení skille, zatímco",
-      "jsou často užitečné na ruku.",
-      "Nová věc se objevuje každých",
-      "10 skillových levelů až do 40."
+      "Soukromý sklad obchodu je skvělý",
+      "zdroj předmětů, které mají dobrou",
+      "pravděpodobnost zvýšení tvého skillu, zatímco",
+      "jsou často také užitečné mít",
+      "po ruce. Nový soukromý sklad předmět se stává",
+      "dostupným každých 10 skill levelů až do 40."
     ],
     "details_line_highlights": []
   },
   "unarmed skill": {
     "blurb": [
-      "Ty s vysokým UNARMED SKILL mohou",
-      "srazit nepřátele na zemi s crítem.",
-      "Ty s legendární schopností mohou",
-      "krátce ochrnutí nepřítele",
-      "s mocným údarem zezadu."
+      "Ti s vysokým UNARMED SKILLEM mohou odhodit",
+      "nepřátele critical strikes. Ti",
+      "s legendary schopností mohou krátce",
+      "paralyzovat nepřítele mocným",
+      "legendary strikem zezadu."
     ],
     "details": [
-      "Zatímco általában dělá méně",
-      "poškození a je méně efektivní",
-      "na mnoha cílích, tvrdý bojovník",
-      "si může rychle zvýšit skill",
-      "v boji bez zbraně.",
+      "Zatímco celkově způsobuje méně poškození",
+      "a je méně efektivní proti mnoha",
+      "cílům, tvrdý bojovník může rychle",
+      "zvýšit svůj skill v unarmed",
+      "boji.",
       "",
-      "To je díky tomu, kolik úderů",
-      "to může trvat na sražení",
-      "nepřítele.",
+      "To je dílem díky tomu, kolik zásahů",
+      "může trvat srazit nepřítele.",
       "",
-      "S velkým skillem je mistr",
-      "boje bez zbraně vážná hrozba",
-      "s menšími potřebami."
+      "S velkým skillem je unarmed bojový",
+      "mistr vážná hrozba s menšími",
+      "potřebami."
     ],
     "details_line_highlights": []
   },
   "wanted": {
     "blurb": [
-      "Pokud je na tebe WANTED Kupeckou",
-      "cechou, obchodníci tě zaútočí",
-      "na viděnou. Vlastnosti jako rasa,",
-      "určité věci nebo magické efekty",
-      "mohou změnit, jak se na tebe",
-      "obchodníci dívají."
+      "Pokud je dobrodruh WANTED Gildou",
+      "obchodníků, obchodníci ho budou napadat",
+      "na pohled. Vlastnosti jako rasa, určité",
+      "předměty nebo magické efekty mohou změnit, jak se",
+      "obchodníci k tobě chovají jako k zákazníkovi."
     ],
     "details": [
-      "Obchodníci jsou dost těžcí,",
-      "aby na ně útok byl už rizikem,",
-      "ale udělat je všechny nepřátelské",
-      "má velké náklady příležitosti.",
+      "Obchodníci jsou dostatečně tvrdí, že",
+      "jejich útok je už riskantní",
+      "podnik, ale udělat je všechny",
+      "nepřátelské má velké opportunity náklady.",
       "",
-      "Se určitými zdroji je možné",
-      "vykrást obchod a vrátit se",
-      "později jako zákazník.",
+      "S určitými zdroji je možné",
+      "uniknout s loupeží obchodů pouze k",
+      "návratu později jako zákazník.",
       "",
-      "Použij bandity masku na okloud",
-      "obchodníků a demaska si ji,",
-      "když skončíš. Pokud je tvá",
-      "skutečná identita hledaná,",
-      "použij charm spell, aby",
-      "obchodníci odpustili tvé zločiny."
+      "Použij bandit masku k přepadení obchodníků",
+      "a odstraň ji, když skončíš. Pokud je tvá",
+      "skutečná identita wanted, použij",
+      "charm kouzlo k přesvědčení obchodníků,",
+      "aby odpustili tvé zločiny."
     ],
     "details_line_highlights": []
   },
   "weapon quality": {
     "blurb": [
-      "Všechny zbraně dělají méně poškození,",
-      "když jsou v horším stavu. Vysoký",
-      "Tinkering skill a Scrolls of Repair",
-      "mohou být použity k zlepšení damage",
-      "zbraně na největší potenciál."
+      "Všechny zbraně způsobují méně poškození, když",
+      "jsou v horším stavu. Vysoký Tinkering",
+      "skill a Scrolly of Repair mohou být použity",
+      "ke zlepšení poškození zbraně na její největší",
+      "potenciál."
     ],
     "details": [
-      "Všechny melee a ranged zbraně",
-      "ztrácejí ATK, když se jejich",
-      "kvalita snižuje.",
+      "Všechny melee a ranged zbraně ztrácejí ATK,",
+      "když se degradují v kvalitě.",
       "",
-      "Nepřekládej se na poškozenou",
-      "zbraň.",
+      "Nepřespříliš se zavazuj k poškozené",
+      "zbrani.",
       "",
-      "I když je požehnána, můžeš",
-      "najít čerstvou, obyčejnou zbraň,",
-      "která významně překonává zbraň,",
-      "která se chystá rozbít.",
+      "I když je požehnaná, můžeš najít",
+      "čerstvou, obyčejnou zbraň, která",
+      "významně předčí zbraň,",
+      "která se chystá rozpadnout.",
       "",
-      "Pokud doufáš v opravu své",
-      "oblíbené zbraně, mundáne záloha",
-      "je dobrý nápad."
+      "Pokud doufáš v opravu své oblíbené",
+      "zbraně, obyčejná záloha je také dobrý",
+      "nápad."
     ],
     "details_line_highlights": []
   },
   "wgt": {
     "blurb": [
-      "Každá věc, kterou si vezmeš",
-      "nebo drží v inventáři, přidá VÁHU (WGT).",
-      "Vyšší STR ti umožňuje nést více WGT,",
-      "než tě to zpomalí. Čím více WGT,",
-      "tím větší penalizace rychlosti."
+      "Každý předmět equipnutý nebo držený v inventáři",
+      "přidává WEIGHT (WGT). Vyšší STR umožňuje",
+      "dobrodruhovi nosit více WGT předtím, než ho to",
+      "zpomalí. Čím více WGT, tím větší",
+      "rychlostní postih."
     ],
     "details": [
-      "Mnoho dobroduhů si myslí,",
-      "že by měli sbírat každou věc,",
-      "kterou vidí, což vede k vysoké",
-      "váze a pomalé rychlosti pohybu.",
+      "Mnoho dobrodruhů dělá chybu",
+      "sbírání každého předmětu, který vidí,",
+      "což vede k vysoké váze a pomalému",
+      "pohybu.",
       "",
-      "To tě vyzývá.",
+      "To zve smrt.",
       "",
-      "Obvykle je moudré vyhodit věci,",
-      "které si nemyslíš, že budeš",
-      "používat v dalších pár minutách,",
-      "jen abys zůstal lehký na nohou."
+      "Je obvykle rozumné zahodit předměty,",
+      "o kterých si nemyslíš, že použiješ v příštích",
+      "pár minutách, jen abys zůstal lehký na",
+      "nohou."
     ],
     "details_line_highlights": []
   },
   "xp": {
     "blurb": [
-      "Pokaždé, když se tvůj skill zvýší,",
-      "dostaneš 2 ZKUŠENOSTI (XP). Zabití",
-      "monster ti také dá XP založené",
-      "na náročnosti kill.",
+      "Kdykoli se skillu postavy zvýší,",
+      "získá 2 EXPERIENCE POINTS (XP). Zabíjení",
+      "monster také přinese XP založené na",
+      "obtížnosti zabití.",
       "",
-      "Získej 100 XP na zvýšení levelu!"
+      "Získej 100 XP k levelování!"
     ],
     "details": [
-      "Pokud máš čas, hledej monster",
-      "k zabití a příležitosti trénovat",
-      "různé skilly, aby ses zvýšil v XP.",
-      "Příliš rychle klesat bez",
-      "dostatečných levelů si zajímá",
-      "skončit ve smrti!",
+      "Pokud máš čas, hledej monstra",
+      "k zabití a příležitosti k praxi",
+      "různých skills ke zvýšení tvého XP.",
+      "Sestupování příliš rychle bez",
+      "získání dostatečných levelů pravděpodobně",
+      "skončí smrtí!",
       "",
-      "Combat XP se dělí mezi všechny",
-      "hráče, když spolu dobroduhují.",
+      "Combat XP je rozděleno mezi všechny hráče,",
+      "když dobrodružíte společně.",
       "",
-      "Pokud máš už skill maxovaný,",
-      "zvažte trénování jiného skille,",
-      "aby ses mohl dál zvyšovat v XP."
+      "Pokud už máš skill maximalizovaný,",
+      "zvaž trénink jiného skillu, abys",
+      "mohl pokračovat v získávání zkušeností."
     ],
     "details_line_highlights": []
   }

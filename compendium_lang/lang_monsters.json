@@ -1,11 +1,11 @@
 {
   "algernon": {
     "blurb": [
-      "Kvůli nedostatku jídla není život v dungeonech snadný",
-      "pro krysy. Někdy ale bohatý zdroj potravy způsobí",
-      "populační boom.",
+      "Kvůli nedostatku potravy není život v dungeonu",
+      "pro krysy snadný. Někdy ale velký zdroj jídla",
+      "způsobí explozi populace.",
       "",
-      "V takových dobách se vynořuje velmi chytrá krysa,",
+      "V takových dobách se objeví velmi chytrá krysa,",
       "která se stane králem."
     ],
     "abilities": [],
@@ -16,11 +16,11 @@
   },
   "artemisia": {
     "blurb": [
-      "Vyhnána do podsvětí za zradu ostatních Věčných,",
-      "ARTEMISIA využívá své duchařské schopnosti k ještě",
-      "lstivějšímu lovu.",
-      "Ani smrt nedokázala jí vybrat kouzelný luk",
-      "z rukou."
+      "Vyhnána do podsvětí za zradu svých spolubojovníků",
+      "z řad Věčných, ARTEMISIA využívá své duchařské",
+      "schopnosti k ještě lstivějšímu lovu.",
+      "Ani smrt jí nedokázala vyrvat",
+      "kouzelný luk z rukou."
     ],
     "abilities": [
       "- Mimic Other",
@@ -30,17 +30,18 @@
     ],
     "inventory": [
       "- Khryselakatos",
-      "- Toulce se Stříbřitou Municí",
-      "- Strašidelné Masky"
+      "- Toulce se stříbrnou municí",
+      "- Strašidelné masky"
     ]
   },
   "automaton": {
     "blurb": [
-      "Konstrukce vymyšlená Couchou Kouzelníků,",
-      "magie a technologie daly AUTOMATONU dar života",
-      "v podobě služebníka.",
+      "Konstrukce vytvořená Gildou kouzelníků,",
+      "magie a technologie daly AUTOMATONU",
+      "dar života jako služebníkovi.",
       "",
-      "Stane se násilný jen když mu to přikážeš."
+      "Zaútočí pouze pokud",
+      "jim to někdo přikáže."
     ],
     "abilities": [
       "- Salvage",
@@ -52,12 +53,12 @@
   },
   "baratheon": {
     "blurb": [
-      "Zplozený z hněvu, tento temný duch hledá ty,",
-      "kdo mají ambiciózní plány.",
+      "Zplozený z hněvu, tento temný duch",
+      "vyhledává ty s velkými ambicemi.",
       "",
-      "BARATHEON se nestará o svou budoucnost,",
-      "existuje jen proto, aby bránil hrdinům",
-      "v jejich velkém osudu."
+      "BARATHEON se nestará o svou vlastní budoucnost,",
+      "existuje pouze proto, aby zabránil hrdinům",
+      "naplnit jejich osud."
     ],
     "abilities": [
       "- Mimic Other",
@@ -66,18 +67,18 @@
       "- Indominable"
     ],
     "inventory": [
-      "- Fantomové Masky",
-      "- Strašidelné Masky"
+      "- Fantomové masky",
+      "- Strašidelné masky"
     ]
   },
   "bat": {
     "blurb": [
-      "Divoké, krv pytlající netopýry nedávno obsadily",
-      "hornické štoly v Hamlet.",
-      "Přestože jsou malí, jejich divoký let je činí",
-      "těžkým cílem i pro ty nejzkušenější dobrodruhy.",
-      "Očekávej, že víc než polovina útoků mine",
-      "tyto dungeon bestie!"
+      "Divoké krvelačné netopýry",
+      "nedávno zaplavily doly u Hamletu.",
+      "I když jsou malí, jejich divoký let",
+      "z nich dělá těžký cíl i pro ty nejzkušenější",
+      "dobrodruhy. Očekávej, že víc než polovina útoků",
+      "mine tyto dungeon potvory!"
     ],
     "abilities": [
       "- Levitation",
@@ -89,10 +90,12 @@
   },
   "bram kindly": {
     "blurb": [
-      "Tajemný mistr Cechu Lovec, BRAM KINDLY prý",
-      "zmizel, když vyšetřoval nárůst nemrtvých.",
+      "Záhadný mistr Gildy lovců,",
+      "BRAM KINDLY prý zmizel při",
+      "vyšetřování nárůstu nemrtvých.",
       "",
-      "Vypadá to, že našel přesně to, co hledal."
+      "Vypadá to, že našel přesně",
+      "to, co hledal."
     ],
     "abilities": [
       "- Drain Soul",
@@ -100,38 +103,38 @@
       "- Indominable"
     ],
     "inventory": [
-      "- Přízračný Šat",
-      "- Kouzelné Berle Krvaté",
-      "- Upířský Kabátek"
+      "- Wraith's Gown",
+      "- Magické hole krvácení",
+      "- Vampýří kabátec"
     ]
   },
   "bram succubi": {
     "blurb": [
-      "Bytosti nesmírné moci přitahují následovníky.",
-      "Verona, Aleera a Marishka se zavázaly",
-      "mocnému upírovi.",
+      "Bytosti nesmírné síly přitahují",
+      "následovníky. Verona, Aleera a Marishka",
+      "se zavázaly mocnému upírovi.",
       "",
-      "Ten je ochotně učil upířským kouzlům",
-      "ve svém pochmurném hrádku."
+      "Ten je rád učil upířím kouzlům",
+      "uvnitř svého ponurého hradu."
     ],
     "abilities": [
       "- Charm Monster",
       "- Teleportation"
     ],
     "inventory": [
-      "- Svitky Krvácení",
-      "- Kouzelné Berle Hypnózy",
-      "- Maškaráde Masky"
+      "- Knihy kouzel krvepouštění",
+      "- Magické hole očarování monster",
+      "- Maškarní masky"
     ]
   },
   "bubbles": {
     "blurb": [
-      "Ti, co přežili BUBBLES, tvrdí, že vůbec není",
-      "krab. Je to démonský duch, který si vezme",
-      "tvar kraba.",
+      "Ti, kdo BUBBLES přežili, tvrdí,",
+      "že to vůbec není krab. Spíše je to",
+      "démonický duch v podobě kraba.",
       "",
       "S sebou nosí poklad",
-      "od svých obětí."
+      "svých obětí."
     ],
     "abilities": [
       "- Poisoned Attacks",
@@ -139,37 +142,36 @@
     ],
     "inventory": [
       "- Dyrnwyn",
-      "- Prstenec Neviditelnosti"
+      "- Prsten neviditelnosti"
     ]
   },
   "bugbear": {
     "blurb": [
-      "Tito hloupí agresivci nedokážou zorganizovat",
-      "velkou válku proti povrchným lidem.",
-      "Přesto si vytvářejí koalice brutálních nájezdníků",
-      "a obsazují osady. BUGBEARY často používají ruiny",
-      "jako domovy a nedávno si postavili tábor",
-      "pod Hamlet."
+      "Tito hloupí tyrani nedokážou organizovat",
+      "rozsáhlou válku proti povrchové lidské říši.",
+      "Přesto dokážou vytvořit koalice",
+      "brutálních nájezdníků a dobýt osady.",
+      "BUGBEAŘI často využívají ruiny jako domovy",
+      "a nedávno se utábořili pod Hamletem."
     ],
     "abilities": [
       "- Strafing",
       "- Shield Bash"
     ],
     "inventory": [
-      "- Ocelové Meče/Sekery",
-      "- Kuše",
-      "- Štíty"
+      "- Ocelové meče/sekery",
+      "- Arbalety",
+      "- Štíty Scutum"
     ]
   },
   "cockatrice": {
     "blurb": [
-      "Bytost dlouho považovaná za vyhynulou,",
-      "KOKÁTRICE je mocná létající bestie.",
+      "Tvor dlouho považovaný za vyhynulý,",
+      "COCKATRICE je mocná létající bestie.",
       "",
-      "Její velmi ostré pařáty si rychle poradí",
-      "s kteroukoliv kořistí, kterou paralyzuje",
-      "svým dechem. O jejích péřích se soudí,",
-      "že jsou kouzelné."
+      "Jeho ostré jako břitva drápy rychle",
+      "rozsápou každou kořist, kterou paralyzuje",
+      "svým dechem. Jeho peří je prý magické."
     ],
     "abilities": [
       "- Stoneblood",
@@ -177,24 +179,24 @@
       "- Double Strike"
     ],
     "inventory": [
-      "- Kouzelné Péří",
-      "- Svitky Zkamenění",
+      "- Kouzelná pera",
+      "- Kniha kouzel Stoneblood",
       "- Drahokamy",
       "- Lektvary"
     ]
   },
   "coral grimes": {
     "blurb": [
-      "Lovce ghúlů CORAL GRIMES a jeho parta",
-      "si vysloužili slávu, ale věštci varují, že mrtví",
-      "si ponechávají své nutkání z života.",
+      "Lovec ghoulů CORAL GRIMES a jeho parta",
+      "získali slávu, ale kostelníci varují, že",
+      "mrtví si ponechávají své nutkání ze života.",
       "",
-      "Jakmile byla partě GRIMESA zabita, všichni",
-      "se modlili, aby znovu nevstali."
+      "Když GRIMES a jeho parta zemřeli,",
+      "všichni se modlili, aby už nevstali."
     ],
     "abilities": [],
     "inventory": [
-      "- Klobouk Pronásledovatele",
+      "- Klobouk lovce odměn",
       "- Rubín",
       "- Maso"
     ]
@@ -204,9 +206,9 @@
       "Obří dungeon KRABI",
       "jsou trpěliví lovci.",
       "",
-      "Jejich pomalý metabolismus a jedovaté drápy",
-      "je staví do role ideálních číhačů na kořist,",
-      "kterou pak obsadí, roztrháč a sní."
+      "Jejich pomalý metabolismus a jedovaté klepeta",
+      "z nich dělají ideální predátory, kteří čekají na",
+      "kořist k přepadu, rozsápání a sežrání."
     ],
     "abilities": [
       "- Poisoned Attacks",
@@ -218,29 +220,29 @@
   },
   "crystalgolem": {
     "blurb": [
-      "Větší bratranec automatu,",
-      "KRYSTALOVÝ GOLEM se vynořil",
-      "z přebytku kouzelného materiálu a vůle.",
+      "Větší bratr automatona,",
+      "CRYSTAL GOLEM vznikl z nadměrného",
+      "množství magického materiálu a vůle.",
       "",
-      "Když zvedá ruce,",
+      "Když zvedne ruce,",
       "je nejlepší být někde jinde."
     ],
     "abilities": [
       "- Power Strike"
     ],
     "inventory": [
-      "- Krystalové vybavení",
+      "- Křišťálové vybavení",
       "- Drahokamy"
     ]
   },
   "demon": {
     "blurb": [
-      "Považují se za manifestace primitivní",
-      "násilnosti, DÉMONI se nacházejí blízko",
+      "Prý ztělesnění prvotního",
+      "násilí, DÉMONI se nacházejí poblíž",
       "největších zdrojů zla.",
       "",
-      "Roztrhávají nepřátele svými pařáty,",
-      "nebo pálí oběti pekelným ohněm."
+      "Rozsápou nepřátele svými drápy,",
+      "nebo oběti nejdřív opečou pekelným ohněm."
     ],
     "abilities": [
       "- Fireball"
@@ -251,12 +253,13 @@
   },
   "deudebreau": {
     "blurb": [
-      "Jak hnusní jsou démoni, tím hnusnější",
-      "jsou ti, kdo si prosazují v démonických řadách.",
+      "Jak ohavní jsou démoni,",
+      "ti, kdo stoupají v démonických řadách,",
+      "jsou ještě ohavnější.",
       "",
-      "Zakladatel podlého bratrstva,",
-      "DEU DE'BREAU je vždy obklopen družinou",
-      "démonických chlebožroutů."
+      "Zakladatel krutého bratrstva,",
+      "DEU DE'BREAU je vždy doprovázen",
+      "skupinou démonických lokajů."
     ],
     "abilities": [
       "- Fireball"
@@ -267,10 +270,12 @@
   },
   "devil": {
     "blurb": [
-      "Ďábel BAPHOMET vládne okolním peklům",
-      "podle své vůle, pomocí vazalů, magie a síry.",
+      "Ďábel BAPHOMET ovládá",
+      "okolní pekla svou vůlí, používá",
+      "poskoky, magii a síru.",
       "",
-      "Nedovolí vetřelcům potlačit své ambice."
+      "Nedovolí vetřelcům,",
+      "aby zmařili jeho ambice."
     ],
     "abilities": [
       "- Fireball Spray",
@@ -288,9 +293,9 @@
   "dummybot": {
     "blurb": [
       "DUMMYBOT je mimořádně odolný.",
-      "Se správnou údržbou může tvůj chráněný",
-      "společník sloužit jako mocný strážce",
-      "zatímco se věnuješ svým záležitostem!"
+      "S řádnou údržbou může tvůj obrněný",
+      "společník sloužit jako mocný",
+      "strážce, zatímco se věnuješ jiným věcem!"
     ],
     "abilities": [
       "- Taunt"
@@ -301,66 +306,67 @@
   },
   "enslaved ghoul": {
     "blurb": [
-      "Ti, co jsou OTROCI od smrti, vlastní",
-      "nadpřirozenou hlad, kterou živí nenávist",
-      "k jejich pánu.",
+      "Ti, kdo byli ZOTROČENI před smrtí, mají",
+      "nadpřirozený hlad poháněný nenávistí",
+      "k jejich pánovi.",
       "",
-      "Konzumování živých je posiluje, a",
-      "pohybují se děsivou rychlostí."
+      "Konzumace živých je posiluje",
+      "a pohybují se zuřivou rychlostí."
     ],
     "abilities": [
       "- Vampiric Aura"
     ],
     "inventory": [
       "- Maso",
-      "- Rozličné nástroje",
-      "- Posvěcená Voda"
+      "- Různé nástroje",
+      "- Požehnaná voda"
     ]
   },
   "funny bones": {
     "blurb": [
-      "Zvlášť krutý vůdce žoldnéřů měl na starosti",
-      "bezpečnost dolů a disciplínu otroků.",
+      "Obzvlášť krutý kapitán žoldnéřů",
+      "velel bezpečnosti dolů a",
+      "disciplíně otroků v dolech.",
       "",
-      "S kvalitním vybavením a přísným chováním",
-      "si vydobyl ironickou přezdívku."
+      "S kvalitní výbavou a přísným vystupováním",
+      "si vysloužil ironickou přezdívku."
     ],
     "abilities": [],
     "inventory": [
       "- Parashu",
-      "- Plášť Ochrany",
-      "- Páska Přes Oko",
-      "- Kožené, Dřevěné, Železné štíty/",
-      "    helmy"
+      "- Plášť ochrany",
+      "- Oční klapka",
+      "- Kožené, dřevěné, železné štíty/",
+      "    přilby"
     ]
   },
   "gharbad": {
     "blurb": [
-      "Jen zřídka se zvěřák dožije věku, kdy mu",
-      "srst zešedí, a jen o něco zřídka se jeden",
-      "narodí přirozeně takto.",
+      "Jen zřídka se kozel dožije dostatečně vysokého",
+      "věku, aby mu srst zestříbřila, a jen o málo méně",
+      "zřídka se některý narodí přirozeně se stříbrnou srstí.",
       "",
-      "Ať už si to zasloužili nebo ne, tito",
-      "šťastlivci přitahují věrné následovníky."
+      "Ať už si to zaslouží nebo ne, tito šťastlivci",
+      "přitahují věrné následovníky."
     ],
     "abilities": [],
     "inventory": [
-      "- Železné, Ocelové, Krystalové brnění",
-      "- Ocelové, Krystalové Sekery/Palice",
-      "- Krystalové Shurikeny",
-      "- Ocelové Čakramy",
-      "- Lektvary Léčení",
-      "- Lahve Alkoholu"
+      "- Železná, ocelová, křišťálová zbroj",
+      "- Ocelové, křišťálové sekery/palcáty",
+      "- Křišťálové shurikeny",
+      "- Ocelové chakramy",
+      "- Lektvary léčení",
+      "- Lahve alkoholu"
     ]
   },
   "ghost": {
     "blurb": [
-      "Hamletské prokletí umožňuje vázané skupině",
-      "dobrodružců být spolu v duchu po smrti,",
-      "doslova.",
+      "Prokletí Hamletu umožňuje spojené skupině",
+      "dobrodruhů být spolu i po smrti - doslova",
+      "duchovně pohromadě.",
       "",
-      "S vytrvalostí může okolní nekromancí",
-      "způsobit, že se tělo znovu zhmotní."
+      "S vytrvalostí může okolní nekromancie",
+      "způsobit, že se tělo znovu zmaterializuje."
     ],
     "abilities": [
       "- Sneak",
@@ -374,114 +380,115 @@
   },
   "ghoul": {
     "blurb": [
-      "S primitivní nenávistí k živým, GHÚLOVÉ",
-      "útočí, když je jejich odpočinek vyrušen.",
+      "S prvotní nenávistí k živým,",
+      "GHOULOVÍ útočí, když je někdo vyruší",
+      "z jejich odpočinku.",
       "",
-      "Nikdo vlastně neví, co změní mrtvého",
-      "člověka v GHÚLA, ale někteří se to snaží",
-      "zabránit určitými pohřebními obřady."
+      "Nikdo moc neví, co mrtvého",
+      "mění na GHOULA, ale někteří se to snaží",
+      "předejít speciálními pohřebními rituály."
     ],
     "abilities": [],
     "inventory": [
       "- Maso",
-      "- Rozličné nástroje",
-      "- Posvěcená Voda"
+      "- Různé nástroje",
+      "- Požehnaná voda"
     ]
   },
   "gnome": {
     "blurb": [
-      "SKŘETI jsou známí svou zlostiností, ale",
-      "ti, co se stanou závislými na hledání",
-      "bohatství, jsou už bez naději.",
+      "GNÓMOVÉ jsou známí svými lumpárnami, ale",
+      "ti, kteří propadnou závislosti na hledání",
+      "bohatství, jsou za hranou záchrany.",
       "",
-      "Musíš si dávat pozor, když se snažíš",
-      "vykrást skřetovi jídlo a bohatství."
+      "Člověk si musí dávat pozor, když chce",
+      "uloupnout gnómovo jídlo a poklady."
     ],
     "abilities": [],
     "inventory": [
       "- Krumpáče",
-      "- Kouzelné Berle Blesku",
+      "- Magické hole blesku",
       "- Ryby",
       "- Dýmky",
       "- Lucerny",
       "- Drahokamy",
-      "- Kouzelné Péří"
+      "- Kouzelná pera"
     ]
   },
   "gnome thief": {
     "blurb": [
-      "Když na zlato závislí SKŘETI nemají nic,",
-      "co by mohli kopat, organizují se k jeho",
-      "hledání.",
+      "Když gnómové posedlí zlatem nemají",
+      "co dolovat, organizují se k lovu.",
       "",
-      "Dej si pozor na SKŘETÍ ZLODĚJI s",
-      "přepadavajícími skupinami, kteří používají",
-      "pasti a zbraně se smrtelnou zručností."
+      "Dávej pozor na GNÓMSKÉ ZLODĚJE,",
+      "kteří používají pasti a zbraně",
+      "se smrtící dovedností."
     ],
     "abilities": [
       "- Lay Trap"
     ],
     "inventory": [
-      "- Ocelové Meče/Palice",
-      "- Krátké luky/Kuše a Toulce",
-      "- Bycockets (Vůdce Zloděje)",
-      "- Plášť Šeptů",
+      "- Ocelové meče/palcáty",
+      "- Krátké luky/kuše a toulce",
+      "- Bycocket (Vůdce zlodějů)",
+      "- Kapuce šeptání",
       "- Šátky",
-      "- Lupičské Masky",
-      "- Kusadla",
-      "- Medvědí pasti/Zdokonalené Pasti",
-      "- Kouzelné Péří"
+      "- Banditské masky",
+      "- Ústní nože",
+      "- Medvědí pasti/Tinkered pasti",
+      "- Kouzelná pera"
     ]
   },
   "goatman": {
     "blurb": [
-      "Kmenový národ z okolních hor, ZVĚŘÁCI",
-      "jsou odolní, tupí lidé.",
+      "Kmenový lid ze sousedních",
+      "hor, KOZLI jsou odolní,",
+      "ale ne příliš bystří.",
       "Jejich kultura se točí kolem pití,",
-      "přestože mohou být schopní v mnoha",
-      "dovednostech, když jsou nasyceni."
+      "ale když jsou sytí, mohou být celkem",
+      "kompetentní v mnoha dovednostech."
     ],
     "abilities": [],
     "inventory": [
-      "- Železné, Ocelové, Krystalové brnění",
-      "- Ocelové, Krystalové Sekery/Palice",
-      "- Rozličná Kouzelná Berla",
-      "- Lucerny, Krystalové Střepy",
-      "- Zrcadlové Štíty",
-      "- Ocelové Čakramy",
-      "- Lektvary Léčení",
-      "- Lahve Alkoholu"
+      "- Železná, ocelová, křišťálová zbroj",
+      "- Ocelové, křišťálové sekery/palcáty",
+      "- Různé magické hole",
+      "- Lucerny, křišťálové úlomky",
+      "- Zrcadlové štíty",
+      "- Ocelové chakramy",
+      "- Lektvary léčení",
+      "- Lahve alkoholu"
     ]
   },
   "goblin": {
     "blurb": [
-      "Dungeonu GOBLINI jsou podobní lidem,",
-      "ale žijí v brutálních, drsných podmínkách.",
+      "Dungeon GOBLINI jsou podobní lidem,",
+      "ale žijí v brutálních, divokých podmínkách.",
       "",
-      "Přestože jsou velmi vynalézaví, jejich mysli",
-      "se atrofovaly, takže mnozí jsou závislí",
-      "na nájezdech proti lidem."
+      "Ačkoliv jsou velmi vynalézaví, jejich",
+      "mysl zakrněla, což mnohé z nich činí",
+      "závislými na nájezdech proti lidem."
     ],
     "abilities": [],
     "inventory": [
-      "- Bronzové, Železné Palice/Sekery",
-      "- Krátké luky a Toulce",
-      "- Kouzelná Berla Ohně",
-      "- Pláště Odrazu Magie",
-      "- Trávy SprIG",
-      "- Kožené, Bronzové brnění",
+      "- Bronzové, železné palcáty/sekery",
+      "- Krátké luky a toulce",
+      "- Magické hole ohně",
+      "- Pláště odrazu magie",
+      "- Tráva",
+      "- Kožená, bronzová zbroj",
       "- Pláště",
-      "- Zvířecí Kloboucky",
-      "- Kouzelné Čepice"
+      "- Zvířecí čepice",
+      "- Mágova čelenka"
     ]
   },
   "gyrobot": {
     "blurb": [
-      "Ačkoliv letící GYROBOT se může vyhnout",
-      "více hrozbám, některá nebezpečí jsou",
-      "příliš velká na to, aby se mu vyklonil.",
-      "Zvědavý GYROBOT může omylem spustit",
-      "pasti a přestat fungovat."
+      "Zatímco létající GYROBOT se vyhne",
+      "většině hrozeb, některá nebezpečí jsou",
+      "příliš velká na oblet.",
+      "Zvědaví GYROBOTI mohou nechtěně",
+      "spustit pasti a přestat fungovat."
     ],
     "abilities": [
       "- Levitation",
@@ -494,109 +501,110 @@
   },
   "human": {
     "blurb": [
-      "Hamletští občané kdysi pocházeli",
-      "z mnoha národů, aby spolu handlovali",
-      "a pracovali v míru.",
+      "Obyčejní obyvatelé Hamletu kdysi",
+      "přicházeli z mnoha národů, aby obchodovali",
+      "a pracovali spolu v míru.",
       "",
-      "Se správným soustředěním se LIDÉ mohou",
-      "stát znalí v čemkoliv, do čeho si dají hlavu."
+      "Se správným zaměřením mohou LIDÉ",
+      "dosáhnout mistrovství v čemkoliv, na co si zamanou."
     ],
     "abilities": [],
     "inventory": [
-      "- Zbraně na blízko a na dálku",
-      "- Kožené, Bronzové, Železné, Ocelové",
-      "brnění"
+      "- Zbraně na blízko i na dálku",
+      "- Kožená, bronzová, železná, ocelová",
+      "zbroj"
     ]
   },
   "imp": {
     "blurb": [
-      "Hrozní mazáci, IMPI se toulají",
-      "všude, kde mohou způsobit utrpení.",
+      "Strašliví rošťáci, IMPOVÉ",
+      "se toulají všude, kde mohou způsobovat utrpení.",
       "",
-      "Jejich křídla a magické schopnosti jim umožňují",
-      "ničit protivníky, často mimo jejich dosah,",
-      "přitom si kejchají."
+      "Jejich křídla a magické schopnosti jim dovolují",
+      "devastovat nepřátele, často z bezpečné vzdálenosti,",
+      "a celou dobu se chichotají."
     ],
     "abilities": [
       "- Fireball",
       "- Levitation"
     ],
     "inventory": [
-      "- Různé Spellbooks"
+      "- Různé knihy kouzel"
     ]
   },
   "incubus": {
     "blurb": [
-      "INCUBUS je prokletí hrdosti v tělesné podobě",
-      "a je posednut kontrolou ostatních.",
+      "Ztělesnění prokletí pýchy, INCUBUS",
+      "má posedlost ovládáním druhých.",
       "",
-      "Používá kouzla a zbraně, aby si pohrával se svými",
-      "oběťmi. Někteří však jdou přímo",
-      "a aktivně usilují o zlo."
+      "Používá kouzla a zbraně, aby si hrál se svými",
+      "oběťmi, ačkoliv někteří sahají k přímočaré",
+      "metodě ve své snaze o zlo."
     ],
     "abilities": [
       "- Teleportation",
       "- Steal Weapon"
     ],
     "inventory": [
-      "- Magicstaffs of Cold",
-      "- Crossbows",
-      "- Steel, Crystal polearms",
-      "- Bottles of Booze",
-      "- Potions of Confusion",
-      "- Masquerade Mask",
-      "- Mirror Shield"
+      "- Magické hole mrazu",
+      "- Kuše",
+      "- Ocelové, křišťálové kopí",
+      "- Lahve alkoholu",
+      "- Lektvary zmatení",
+      "- Maškarní maska",
+      "- Zrcadlový štít"
     ]
   },
   "insectoid": {
     "blurb": [
-      "O skrytém hmyzím lidu, který se toulá",
-      "v odlehlých místech, se ví jen málo.",
+      "O záhadném hmyzím",
+      "lidu, který se potuluje v odlehlých místech,",
+      "toho moc nevíme.",
       "",
       "Jejich dovednost a tajemná fyziologie jim dávají",
-      "výhodu na bojišti. Vrhají strach",
-      "do srdcí mnohých lidí."
+      "výhodu na bitevním poli a zasévají",
+      "strach do mnoha lidských srdcí."
     ],
     "abilities": [
       "- Spray Acid"
     ],
     "inventory": [
-      "- Iron, Steel, Crystal armor",
-      "- Steel, Crystal Swords/Polearms",
-      "- Shortbows/Longbows/Compound",
-      "    Bows",
-      "- Crossbows",
-      "- Iron Daggers"
+      "- Železná, ocelová, křišťálová zbroj",
+      "- Ocelové, křišťálové meče/kopí",
+      "- Krátké luky/dlouhé luky/reflexní",
+      "    luky",
+      "- Kuše",
+      "- Železné dýky"
     ]
   },
   "kobold": {
     "blurb": [
-      "KOBOLDI jsou malí, šupinací tvorové a jsou",
-      "notoricky známí kultisté a bandité v regionu.",
+      "KOBOLDOVÉ jsou malí, šupinatí tvorové",
+      "a notoricky známí kultisté a banditi v regionu.",
       "",
-      "Dlouho jsou velkým problémem pro",
-      "Cech Magů, zvláště díky své",
-      "vrozené odolnosti vůči magii."
+      "Už dlouho jsou problémem pro",
+      "Gildu kouzelníků kvůli své vrozené",
+      "odolnosti proti magii."
     ],
     "abilities": [
       "- Slow"
     ],
     "inventory": [
-      "- Iron, Steel melee/ranged",
-      "    weaponry",
-      "- Enchanted Feathers",
-      "- Tin Openers",
-      "- Towels"
+      "- Železné, ocelové zbraně na blízko/",
+      "    na dálku",
+      "- Kouzelná pera",
+      "- Otvíráky na konzervy",
+      "- Ručníky"
     ]
   },
   "lich": {
     "blurb": [
-      "Tělo BARONA HERXE je zbarveno smrtí",
-      "jeho masa, ale má obrovskou",
-      "magickou sílu a temné pouto s Peklem.",
+      "BARON HERXovo tělo sčernalo",
+      "smrtí jeho masa, ale disponuje obrovskou",
+      "magickou silou a temným poutem s peklem.",
       "",
-      "Těm, kdo se s ním utkají, musí být",
-      "dobře připraveni na jeho kouzla."
+      "Ti, kdo s ním jdou přímo do boje,",
+      "musí být dobře připraveni na jeho kouzla."
     ],
     "abilities": [
       "- Lightning Volley",
@@ -607,18 +615,18 @@
       "- Dash"
     ],
     "inventory": [
-      "- Purple Mystic Orb",
-      "- Gold"
+      "- Purpurová mystická koule",
+      "- Zlato"
     ]
   },
   "lichfire": {
     "blurb": [
-      "ORPHEUS využívá svou vášeň k hnání své magie",
+      "ORPHEUS používá svou vášeň jako palivo pro magii",
       "a rád dominuje svým problémům",
-      "přímým střetem.",
+      "tváří v tvář.",
       "",
       "Velká, mocná kouzla a zastrašování",
-      "mu umožňují skončit věci rychle."
+      "mu umožňují věci rychle ukončit."
     ],
     "abilities": [
       "- Fireball",
@@ -630,18 +638,18 @@
       "- Blood Field"
     ],
     "inventory": [
-      "- Crystal Sword",
-      "- Golden Mask"
+      "- Křišťálový meč",
+      "- Zlatá maska"
     ]
   },
   "lichice": {
     "blurb": [
       "ERUDYCE preferuje správné kouzlo,",
-      "umístěné s přesným záměrem, aby",
-      "obrátila události ve svůj prospěch.",
+      "umístěné s kruté přesností,",
+      "aby obrátila události ve svůj prospěch.",
       "",
-      "Nechá ostatní čelit konfrontaci, zatímco",
-      "zůstává v kontrole z pozadí."
+      "Nechává ostatní čelit konfrontaci,",
+      "zatímco zůstává v kontrole ze zákulisí."
     ],
     "abilities": [
       "- Cold",
@@ -654,54 +662,54 @@
       "- Command Automata"
     ],
     "inventory": [
-      "- Magicstaff of Cold",
-      "- Magus Headdress"
+      "- Magická hůl mrazu",
+      "- Mágova čelenka"
     ]
   },
   "lilith": {
     "blurb": [
-      "Jméno původně dané v mýtech primární",
-      "succubě, ti, kdo vedou a inspirují",
-      "succuby, někdy dostanou tento titul.",
+      "Jméno poprvé dané v mýtech prvotní",
+      "succubus, ty které vedou a inspirují",
+      "ostatní succuby někdy dostávají tento titul.",
       "",
       "Měj se na pozoru před jejím vlivem,",
-      "její nepřátelé přecházejí na její stranu."
+      "její nepřátelé prý často změní stranu."
     ],
     "abilities": [
       "- Charm Monster",
       "- Teleportation"
     ],
     "inventory": [
-      "- Magicstaffs of Charm Monster",
-      "- Roses"
+      "- Magické hole očarování monster",
+      "- Růže"
     ]
   },
   "mimic": {
     "blurb": [
-      "O skutečné podstatě MIMICA se ví málo,",
-      "ale předpokládá se, že neměl vždy",
-      "vypadat jako pokladní truhla.",
+      "O pravé povaze MIMIKA toho moc nevíme,",
+      "ale předpokládá se, že ne vždy",
+      "vypadali jako truhly s pokladem.",
       "",
-      "Další výzkum byl nemožný, protože",
-      "mi snědly výzkumníky i jejich poznámky."
+      "Další výzkum byl znemožněn tím,",
+      "že sežrali výzkumníky i jejich poznámky."
     ],
     "abilities": [
       "- Devour Equipment",
       "- Indominable"
     ],
     "inventory": [
-      "- Chest contents",
-      "- Gold"
+      "- Obsah truhly",
+      "- Zlato"
     ]
   },
   "minotaur": {
     "blurb": [
       "Obrovská legendární bestie neznámého původu,",
-      "MINOTAUR může prorazit zdí",
-      "a byl kouzelně vylepšen, takže může",
+      "MINOTAURUS dokáže prorazit dungeon",
+      "zdi a byl zaklet, což mu umožňuje",
       "levitovat.",
-      "Je bezohledný v pronásledování",
-      "nepřátel svého pána, aby je porazil."
+      "Je nemilosrdný v pronásledování",
+      "nepřátel svého pána."
     ],
     "abilities": [
       "- Levitation",
@@ -710,17 +718,17 @@
       "- Indominable"
     ],
     "inventory": [
-      "- High value gemstones"
+      "- Drahokamy vysoké hodnoty"
     ]
   },
   "mysterious shop": {
     "blurb": [
-      "Tento TAJEMNÝ OBCHODNÍK zná věci,",
-      "které nemůže vědět a nese",
-      "artefakty, které nemůže vlastnit.",
+      "Tento TAJEMNÝ OBCHODNÍK ví věci,",
+      "které by nemohl vědět, a má při sobě",
+      "artefakty, které by nemohl vlastnit.",
       "",
-      "Obchoduje pouze za magické koule,",
-      "pokud se na ně rozhodneš je obětovat."
+      "Bude obchodovat pouze pokud dostane mystické koule,",
+      "pokud je zákazník vůbec schopen je nabídnout."
     ],
     "abilities": [
       "- Magic Missile",
@@ -730,64 +738,64 @@
       "- Teleportation"
     ],
     "inventory": [
-      "- Various Shop stock"
+      "- Různé zboží z obchodu"
     ]
   },
   "potato king": {
     "blurb": [
-      "Na rozdíl od své příbuznosti se POTATO KING",
-      "zdá být veselý a bezstarostný, ačkoli",
-      "šílený.",
-      "Ostatní goblini se zdají být přitahováni jeho chaotickou",
-      "osobností, snad v zoufalé touze po smíchu",
-      "v bažinách."
+      "Na rozdíl od svých příbuzných,",
+      "BRAMBOROVÝ KRÁL vypadá veselý a",
+      "bezstarostný, ačkoliv šílený.",
+      "Ostatní goblini jsou přitahováni k jeho",
+      "chaotické osobnosti, možná zoufalí po troše",
+      "lehkosti v bažinách."
     ],
     "abilities": [],
     "inventory": [
       "- Sharur",
-      "- Jester Hat",
-      "- Cloaks of Magic Reflection",
-      "- Grass Sprigs",
-      "- Leather, Bronze armor",
-      "- Cloaks"
+      "- Šaškovský klobouk",
+      "- Pláště odrazu magie",
+      "- Tráva",
+      "- Kožená, bronzová zbroj",
+      "- Pláště"
     ]
   },
   "rat": {
     "blurb": [
-      "Dungeony odchovaly tyto KRYSY na",
-      "agresivitu a velikost.",
+      "Dungeony vychovaly tyto KRYSY k",
+      "agresivitě a velikosti.",
       "",
-      "Zatímco bys byl moudrý a ostražitý vůči",
-      "rojům a skrytým KRYSÁM, obvykle jejich pohled",
-      "znamená zdroj jídla."
+      "Zatímco je moudré dávat si pozor na",
+      "roje a zákeřné KRYSY, obvykle jejich spatření",
+      "znamená příslib jídla."
     ],
     "abilities": [],
     "inventory": [
-      "- Meat, Cheese"
+      "- Maso, Sýr"
     ]
   },
   "scarab": {
     "blurb": [
-      "Odolný SCARAB má pověst v tom, že vrtá husté,",
-      "magické materiály a přenáší hluboko",
-      "magickou odolnost do svých pancířů.",
+      "O houževnatém SKARABOVI se říká,",
+      "že se zavrtává do hustých magických materiálů,",
+      "čímž získává hlubokou magickou odolnost do svého krunýře.",
       "",
-      "Jejich slizké maso je některým nepříjemné,",
-      "ale je velmi výživné."
+      "Jejich slizké maso je pro některé",
+      "nechutné, ale je velmi výživné."
     ],
     "abilities": [],
     "inventory": [
-      "- Tomalleys",
-      "- Low value gemstones"
+      "- Tomalley",
+      "- Drahokamy nízké hodnoty"
     ]
   },
   "scorpion": {
     "blurb": [
-      "Dobrý štít v zručných rukou může blokovat",
-      "smrtící ochrnutí žádlu ŠTÍRA.",
+      "Dobrý štít ve zkušených rukou může zablokovat",
+      "smrtící paralyzující žihadlo ŠKORPIÓNA.",
       "",
-      "Oběti ŠTÍRŮ obvykle mají výraz",
-      "překvapení zmrzlý na jejich tvářích, když je",
+      "Oběti ŠKORPIÓNŮ mají obvykle výraz",
+      "překvapení zamrzlý na tváři, když je",
       "tělo nalezeno."
     ],
     "abilities": [
@@ -799,12 +807,12 @@
   },
   "sentrybot": {
     "blurb": [
-      "Často se předpokládá, že je moderním vynálezem,",
-      "ale varianty tohoto SENTRYBOT plánu byly",
+      "Často považovaný za moderní vynález,",
+      "varianty tohoto SENTRYBOT návrhu byly",
       "nalezeny aktivní mezi starověkými ruinami.",
       "",
-      "Ačkoli snadno poškoditelný, správci se",
-      "na sentrybot spoléhají pro jejich vysoký damage output."
+      "Ačkoliv jsou snadno rozbitné, kutil spoléhají",
+      "na sentrybot kvůli vysokému poškození."
     ],
     "abilities": [],
     "inventory": [
@@ -813,12 +821,12 @@
   },
   "shadow": {
     "blurb": [
-      "Zlý duch, který se toulá bez vědomí",
-      "sebe samého.",
+      "Zlý duch, který se potuluje,",
+      "zdánlivě bez jakéhokoliv vědomí o sobě samém.",
       "",
-      "STÍN si krade identitu každého, s kým se sejde,",
-      "a marně se pokouší nahradit",
-      "cíl vražděním původce."
+      "STÍN krade identitu kohokoliv,",
+      "koho potká, a marně se pokouší nahradit",
+      "svůj cíl zavražděním originálu."
     ],
     "abilities": [
       "- Mimic Other",
@@ -827,17 +835,17 @@
       "- Indominable"
     ],
     "inventory": [
-      "- Spooky Masks"
+      "- Strašidelné masky"
     ]
   },
   "shelob": {
     "blurb": [
-      "Ti, kdo přežili SHELOB, tvrdí, že",
-      "není pavouk vůbec. Je to spíše",
-      "démonický duch v pavoučí podobě.",
+      "Ti, kdo SHELOB přežili, tvrdí,",
+      "že to vůbec není pavouk. Spíše je to",
+      "démonický duch v podobě pavouka.",
       "",
-      "Nese s sebou",
-      "poklad z těl svých obětí."
+      "S sebou nosí poklad",
+      "svých obětí."
     ],
     "abilities": [
       "- Poisoned Attacks",
@@ -845,17 +853,17 @@
     ],
     "inventory": [
       "- Dyrnwyn",
-      "- Ring of Invisibility"
+      "- Prsten neviditelnosti"
     ]
   },
   "shopkeeper": {
     "blurb": [
-      "Dobří OBCHODNÍCI nějak dokončí jejich",
-      "podnikání kdekoliv.",
-      "Jsou velmi vybíraví o tom, co kupují,",
+      "Dobří OBCHODNÍCI nějak dokážou,",
+      "aby jejich podnikání fungovalo kdekoliv.",
+      "Jsou vybíraví v tom, co nakupují,",
       "a netolerují zloděje.",
       "",
-      "Zprávy se rychle šíří v Cechu Obchodníků."
+      "Ve Gilgildě obchodníků se zvěsti šíří rychle."
     ],
     "abilities": [
       "- Magic Missile",
@@ -864,50 +872,50 @@
       "- Bloodletting"
     ],
     "inventory": [
-      "- Various Shop stock"
+      "- Různé zboží z obchodu"
     ]
   },
   "skeleton": {
     "blurb": [
-      "Prokletté pozůstatky nájemné armády,",
-      "KOSTRY nesou různé vybavení.",
+      "Prokleté ostatky žoldnéřské armády,",
+      "KOSTLIVCI nosí různou výbavu.",
       "",
-      "Musíš si dát pozor jak při boji, tak při",
-      "jejich loupení, protože opotřebované vybavení",
-      "by ti mohlo ublížit více než pomoci."
+      "Člověk si musí dávat pozor jak při boji,",
+      "tak i při plenění jejich těl, protože otlučená",
+      "výbava může škodit více než pomáhat."
     ],
     "abilities": [],
     "inventory": [
-      "- Bronze, Iron Axes/Swords/",
-      "    Polearms",
-      "- Leather, Wooden, Iron shields/",
-      "    helmets"
+      "- Bronzové, železné sekery/meče/",
+      "    kopí",
+      "- Kožené, dřevěné, železné štíty/",
+      "    přilby"
     ]
   },
   "skrabblag": {
     "blurb": [
-      "Chitinový exoskelet této bestie má",
-      "nespočet štěpin a škrábanců z",
-      "boje se slabší kořistí.",
-      "Přírodovědci tvrdí, že štíři jako",
-      "SKRABBLAG jsou schopni stárnout do",
-      "nesmrtelnosti."
+      "Exoskelet této bestie nese",
+      "nespočetné trhliny a škrábance",
+      "z bojů se slabší kořistí.",
+      "Přírodovědci tvrdí, že škorpióni jako",
+      "SKRABBLAG jsou schopni stárnout",
+      "až k nesmrtelnosti."
     ],
     "abilities": [
       "- Paralyzing Attacks"
     ],
     "inventory": [
-      "- Rubies"
+      "- Rubíny"
     ]
   },
   "slime": {
     "blurb": [
-      "Objevované v různých barvách, SLIMES jsou",
-      "jednoduché bytosti hledající neustálou",
+      "SLIZI nacházející se v různých barvách jsou",
+      "entity bez mysli, hledající nekonečnou",
       "konzumaci.",
-      "Často se ocitají klouzavé trubkami nebo",
-      "vodními cestami v hledání",
-      "organické hmoty, kterou si zkapalní."
+      "Často se sklouzávají rourami nebo",
+      "vodními cestami ve svém hledání",
+      "organické hmoty k zkapalňování."
     ],
     "abilities": [
       "- Waterwalking (Blue/Purple)",
@@ -924,11 +932,11 @@
   },
   "spellbot": {
     "blurb": [
-      "Všechny automatizované mechanismy správy se",
-      "spoléhají na kouzelné zbytky pro omezené chování.",
+      "Všechny automatizované mechanismy spoléhají",
+      "na magický šrot pro omezenou funkcionalitu.",
       "",
-      "SPELLBOT je vybaven velkou zásobou",
-      "umožňující mu vytvářet magické poškození."
+      "SPELLBOT je vybaven velkým množstvím,",
+      "což mu umožňuje vytvářet magické poškození."
     ],
     "abilities": [
       "- Forcebolt",
@@ -940,12 +948,12 @@
   },
   "spider": {
     "blurb": [
-      "Obrovští dungeontí PAVOUKOVÉ",
+      "Obří dungeon PAVOUCI",
       "jsou trpěliví lovci.",
       "",
       "Jejich pomalý metabolismus a jedovaté tesáky",
-      "je dobře hodí pro čekání na kořist,",
-      "kterou si přepadnou, rozpáráší a sežerou."
+      "z nich dělají ideální predátory, kteří čekají na",
+      "kořist k přepadu, rozsápání a sežrání."
     ],
     "abilities": [
       "- Poisoned Attacks",
@@ -957,87 +965,87 @@
   },
   "succubus": {
     "blurb": [
-      "Ztělesnění prokletí vášně, SUCCUBUS",
-      "je chytrá a krutá.",
+      "Ztělesnění prokletí chtíče, SUCCUBUS",
+      "je lstivá a krutá.",
       "",
-      "Má všechno, co potřebuje k",
-      "manipulaci ostatních. Někteří však",
-      "se vydávají nezávisle v hledání zla."
+      "Má vše, co potřebuje k",
+      "manipulaci druhých, ačkoliv některé jdou",
+      "nezávislou cestou ve své snaze o zlo."
     ],
     "abilities": [
       "- Charm Monster",
       "- Teleportation"
     ],
     "inventory": [
-      "- Magicstaffs of Charm Monster",
-      "- Masquerade Masks"
+      "- Magické hole očarování monster",
+      "- Maškarní masky"
     ]
   },
   "thumpus": {
     "blurb": [
-      "Přátelství mezi troly a gnómy je",
-      "dobře zdokumentováno, ale obvykle gnómové",
-      "si hrají s větší bestií.",
+      "Přátelskost mezi trooly a gnómy je",
+      "dobře zdokumentovaná, ale obvykle se gnómové",
+      "rádi pohrávají s většími bestie.",
       "",
-      "THUMPUS se zdá, že",
-      "získal gnómí respekt."
+      "Zdá se, že THUMPUS si",
+      "vysloužil gnómský respekt."
     ],
     "abilities": [],
     "inventory": [
-      "- Miscellaneous dungeon floor loot",
-      "- Roses"
+      "- Různá kořist z dungeonů",
+      "- Růže"
     ]
   },
   "troll": {
     "blurb": [
-      "Tito téměř slepí obři se zdají být",
-      "procházkou dungeony náhodou,",
-      "preferující žít v izolaci, i od",
-      "sebe navzájem.",
-      "Překříž jejich cestu a buď připraven na",
-      "mohutné bití."
+      "Tito téměř slepí obři se",
+      "zdánlivě toulají dungeony náhodou,",
+      "raději žijí v izolaci,",
+      "dokonce i od sebe navzájem.",
+      "Zkřiž jejich cestu a připrav se na",
+      "pořádné výprasky."
     ],
     "abilities": [],
     "inventory": [
-      "- Miscellaneous dungeon floor loot",
-      "- Roses"
+      "- Různá kořist z dungeonů",
+      "- Růže"
     ]
   },
   "vampire": {
     "blurb": [
-      "Aby si uchovali své prokletí",
+      "Aby si udrželi své prokletí",
       "nesmrtelnosti, UPÍŘI musí konzumovat",
       "krev živých.",
-      "Mají úžasné magické schopnosti,",
-      "které jsou prý získány cenou",
-      "své vlastní duše."
+      "Mají podivuhodné magické schopnosti,",
+      "které prý získají tím, že se",
+      "zřeknou své duše."
     ],
     "abilities": [
       "- Drain Soul",
       "- Vampiric Aura"
     ],
     "inventory": [
-      "- Magicstaffs of Bleed",
-      "- Vampire Doublet"
+      "- Magické hole krvácení",
+      "- Vampýří kabátec"
     ]
   },
   "xyggi": {
     "blurb": [
-      "Kult čarodějů věří, že všechen",
-      "intelekt se rodí z magie, tvrdíce, že",
-      "kde najdeš jeden, druhý bude následovat.",
+      "Kult čarodějů věří, že veškerý",
+      "intelekt pochází z magie, tvrdí, že",
+      "kde najdeš jedno, najdeš i druhé.",
       "",
-      "Scarab XYGGI je proslulý tím, že má",
-      "hrozující množství obojího."
+      "O skarabovi XYGGI se traduje, že má",
+      "hrozivé množství obojího."
     ],
     "abilities": [
       "- Cold",
       "- Magic Reflection"
     ],
     "inventory": [
-      "- Enchanted Feathers",
-      "- Tomalleys",
-      "- Low value gemstones"
+      "- Kouzelná pera",
+      "- Tomalley",
+      "- Drahokamy nízké hodnoty"
     ]
   }
 }
