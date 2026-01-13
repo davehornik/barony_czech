@@ -1,197 +1,196 @@
 {
     "alembic": {
         "blurb": [
-            "ALEMBIK umožňuje alchymistovi extrahovat",
-            "a kombinovat dvě tekutiny dohromady,",
-            "obvykle s jiným výsledným efektem.",
+            "ALEMBIK umožňuje alchymistům",
+            "extrahovat a kombinovat tekutiny,",
+            "obvykle s jiným výsledkem.",
             "",
-            "Zkušení vaření ho používají k tvorbě",
-            "mocnějších lektvarů."
+            "Zkušení pivovarníci tvoří",
+            "mnohem mocnější lektvary."
         ]
     },
     "arbalest": {
         "blurb": [
             "Arbalest je specializovaná kuše.",
-            "Zatímco se chová podobně jako její menší",
-            "protějšek, pomalu se přebíjí, má",
-            "krátký dostřel a masivní zpětný ráz.",
+            "Chová se podobně jako její menší verze,",
+            "ale pomalu se přebíjí, má krátký",
+            "dostřel a brutální zpětný ráz.",
             "",
-            "Férový kompromis za její velkou sílu."
+            "Férový kompromis za tu sílu."
         ]
     },
     "axes": {
         "blurb": [
-            "Co jim chybí na eleganci, SEKERY vynahradí",
-            "útoky, které nepříteli vyrazí dech.",
-            "Ideální proti lehce obrněným protivníkům,",
-            "těžké ostří vždy zakousne, i proti",
-            "těžce obrněným cílům."
+            "Co jim chybí na eleganci, SEKERY",
+            "vynahradí útoky, co vyrazí dech.",
+            "Ideální proti lehkým zbrojím -",
+            "těžké ostří zakousne i do toho",
+            "nejtěžšího pancíře."
         ]
     },
     "backpacks": {
         "blurb": [
-            "Starší dobrodruzi obvykle nedoporučují",
-            "hromadit předměty, neboť smrt rychle dohání",
-            "ty, kteří se pohybují pomalu.",
+            "Starší dobrodruzi nedoporučují",
+            "hromadit věci - smrt rychle dožene",
+            "ty, co se pohybují pomalu.",
             "",
-            "Některá povolání však tvrdí, že prostě",
-            "potřebují BATOHY pro extra úložiště."
+            "Některá povolání ale tvrdí, že prostě",
+            "potřebují BATOHY na extra místo."
         ]
     },
     "beartrap": {
         "blurb": [
-            "Krutý a poněkud primitivní nástroj,",
-            "past na medvědy se zakousne do nohou",
-            "nepřátel a způsobí zlostnou ránu.",
-            "Většina z nich je také chycena v pasti,",
-            "což je otevírá útokům, dokud se",
+            "Krutý a dost primitivní nástroj.",
+            "Past na medvědy se zakousne do nohou",
+            "nepřátel a způsobí brutální škody.",
+            "Většina z nich se v ní zachytí,",
+            "což je vystaví útokům, dokud se",
             "čelisti neuvolní."
         ]
     },
     "blood vials": {
         "blurb": [
-            "Se správnou technikou lze KREV ukrást",
-            "z obětí dříve, než ji znehodnotí",
-            "špinavé podlahy dungeonů.",
+            "Se správnou technikou můžeš KREV získat",
+            "z obětí ještě předtím, než ji znehodnotí",
+            "špinavé dungeonové podlahy.",
             "",
-            "Pouze prokletí a zatracení",
-            "by pro ni našli využití."
+            "Využití pro ni najdou jen",
+            "ti prokletí a zatracení."
         ]
     },
     "boomerang": {
         "blurb": [
             "Pověsti vyprávějí o kmeni, který vyrábí",
-            "zbraň, která se vždy vrátí svému",
+            "zbraň, jež se vždy vrátí svému",
             "majiteli po hodu.",
-            "Jednou zničený a starý, je nabídnut",
+            "Když zestárne a zničí se, nabídne se",
             "prvorozenému. Ti, kdo obnoví",
-            "BUMERANG, jsou prý hodnými."
+            "BUMERANG, jsou prý hodni té cti."
         ]
     },
     "booze": {
         "blurb": [
-            "Silný alkohol může trochu zvednout náladu",
-            "a poskytnout sílu sebevědomí.",
-            "Avšak neohrabaný mířením, tupý vtip",
-            "a slabý žaludek mohou následovat.",
-            "Každý si musí rozhodnout, zda je alkohol",
-            "neřest, nebo potěšení."
+            "Pořádný chlast zvedne náladu",
+            "a dodá sebevědomí.",
+            "Ale pozor - můžeš špatně mířit,",
+            "zpomalit a dělat blbosti.",
+            "Každý si musí rozmyslet, jestli",
+            "to za to stojí."
         ]
     },
     "bows": {
         "blurb": [
-            "Milované jak šarvátkami, tak lupiči,",
-            "luky všech druhů mohou vystřelovat šípy",
+            "Milované jak šarvátkami, tak lupiči.",
+            "LUKY všech druhů vystřelují šípy",
             "k zabíjení a obtěžování nepřátel na dálku.",
             "",
-            "Experti lovci a rogue",
-            "mají při ruce speciální munici."
+            "Experti lovci a rogue mají při sobě",
+            "speciální munici."
         ]
     },
     "chakrams and shurikens": {
         "blurb": [
             "Kvalitní materiál umožňuje ostřejší hranu",
-            "těchto zbraní a jejich rotace jim dovoluje",
-            "odrážet se od stěn.",
-            "Mazaní dobrodruzi mohou vyřadit",
-            "nepřátele zpoza rohů!",
+            "a rotace dovoluje odrážet se od stěn.",
+            "Mazaní dobrodruzi vyřadí",
+            "nepřátele i zpoza rohu!",
             "Sen každého metače."
         ]
     },
     "cheese and apples": {
         "blurb": [
-            "Základní SOUSTO jednoduchého jídla, hladový",
-            "dobrodruh musí sníst několik,",
+            "Základní SOUSTA jednoduchého jídla.",
+            "Hladový dobrodruh musí sníst několik,",
             "aby se nasytil.",
-            "Zkažené jídlo by člověk možná snědl jen když",
-            "už je zoufalý hlady, nebo mu chybí",
-            "jemná chuťová vnímaání."
+            "Zkažené jídlo sníš jen když jsi",
+            "zoufalý hlady, nebo nemáš",
+            "moc vybraný vkus."
         ]
     },
     "cloaks & clothing": {
         "blurb": [
-            "Obyčejné OBLEČENÍ není tak praktické",
-            "jako zbroj při konfrontaci s násilím.",
+            "Obyčejné OBLEČENÍ není proti násilí",
+            "tak praktické jako zbroj.",
             "",
-            "Ale zakletá roucha mohou přesvědčit",
-            "dobrodruhy k lehčímu",
-            "oděvu kvůli jiným výhodám."
+            "Ale zakletá roucha můžou přesvědčit",
+            "dobrodruhy nosit lehčí oděv",
+            "kvůli jiným výhodám."
         ]
     },
     "cream pie": {
         "blurb": [
-            "Dungeonová delikatesa, občas vybavená",
-            "tak, aby se rozstříkla do obličeje hladového",
-            "dobrodruha a na chvíli ho oslepila.",
+            "Dungeonová delikatesa, která se občas",
+            "rozstříkne hladovému dobrodruhovi",
+            "přímo do obličeje a oslepí ho.",
             "",
-            "Pokud nemáš hlad, KOLÁČ lze hodit",
-            "nepříteli do obličeje a zmást ho."
+            "Když nemáš hlad, hoď KOLÁČ",
+            "nepříteli do ksichtu a zmateš ho."
         ]
     },
     "crossbow": {
         "blurb": [
-            "Kuše je mechanicky asistovaná,",
+            "Kuše má mechanickou asistenci,",
             "což umožňuje rychlé nabíjení a střelbu",
             "pouhým zmáčknutím spouště.",
-            "Zatímco postrádá dostřel",
-            "ve srovnání s jinými luky, stále může",
-            "vystřelovat speciální munici."
+            "I když nemá takový dostřel",
+            "jako jiné luky, stále střílí",
+            "speciální munici."
         ]
     },
     "crowns & headdresses": {
         "blurb": [
-            "Vzácné ozdoby, vyhrazené pro politicky",
+            "Vzácné ozdoby vyhrazené pro politicky",
             "nebo magicky naladěné.",
             "",
-            "Ačkoliv se zdají být symbolické povahy,",
-            "mocné symboly mohou mít",
-            "mocný dopad."
+            "I když vypadají symbolicky,",
+            "mocné symboly můžou mít",
+            "obrovský dopad."
         ]
     },
     "crystal ammo": {
         "blurb": [
-            "Když hledáš tu nejlepší,",
-            "nejostřejší a nejsmrtelnější zoubkované",
-            "hroty k poškození jakéhokoliv nepřítele,",
-            "nemůžeš najít nic lepšího než KRYSTALOVOU MUNICI.",
+            "Když hledáš tu nejlepší, nejostřejší",
+            "a nejsmrtelnější zoubkované hroty",
+            "k poškození jakéhokoliv nepřítele,",
+            "nenajdeš nic lepšího než KRYSTALOVOU MUNICI.",
             "",
-            "Nekomplikovaný, dokonalý projektil."
+            "Jednoduchý, dokonalý projektil."
         ]
     },
     "crystal armor": {
         "blurb": [
-            "Tak vzácný KRYSTAL by normálně nikdy nebyl",
-            "použit jako ochranná zbroj, zvláště",
-            "vzhledem k jeho křehkosti.",
+            "Tak vzácný KRYSTAL by se normálně",
+            "nikdy nepoužil jako zbroj,",
+            "zvláště kvůli jeho křehkosti.",
             "",
-            "Pouze neuvěřitelná spousta magického",
-            "krystalu by ospravedlnila jeho takové použití."
+            "Jen obrovské množství magického",
+            "krystalu by ospravedlnilo toto použití."
         ]
     },
     "crystal shard": {
         "blurb": [
-            "Zatímco KRYSTALOVÉ STŘEPY jsou slabší než",
-            "pochodně, jejich světlo je viditelné pouze",
-            "pro nositele a nikdy nevyhoří.",
+            "KRYSTALOVÉ STŘEPY sice svítí méně než",
+            "pochodně, ale jejich světlo vidí jen",
+            "nositel a nikdy nevyhoří.",
             "",
-            "Jsou však křehké a použití k blokování",
-            "způsobí, že se rychle roztříští."
+            "Jsou ale křehké a když s nimi blokuješ,",
+            "rychle se roztříští."
         ]
     },
     "death box": {
         "blurb": [
-            "Truhla obsahující veškerý světský",
+            "Truhla obsahující všechen světský",
             "majetek mrtvého dobrodruha.",
             "",
-            "Nošení zpomaluje nositele o 25%.",
-            "Jakmile je rozbitá,",
-            "veškerý obsah se okamžitě vysype."
+            "Nošení zpomaluje o 25%.",
+            "Jakmile se rozbije,",
+            "všechno se z ní vysype."
         ]
     },
     "defensive potions": {
         "blurb": [
-            "DEFENZIVNÍ LEKTVARY poskytují obecně",
-            "prospěšný efekt těm, kdo je vypijí.",
+            "DEFENZIVNÍ LEKTVARY poskytují",
+            "prospěšné efekty těm, kdo je vypijí.",
             "",
             "Když spojenci potřebují pomoc, hoď",
             "jim užitečnou lahev do obličeje!"
@@ -199,118 +198,118 @@
     },
     "djinnis brace": {
         "blurb": [
-            "Cestovatel kdysi našel lampu přání,",
-            "obydlenou rozzlobeným Djinnim.",
+            "Cestovatel kdysi našel lampu přání",
+            "s rozzlobeným Djinnim uvnitř.",
             "",
-            "Cestovatel se pokusil Djinniho osvobodit,",
+            "Snažil se ho osvobodit,",
             "ale jeho pouta byla nezničitelná.",
-            "Pouze přání mohlo udělit jeho svobodu."
+            "Jen přání mohlo udělit svobodu."
         ]
     },
     "dragons mail": {
         "blurb": [
             "Legenda vypráví o rivalitě mezi",
-            "drakem a mýtickým cestovatelem. Jak",
-            "soutěžili o slávu, stali se přáteli.",
+            "drakem a mýtickým cestovatelem.",
+            "Jak soutěžili o slávu, stali se přáteli.",
             "",
-            "Když drak později zemřel,",
+            "Když drak zemřel,",
             "nabídl své šupiny cestovateli."
         ]
     },
     "dummybot": {
         "blurb": [
-            "Původně navržený jako přenosný a",
-            "odolný tréningový společník, DUMMYBOTI",
-            "byli magicky naladěni k iritování",
-            "a udržování pozornosti nepřátel.",
-            "Zatímco jsou rozptýleni, dobrodruzi",
-            "mohou obcházet s menším rizikem."
+            "Původně navržený jako tréningový",
+            "společník, DUMMYBOTI jsou magicky",
+            "naladěni k iritování nepřátel",
+            "a udržení jejich pozornosti.",
+            "Zatímco jsou rozptýleni, můžeš",
+            "obejít s menším rizikem."
         ]
     },
     "dyrnwyn": {
         "blurb": [
             "Legenda vypráví o meči, který sloužil",
-            "vysoko postaveným občanům s ušlechtilými",
-            "úkoly, nabízeje oheň a božskou odplatu.",
+            "vznešeným občanům s ušlechtilými úkoly,",
+            "nabízeje oheň a božskou odplatu.",
             "",
-            "Věk a rozmanité účely mohly otupít",
+            "Věk a jiné účely otupily",
             "jeho čepel, ale lze ji obnovit."
         ]
     },
     "empty bottle": {
         "blurb": [
-            "Tyto křehké nádoby jsou nejlépe",
-            "použity ke sběru obsahu",
+            "Tyto křehké nádoby se nejlépe",
+            "používají ke sběru obsahu",
             "fontán a vodních pump.",
             "",
-            "Začínající pivovarník potřebuje veškerou",
-            "pitnou tekutinu, kterou může získat k experimentování."
+            "Začínající pivovarník potřebuje všechnu",
+            "pitnou tekutinu na experimentování."
         ]
     },
     "face accessories": {
         "blurb": [
-            "Dobrodruzi mohou doplnit svou roli",
-            "správným kouskem brýlí nebo",
+            "Dobrodruzi můžou doplnit svou roli",
+            "správnými brýlemi nebo",
             "držením něčeho v ústech.",
             "",
-            "Tyto předměty poskytují různé výhody,",
+            "Tyto věci dávají různé výhody,",
             "ale pro některé je styl důležitější."
         ]
     },
     "fire and hunting ammo": {
         "blurb": [
-            "Některá munice zanechává trvalý dojem.",
+            "Některá munice zanechá trvalý dojem.",
             "",
             "OHNIVÁ MUNICE osvětlí místnost a zapálí",
-            "nepřátele, ale oslabující",
-            "LOVECKÁ MUNICE může zdecimovat šelmy",
-            "a zároveň je zpomalovat a otrávit."
+            "nepřátele, zatímco oslabující",
+            "LOVECKÁ MUNICE zdecimuje šelmy",
+            "a zpomalí a otráví je."
         ]
     },
     "fist weapons": {
         "blurb": [
-            "Perfektní pro ty, kteří se bojí",
-            "nečekaného zlomení zbraně, jsou pěstní zbraně",
-            "rukavice, které přidají trochu více",
-            "síly ke každému úderu.",
-            "Dobře vycvičení mohou omráčit",
+            "Perfektní pro ty, kteří se bojí,",
+            "že se jim zlomí zbraň. Pěstní zbraně jsou",
+            "rukavice, které přidají hodně síly",
+            "ke každému úderu.",
+            "Dobře vycvičení můžou omráčit",
             "nepřítele překvapivým úderem."
         ]
     },
     "gungnir": {
         "blurb": [
-            "Legendy praví, že toto kopí bylo vykováno",
-            "pro bohy, aby vždy mohli",
-            "zasadit dokonalé údery.",
+            "Legendy praví, že toto kopí vykovali",
+            "pro bohy, aby vždy zasadili",
+            "dokonalé údery.",
             "",
-            "Necvičení jsou smrtící s GUNGNIR.",
+            "I necvičení jsou s GUNGNIR smrtící.",
             "Tato zbraň je obvykle dobře střežená."
         ]
     },
     "gyrobot": {
         "blurb": [
-            "Poprvé vymyšlený kutily jako",
-            "jednoduchá hračka společník, funkce GYROBOTA",
-            "se rozrostla na mnoho",
-            "užitečných úkolů.",
+            "Původně vymyšlený kutily jako",
+            "jednoduchá hračka, GYROBOT se rozrostl",
+            "na spoustu užitečných funkcí.",
+            "",
             "Zkušený kutil může přikázat",
-            "svému mazlíčkovi pomáhat mnoha způsoby."
+            "svému mazlíčkovi pomáhat spoustou způsobů."
         ]
     },
     "hats & hoods": {
         "blurb": [
-            "Mnoho profesí a skupin používá ikonické",
-            "pokrývky hlavy, které jsou praktické a stylové.",
+            "Spousta profesí a skupin používá ikonické",
+            "pokrývky hlavy - praktické i stylové.",
             "",
-            "Vykonávej a signalizuj svou roli ostatním",
-            "nasazením perfektního KLOBOUKU nebo KAPUCE."
+            "Ukaž svou roli ostatním",
+            "tím, že si nasadíš perfektní KLOBOUK nebo KAPUCI."
         ]
     },
     "iron armor": {
         "blurb": [
-            "Ačkoliv těžší než kůže, je dvakrát",
-            "tak efektivní v ochraně nositele.",
-            "Člověk musí být silný, aby se rychle pohyboval v ŽELEZU.",
+            "I když je těžší než kůže,",
+            "chrání dvakrát líp.",
+            "Musíš být silný, abys se v ŽELEZU rychle pohyboval.",
             "",
             "Hamlet byl původně známý",
             "pro své bohaté železné doly."
@@ -322,183 +321,183 @@
             "KHRYSELAKATOS nabízí zakleté šípy",
             "ze svého nezlomitelného provázku.",
             "",
-            "Mýty vyprávějí o jeho majiteli, který byl",
+            "Mýty vyprávějí o majiteli, který byl",
             "zbaven božství a vyhnán."
         ]
     },
     "leather armor": {
         "blurb": [
-            "Lehká, levná a běžná, většina",
-            "dobrodruhů by mnohem raději nosila",
-            "KŮŽI než žádnou zbroj vůbec.",
+            "Lehká, levná a běžná. Většina",
+            "dobrodruhů by raději nosila",
+            "KŮŽI než vůbec nic.",
             "",
-            "Plný outfit kůže může zabránit",
-            "podstatnému poškození od slabších nepřátel."
+            "Kompletní kožená zbroj zastaví",
+            "hodně škod od slabších nepřátel."
         ]
     },
     "lockpick": {
         "blurb": [
-            "Ti zkušení v kutilství mohou použít tyto",
-            "jednoduché nástroje k odemykání truhel a dveří,",
-            "zneškodnění šípových pastí nebo úpravě",
-            "pružin zkonstruovaných pastí.",
+            "Ti zkušení v kutilství můžou tyto",
+            "jednoduché nástroje použít k odemykání",
+            "truhel a dveří, zneškodnění pastí se šípy",
+            "nebo úpravě pružin.",
             "",
-            "Užitečné pro zacházení s nebezpečnými zařízeními."
+            "Užitečné na nebezpečná zařízení."
         ]
     },
     "maces": {
         "blurb": [
             "S hlavou navrženou k rozbíjení a",
-            "drcení pevných cílů jsou PALCÁTY spolehlivé",
-            "zbraně, které ničí zbroj a mohou",
-            "ty nejobrněnější nepřátele zbavit smyslů.",
-            "Ve správných rukou nemusí nepřátelé",
-            "dostat šanci vrátit úder."
+            "drcení jsou PALCÁTY spolehlivé",
+            "zbraně, které ničí zbroj a můžou",
+            "i toho nejobrněnějšího zbavit smyslů.",
+            "Ve správných rukou nepřátelé",
+            "nedostanou šanci vrátit úder."
         ]
     },
     "mail & lore books": {
         "blurb": [
-            "Zatímco uživatelé magie mohou být zklamaní,",
-            "když hledají sílu uvnitř těchto obyčejných",
-            "stránek, zvědaví dobrodruzi si užijí čtení",
-            "popsaných slov pro stopy.",
+            "Uživatelé magie můžou být zklamaní,",
+            "když v těchto obyčejných stránkách",
+            "hledají sílu. Zvědaví dobrodruzi si ale",
+            "užijí čtení pro stopy.",
             "",
-            "Papír také dobře hoří, když je vhozen do kotle."
+            "Papír taky dobře hoří v kotli."
         ]
     },
     "masks & visors": {
         "blurb": [
-            "Někteří dobrodruzi používají MASKY ke skrytí",
-            "nebo komunikaci své identity.",
+            "Někteří dobrodruzi používají MASKY",
+            "ke skrytí nebo ukázání své identity.",
             "",
-            "Pro jiné praktické pokrytí obličeje poskytuje",
-            "výhody, které pomáhají plnit jejich roli."
+            "Pro jiné praktické pokrytí obličeje",
+            "poskytuje výhody k plnění jejich role."
         ]
     },
     "meat, fish, and bread": {
         "blurb": [
-            "Vydatné porce, ceněné hladovými",
-            "obyvateli dungeonů. Pokud zoufale touží po",
-            "jídle, člověk může sníst až",
+            "Vydatné porce ceněné hladovými",
+            "obyvateli dungeonů. Pokud zoufale",
+            "toužíš po jídle, můžeš sníst až",
             "dvě porce a být spokojený,",
-            "ale musí si dávat pozor, aby se nepřejedl."
+            "ale dávej si pozor, abys se nepřejedl."
         ]
     },
     "mining pick": {
         "blurb": [
-            "Tyto užitečné nástroje snadno sekají skrz",
-            "zemi, vytvářejí zkratky a poskytují",
-            "přístup ke skrytým pokladům.",
+            "Tyto užitečné nástroje snadno sekají",
+            "zemí, vytvářejí zkratky a zpřístupňují",
+            "skryté poklady.",
             "",
-            "KRUMPÁČE se rychle rozbijí, ale mohou udělat",
-            "velký rozdíl, když jsi ztracený nebo v pasti."
+            "KRUMPÁČE se rychle rozbijí, ale můžou",
+            "udělat velký rozdíl, když jsi ztracený nebo v pasti."
         ]
     },
     "mirrors": {
         "blurb": [
-            "Ačkoliv neexistuje důkaz, že zrcadla mohou",
-            "ukrást duše, zdá se, že odrážejí jak",
-            "obyčejnou, tak magickou realitu.",
+            "I když neexistuje důkaz, že zrcadla",
+            "můžou ukrást duši, zdá se, že odrážejí",
+            "jak obyčejnou, tak magickou realitu.",
             "",
-            "Někteří, kdo do nich hledí, se dozvědí více",
-            "o sobě, než by očekávali."
+            "Někteří, co do nich hledí, se dozvědí",
+            "o sobě víc, než čekali."
         ]
     },
     "mystic orb": {
         "blurb": [
-            "Záhadná sféra hemžící se",
+            "Záhadná koule hemžící se",
             "magickou silou.",
             "Správný podstavec by umožnil",
-            "čerpat její velkou sílu, ačkoliv",
-            "někdo bude pravděpodobně draze platit",
-            "za takový neocenitelný artefakt."
+            "čerpat její moc, i když",
+            "někdo za takový artefakt",
+            "zaplatí pořádně draze."
         ]
     },
     "noisemaker": {
         "blurb": [
             "Pružinový mechanismus využívá",
-            "primitivní, ale chytrý design k vytváření",
-            "fascinujícího zvuku, který přitahuje",
+            "primitivní, ale chytrý design",
+            "k vytváření zvuku, který přitáhne",
             "pozornost blízkých nepřátel.",
-            "Skvělý k rozptylování protivníků a",
-            "lákání do léčky."
+            "Skvělé k rozptylování protivníků",
+            "a lákání do léčky."
         ]
     },
     "offensive potions": {
         "blurb": [
-            "Mnoho lektvarů je užitečných ke škození",
+            "Spousta lektvarů je užitečná ke škození",
             "nepřátel, často s devastujícími efekty,",
-            "také způsobujících poškození při hodu.",
+            "a způsobí škody i při hodu.",
             "",
-            "Dobrodruzi mohou pít OFENZIVNÍ LEKTVARY,",
+            "Dobrodruzi můžou pít OFENZIVNÍ LEKTVARY,",
             "ale obvykle to dělají v nevědomosti."
         ]
     },
     "oracles treads": {
         "blurb": [
-            "Cestovatel z prastaré mýtu prý",
+            "Cestovatel z pradávné legendy prý",
             "vstoupil do říše temnoty,",
             "která skrývala veškeré zlo.",
-            "Svědci psali o tom, že cestovatel cítil",
-            "vibrace v zemi k hledání nebezpečí",
+            "Svědci psali, že cestovatel cítil",
+            "vibrace v zemi a tak našel nebezpečí",
             "a rychle dobyl říši."
         ]
     },
     "parashu": {
         "blurb": [
-            "Mnozí mohou svou zbraň nazývat PARASHU,",
-            "ale jedna taková věčná sekera může být",
-            "obnovena k legendární smrtelnosti.",
+            "Spousta lidí může svou zbraň nazývat PARASHU,",
+            "ale jen jedna taková věčná sekera",
+            "může být obnovena k legendární smrtelnosti.",
             "",
-            "Kdysi to byla zbraň bohů a",
-            "nyní se nachází na nízkých místech."
+            "Kdysi zbraň bohů,",
+            "dnes se nachází na špatných místech."
         ]
     },
     "polearms": {
         "blurb": [
-            "Halapartny nabízejí páku a vyvážení,",
-            "prokázaly se jako zvláště efektivní proti",
+            "HALAPARTNY nabízejí páku a vyvážení",
+            "a jsou zvlášť efektivní proti",
             "velkým a těžkým šelmám.",
             "",
-            "V zkušených rukou mohou útoky těmito",
-            "zbraněmi držet nepřátele zpět."
+            "V zkušených rukou můžou útoky",
+            "držet nepřátele zpátky."
         ]
     },
     "rocks & gems": {
         "blurb": [
-            "Všechny kameny mohou být užitečné, když potřebuješ",
-            "něco hodit na past nebo nepřítele.",
+            "Všechny kameny jsou užitečné, když",
+            "potřebuješ něco hodit na past nebo nepřítele.",
             "",
-            "Ale drahé kameny jsou milované",
-            "obchodníky a automatony stejně,",
-            "nebo kýmkoliv pokušeným chamtivostí."
+            "Ale drahé kameny milují",
+            "obchodníci, automatoni",
+            "a kdokoliv pokušený chamtivostí."
         ]
     },
     "sentrybot and magic sentry": {
         "blurb": [
-            "Použitím arkánního krystalu k propůjčení",
-            "základní inteligence, kutilové",
-            "vybavili stativy",
-            "hlavami vrhajícími projektily.",
+            "Pomocí arkánního krystalu k propůjčení",
+            "základní inteligence vybavili kutilové",
+            "stativy hlavami vrhajícími projektily.",
+            "",
             "Stráž ponechaná sama k palbě na",
-            "nepřátele může způsobit devastující škody."
+            "nepřátele způsobí devastující škody."
         ]
     },
     "sharur": {
         "blurb": [
             "Legenda vypráví o moudrém, který cestoval",
-            "z království do království nabízeje radu.",
+            "z království do království a nabízel rady.",
             "",
-            "Po nějaký čas bylo království",
-            "zaručeno k prosperování, ale",
-            "poradce byl vždy vyhnán."
+            "Nějaký čas bylo království zaručeně",
+            "prosperující, ale poradce",
+            "byl vždy nakonec vyhnán."
         ]
     },
     "shields": {
         "blurb": [
-            "Štíty poskytují pasivní zbroj",
-            "dobrodruhům, kteří je drží, ale aktivní",
-            "blokování poskytuje mnohem více obrany.",
+            "Štíty poskytují pasivní ochranu",
+            "dobrodruhům, ale aktivní",
+            "blokování chrání mnohem víc.",
             "",
             "Některé štíty poskytují další",
             "výhody při blokování."
@@ -507,31 +506,31 @@
     "silver and piercing ammo": {
         "blurb": [
             "Některá munice je správná volba",
-            "v závislosti na nepříteli.",
+            "podle nepřítele.",
             "",
-            "PRŮBOJNÁ MUNICE může proniknout",
-            "nejsilnější zbrojí. Nemrtví a démoničtí",
-            "nepřátelé se více bojí STŘÍBRNÉ MUNICE."
+            "PRŮBOJNÁ MUNICE pronikne",
+            "i tou nejsilnější zbrojí. Nemrtví a démoničtí",
+            "nepřátelé se víc bojí STŘÍBRNÉ MUNICE."
         ]
     },
     "skeleton key": {
         "blurb": [
             "Zámečníkovi se podařilo vytvořit tento",
-            "styl klíče, který umožňuje jeho uživateli",
-            "ovládat obyčejné dveře a truhly.",
+            "typ klíče, který umožňuje otevírat",
+            "obyčejné dveře a truhly.",
             "",
-            "Zatímco nemůže dělat vše, co",
-            "páčidlo, nevyžaduje žádný trénink."
+            "I když neumí všechno co",
+            "páčidlo, nevyžaduje trénink."
         ]
     },
     "slingshot": {
         "blurb": [
-            "Nejzákladnější ze střelných zbraní,",
-            "praky nemusí vypadat jako moc.",
+            "Nejzákladnější ze střelných zbraní.",
+            "PRAK nevypadá jako moc.",
             "",
             "Ale když potřebuješ bojovat na dálku,",
-            "mohl bys udělat horší než mrštit projektily",
-            "a utíkat pryč."
+            "mohl bys udělat hůř než házet projektily",
+            "a utíkat."
         ]
     },
     "sphinxs casque": {
@@ -539,146 +538,146 @@
             "Legenda vypráví o cestovateli, který potkal",
             "Sfingu s nemožnou hádankou.",
             "",
-            "Cestovatel chvíli přemýšlel a",
-            "odpověděl otázkou, na kterou",
-            "Sfinga nemohla odpovědět."
+            "Cestovatel chvíli přemýšlel",
+            "a odpověděl otázkou, na kterou",
+            "Sfinga neznala odpověď."
         ]
     },
     "steel armor": {
         "blurb": [
-            "Silnější než železo a jen o trochu",
-            "těžší, člověk potřebuje štěstí nebo bohatství k",
-            "získání a nošení vynikající OCELOVÉ zbroje.",
+            "Silnější než železo a jen trochu",
+            "těžší. Potřebuješ štěstí nebo bohatství,",
+            "abys získal a nosil vynikající OCELOVOU zbroj.",
             "",
             "Řemeslo OCELI zná jen málo kovářů."
         ]
     },
     "swift and springshot ammo": {
         "blurb": [
-            "Proměnit nepřítele v napíchač",
-            "dříve, než se může přiblížit, je",
-            "prioritou mnoha lučištníků.",
+            "Proměnit nepřítele v napíchač,",
+            "než se přiblíží, je priorita",
+            "spousty lučištníků.",
             "Lehká RYCHLÁ MUNICE se rychleji nabíjí,",
-            "zatímco PRUŽINOVÁ MUNICE je vyzbrojená",
-            "mechaniky pro silné odhození zpět."
+            "zatímco PRUŽINOVÁ MUNICE je",
+            "vyzbrojená pro silné odhození."
         ]
     },
     "swords": {
         "blurb": [
             "Smrtící proti měkkým cílům, MEČE jsou",
-            "ideální pro jeden děsivý úkol: řezání masa.",
-            "Pevné nebo odolné kůže mohou odrazit sek,",
-            "ale mistrovský řez stále vylákne krev."
+            "ideální pro jeden děsivý úkol: řezat maso.",
+            "Pevné nebo odolné kůže můžou odrazit sek,",
+            "ale mistrovský řez vylákne krev."
         ]
     },
     "teleportation trap": {
         "blurb": [
-            "Jako jiné zkonstruované pasti, páčidlo",
-            "může způsobit, že toto ignoruje nebo detonuje",
-            "na přátelské cíle.",
-            "Ale je také konfigurovatelná jako",
-            "TELEPORTAČNÍ destinace, umožňující",
+            "Jako u jiných zkonstruovaných pastí,",
+            "páčidlo způsobí, že bude ignorovat",
+            "nebo detonovat na přátelské cíle.",
+            "Ale je taky konfigurovatelná jako",
+            "TELEPORTAČNÍ destinace pro",
             "kontrolované okamžité cestování."
         ]
     },
     "tin and tin opener": {
         "blurb": [
-            "Konzervy skrývají uvařenou, nasekanou zeleninu",
-            "a maso různých druhů, nabízející",
-            "osvěžující a velmi sytou snídani.",
+            "Konzervy skrývají uvařenou zeleninu",
+            "a maso různých druhů a nabízejí",
+            "osvěžující a velmi sytou porci.",
             "",
-            "Nicméně je potřeba otvírák na konzervy a",
-            "tuk uvnitř může být nepříjemnost."
+            "Ale potřebuješ otvírák a",
+            "tuk uvnitř může být nepříjemný."
         ]
     },
     "tinkered traps": {
         "blurb": [
-            "ZKONSTRUOVANÉ PASTI lze nasadit",
+            "ZKONSTRUOVANÉ PASTI můžeš nasadit",
             "na podlahy, zdi, dveře a truhly.",
-            "Když jsou vyrušeny, detonují,",
-            "dodávajíce svůj efekt nákladu.",
-            "Mnozí kutilové znovu vyzbrojí vyčerpaný",
-            "detonátor k ušetření trochy šrotu."
+            "Když jsou vyrušeny, detonují",
+            "a dodají svůj efekt.",
+            "Spousta kutilů znovu vyzbrrojí vyčerpaný",
+            "detonátor, aby ušetřili trochu šrotu."
         ]
     },
     "tinkering kit": {
         "blurb": [
-            "SADA NA KUTĚNÍ může rozebrat",
-            "většinu vybavení na opětovně použitelné části.",
+            "SADA NA KUTĚNÍ rozebere",
+            "většinu vybavení na opakovaně použitelné části.",
             "",
-            "Zkušený kutil je může rekombinovat",
-            "do užitečných strojů, každý efektivnější,",
-            "když je vyroben zkušenějšími rukama."
+            "Zkušený kutil je může poskládat",
+            "do užitečných strojů - každý bude efektivnější,",
+            "když ho vyrobí zkušenější ruce."
         ]
     },
     "tomahawks & daggers": {
         "blurb": [
-            "Zbraně postavené speciálně pro hození,",
-            "tyto létají dále a udeří tvrdě, když",
-            "je do každého hodu vložena trocha víc úsilí.",
+            "Zbraně postavené speciálně pro hození.",
+            "Létají dál a udeří tvrději, když",
+            "do každého hodu vložíš víc úsilí.",
             "",
-            "Těžší než střelné projektily,",
-            "také vynikají v pronikání zbrojí."
+            "Těžší než běžné projektily",
+            "a vynikají v pronikání zbrojí."
         ]
     },
     "tomalley": {
         "blurb": [
-            "TOMALLEY, nezaměňovat s",
-            "plněnou kukuřičnou svačinou, je bláto,",
-            "které slouží jako játra bezobratlých.",
-            "Dungeonové brouci často disponují malým",
-            "množstvím masa pokrytého touto",
+            "TOMALLEY se nesmí zaměňovat",
+            "s plněnou kukuřičnou svačinou.",
+            "Je to bláto sloužící jako játra bezobratlých.",
+            "Dungeonové brouci mají malé",
+            "množství masa pokrytého touto",
             "jedlou substancí."
         ]
     },
     "torch and lantern": {
         "blurb": [
-            "Když jsou drženy, poskytují světlo.",
+            "Když je držíš, dávají světlo.",
             "Zdvihni POCHODEŇ nebo LUCERNU, abys viděl",
-            "trochu dále, nebo blokuj útoky!",
+            "dál, nebo blokuj útoky!",
             "",
             "POCHODNĚ & LUCERNY se pomalu",
-            "degradují, jak hoří."
+            "opotřebovávají, jak hoří."
         ]
     },
     "towel": {
         "blurb": [
-            "Ačkoliv se nezdá být mnoho samo o sobě,",
+            "I když se nezdá být moc sám o sobě,",
             "ve správné situaci může RUČNÍK",
             "zachránit život.",
-            "Ručníky dělají skvělé obvazy",
-            "a uklízejí nepořádek, který by mohl",
-            "zničit tvůj příští boj."
+            "Z ručníku se dělají skvělé obvazy",
+            "a uklidí nepořádek, který by mohl",
+            "zkazit tvůj příští souboj."
         ]
     },
     "water": {
         "blurb": [
-            "Čerstvá, čistá VODA je luxus",
-            "v dungeonech. Může uspokojit prázdný",
-            "žaludek na chvíli a zásobování pivovárníka",
-            "na ní závisí.",
-            "Je také užitečná pro umývání",
+            "Čerstvá, čistá VODA je v dungeonech luxus.",
+            "Uspokojí prázdný žaludek na chvíli",
+            "a zásobování pivovarníka na ní závisí.",
+            "",
+            "Je taky užitečná na umývání",
             "některých magických efektů."
         ]
     },
     "whip": {
         "blurb": [
-            "Specializovaná zbraň Punishera,",
-            "zkušení uživatelé mohou uchopit zbraně z",
-            "neopatrných rukou bičem.",
+            "Specializovaná zbraň Punishera.",
+            "Zkušení bojovníci s ním dokážou",
+            "vytrhávat zbraně z rukou nepřátel.",
             "",
-            "Zatímco je pomalejší udeřit, může",
-            "šlehat za dosah jiných zbraní."
+            "I když je pomalejší než jiné zbraně,",
+            "má větší dosah."
         ]
     },
     "wraiths gown": {
         "blurb": [
-            "Snažíc se ovládnout smrt, cestovatel",
-            "z mýtu vstoupil do Podsvětí.",
-            "Tam sídlil duch, který toužil po životě.",
+            "Ve snaze ovládnout smrt vstoupil",
+            "mýtický cestovatel do Podsvětí.",
+            "Tam potkal ducha, který toužil po životě.",
             "",
-            "Cestovatel ducha vynesl ven,",
-            "ale pouze jeho šaty přešly."
+            "Cestovatel ho vyvedl ven,",
+            "ale pouze jeho šaty to přežily."
         ]
     }
 }
