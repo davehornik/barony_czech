@@ -1,4 +1,4 @@
-# English language file
+# Czech language file / Český jazykový soubor
 # all entries must contain a string number, followed by a space, followed by a string, ended by a pound character
 # lines beginning with pound character are a comment
 # blank lines are ignored
@@ -7,16 +7,16 @@
 
 # class names
 
-1900 barbarian#
-1901 warrior#
-1902 healer#
+1900 barbar#
+1901 válečník#
+1902 léčitel#
 1903 rogue#
-1904 wanderer#
-1905 cleric#
-1906 merchant#
-1907 wizard#
-1908 arcanist#
-1909 joker#
+1904 poutník#
+1905 klerik#
+1906 obchodník#
+1907 kouzelník#
+1908 arcimág#
+1909 šašek#
 
 
 # class descriptions
@@ -101,110 +101,110 @@
 
 # baron herx subtitles
 
-70 "Best of luck, mortal."#
-71 "All the best, human."#
-72 "Well, good luck, human."#
+70 "Hodně štěstí, smrtelníku."#
+71 "Jen to nejlepší, člověče."#
+72 "No, hodně štěstí, člověče."#
 73 "Hahahahaha!"#
-74 "My minotaur is hungry!"#
-75 "My pet hungers for human flesh..."#
-76 "The minotaur is coming..."#
-77 "Hmm... another mortal at my doorstep..."#
-78 "Ahh, another one joins the fray..."#
-79 "Hmm... someone new..."#
-80 "You'd best not linger for much longer, mortal."#
-81 "What a pity if you should be here when He arrives..."#
-82 "You would be wise to abandon this place soon, mortal."#
-83 "Hmm... this one's still alive."#
-84 "Hmm, so you've made it this far..."#
-85 "What do you hope to accomplish down here, mortal?"#
-86 "You know nothing of the power that I've found here..."#
-87 "Face me if you dare, mortal. You will not survive."#
-88 "Meet me in my lair, mortal, and I will show you the meaning of pain."#
-89 "Welcome to your doom, mortal!"#
+74 "Můj minotaurus má hlad!"#
+75 "Můj mazlíček touží po lidském mase..."#
+76 "Minotaurus přichází..."#
+77 "Hmm... další smrtelník u mých dveří..."#
+78 "Ahh, další se přidává do hry..."#
+79 "Hmm... někdo nový..."#
+80 "Neměl bys tu zdržovat mnohem déle, smrtelníku."#
+81 "Jak škoda, kdyby ses tu měl zdržet, než On dorazí..."#
+82 "Bylo by moudré opustit toto místo brzy, smrtelníku."#
+83 "Hmm... tenhle je pořád naživu."#
+84 "Hmm, tak ses dostal až sem..."#
+85 "Co doufáš, že tu dokážeš, smrtelníku?"#
+86 "Nevíš nic o síle, kterou jsem tu našel..."#
+87 "Postav se mi, pokud si troufáš, smrtelníku. Nepřežiješ."#
+88 "Potká mě v mém doupěti, smrtelníku, a ukážu ti, co je to bolest."#
+89 "Vítej ve své záhubě, smrtelníku!"#
 
 
 # monster names
 
-90 nothing#
-91 human#
-92 rat#
+90 nic#
+91 člověk#
+92 krysa#
 93 goblin#
 94 slime#
 95 troll#
-96 bat#
-97 spider#
+96 netopýr#
+97 pavouk#
 98 ghoul#
-99 skeleton#
-100 scorpion#
+99 kostlivec#
+100 škorpión#
 101 imp#
-102 crab#
-103 gnome#
-104 demon#
+102 krab#
+103 gnóm#
+104 démon#
 105 succubus#
 106 mimic#
 107 lich#
-108 minotaur#
-109 devil#
-110 shopkeeper#
+108 minotaurus#
+109 ďábel#
+110 obchodník#
 
 
 # monster names (plural)
 
-111 nothing#
-112 humans#
-113 rats#
-114 goblins#
-115 slimes#
-116 trolls#
-117 bats#
-118 spiders#
-119 ghouls#
-120 skeletons#
-121 scorpions#
-122 imps#
-123 crabs#
-124 gnomes#
-125 demons#
+111 nic#
+112 lidé#
+113 krysy#
+114 goblini#
+115 slimové#
+116 trollové#
+117 netopýři#
+118 pavouci#
+119 ghouloví#
+120 kostlivci#
+121 škorpióni#
+122 impové#
+123 krabi#
+124 gnómové#
+125 démoni#
 126 succubi#
-127 mimics#
-128 liches#
-129 minotaurs#
-130 devils#
-131 shopkeepers#
+127 mimikové#
+128 lichové#
+129 minotauři#
+130 ďáblové#
+131 obchodníci#
 
 
 # injury types
 
-132 hits#
-133 hits#
-134 bites#
-135 hits#
-136 slimes you#
-137 thumps you#
-138 bites#
-139 bites#
-140 hits#
-141 hits#
-142 stings#
-143 scratches#
-144 pinches#
-145 strikes#
-146 mauls you#
-147 slaps you#
-148 bites#
-149 hits#
-150 pounds you#
-151 pounds you#
-152 hits#
+132 udeří#
+133 udeří#
+134 kousne#
+135 udeří#
+136 tě oslizne#
+137 bouchne do tebe#
+138 kousne#
+139 kousne#
+140 udeří#
+141 udeří#
+142 bodne#
+143 škrábe#
+144 štípne#
+145 uhodí#
+146 tě zmrzačí#
+147 tě fackuje#
+148 kousne#
+149 udeří#
+150 tě tluče#
+151 tě tluče#
+152 udeří#
 
 
 # server flags
 
-153 Cheats#
+153 Cheaty#
 154 Friendly Fire#
-155 Minotaurs#
-156 Hunger#
-157 Traps#
+155 Minotauři#
+156 Hlad#
+157 Pasti#
 
 
 # shopkeeper names
@@ -239,157 +239,158 @@
 
 # shop names
 
-184 Arms & Armor#
-185 Hat Store#
-186 Jewelry Store#
-187 Bookstore#
-188 Potion Shop#
-189 Fine Staves#
-190 Delicatessen#
-191 Hardware Store#
-192 Hunting Goods#
-193 General Store#
+184 Zbraně & Zbroj#
+185 Kloboučnictví#
+186 Šperkařství#
+187 Knihkupectví#
+188 Lektvarovna#
+189 Ušlechtilé hole#
+190 Delikatesy#
+191 Železářství#
+192 Lovecké potřeby#
+193 Smíšené zboží#
 
 
 # shopkeeper lines
 
-194 Greetings!#
-195 Hello!#
-196 Good day!#
+194 Buď zdráv!#
+195 Ahoj!#
+196 Dobrý den!#
 
 
 # shopkeeper sells item at an unfair price
 
-197 Thou hast received a good
-price for that!#
-198 Excellent choice!#
-199 That was a real bargain!#
+197 Dostal jsi za to dobrou
+cenu!#
+198 Výborná volba!#
+199 To byl skutečný obchod!#
 
 
 # shopkeeper sells item at a fair price
 
-200 That is a fair trade.#
-201 I suppose that I can part
-with it.#
-202 Alright, but not for a penny
-less!#
+200 To je férový obchod.#
+201 Předpokládám, že se s tím
+můžu rozloučit.#
+202 Dobrá, ale ani o korunu
+méně!#
 
 
 # shopkeeper refuses a purchase
 
-203 No money, no item!#
-204 I shall not sell it for anything
-less.#
-205 Thou dost not have enough
-money!#
+203 Žádné peníze, žádné zboží!#
+204 Neprodám to za nic
+menšího.#
+205 Nemáš dost
+peněz!#
 
 
 # shopkeeper buys item at an unfair price
 
-206 I shall gladly buy that!#
-207 I shall buy that from thee!#
-208 I shall buy it!#
+206 Rád to koupím!#
+207 Koupím ti to!#
+208 Koupím to!#
 
 
 # shopkeeper buys item at a fair price
 
-209 I suppose I shall buy it.#
-210 I shall trade thee for that.#
-211 I shall buy that from thee.#
+209 Asi to koupím.#
+210 Vyměním ti to.#
+211 Koupím ti to.#
 
 
 # shopkeeper refuses to buy an item
 
-212 I do not trade in that.#
-213 I am not interested in that.#
-214 No! I have no want for that.#
+212 S tímhle neobchoduji.#
+213 O tohle nemám zájem.#
+214 Ne! To nechci.#
 
 
 # shopkeeper makes an offer to buy an item
 
-215 I would buy it for %dG.
+215 Koupím to za %dG.
 
-Trade? (Right click from
-inventory)#
+Obchodovat? (Pravý klik
+z inventáře)#
 
 
 # shopkeeper chit-chat
 
-216 They say rings of conflict
-create an aura of strife
-around a person.#
+216 Říká se, že prsteny konfliktu
+vytvářejí auru sváru
+kolem osoby.#
 
-217 Lamp oil? Rope? Bombs? Dost
-thou want it? It is thine, my
-friend, so long as thou
-hast enough rubies!#
+217 Lampový olej? Lano? Bomby?
+Chceš to? Je to tvoje, můj
+příteli, pokud máš
+dost rubínů!#
 
-218 They say some items are
-enchanted with special
-magical effects.#
+218 Říká se, že některé předměty
+jsou zakleté se speciálními
+magickými efekty.#
 
-219 Slimes may be found in two
-colors. It is said that the
-blue ones are stronger.#
+219 Slimové se vyskytují ve dvou
+barvách. Říká se, že ti
+modří jsou silnější.#
 
-220 They say cursed items often
-do the opposite of what they
-were meant to do.#
+220 Říká se, že prokleté předměty
+často dělají opak toho, k čemu
+byly zamýšleny.#
 
-221 Trolls ignore thee if thou
-keepest thy distance!#
+221 Trollové tě ignorují, pokud
+si udržíš odstup!#
 
-222 Weapons come at different
-levels of effectiveness. Wood
-and bronze are weak, but
-steel is very strong.#
+222 Zbraně mají různé úrovně
+efektivity. Dřevo a bronz
+jsou slabé, ale ocel je velmi
+silná.#
 
-223 The effects of potions wear
-off over time.#
+223 Efekty lektvarů časem
+vyprchají.#
 
-224 Beware of picture books.
-I knew a person who touched
-one, and suddenly, they were
-all alone on a tiny island.#
+224 Pozor na obrazové knihy.
+Znám člověka, který se dotkl
+jedné, a najednou byl
+úplně sám na maličkém ostrově.#
 
-225 Thy skills shall improve as
-thou makest use of them.#
+225 Tvé dovednosti se zlepší,
+když je budeš používat.#
 
-226 Goblins make good
-scavengers. Do not leave
-powerful items where they
-might find them!#
+226 Goblini jsou dobří
+sběrači. Nenechávej
+mocné předměty tam, kde
+by je mohli najít!#
 
-227 I may look weak, but I'm
-actually a master of the
-mystic arts.#
+227 Možná vypadám slabě, ale
+ve skutečnosti jsem mistr
+mystických umění.#
 
-228 Canned food can make thy
-hands greasy. Use a towel to
-keep thyself clean.#
+228 Konzervy můžou udělat
+ruce mastné. Použij ručník,
+aby ses udržel čistý.#
 
-229 Thou canst bind wounds with
-towels.#
+229 Můžeš obvázat rány
+ručníky.#
 
-230 Art thou hungry? Rat meat
-is a staple down here.#
+230 Máš hlad? Krysí maso
+je tu základní potrava.#
 
-231 Scorpion stings can paralyze
-thee. Watch out for them.#
+231 Bodnutí škorpióna tě může
+paralyzovat. Dávej na ně pozor.#
 
-232 They say Succubi enjoy
-trying to steal peoples'
-clothes.#
+232 Říká se, že Succubi rády
+krádou lidem
+oblečení.#
 
-233 The older food is, the more
-likely it is to make one sick
-when eaten.#
+233 Čím starší je jídlo, tím
+pravděpodobnější je, že
+z něj bude špatně při
+konzumaci.#
 
-234 Mirrors can do odd things at
-times.#
+234 Zrcadla mohou občas dělat
+podivné věci.#
 
-235 Try to identify items before
-thou makest use of them.#
+235 Snaž se identifikovat předměty,
+než je použiješ.#
 
 
 # skill names
@@ -397,9 +398,9 @@ thou makest use of them.#
 236 Tinkering#
 237 Stealth#
 238 Trading#
-239 Appraise#
+239 Appraisal#
 240 Swimming#
-241 Leader#
+241 Leadership#
 242 Casting#
 243 Magic#
 244 Ranged#
@@ -419,63 +420,63 @@ thou makest use of them.#
 
 # Left-click (entity spotting) messages
 
-253 You see a %s named %s.#
-254 You see a %s.#
-255 You see a wall-mounted torch.#
-256 You see a door.#
-257 You see %s.#
-258 You see a gold piece.#
-259 You see %d gold pieces.#
-260 You see a campfire.#
-262 You see a fountain.#
-263 You see a sink.#
-264 You see a ladder leading downward.#
-265 You see a ladder leading upward.#
-266 You see a chest.#
-267 You see an iron portcullis.#
-268 You see a spike trap.#
-269 You see a lever.#
-270 You see a boulder.#
-271 You see a headstone.#
-272 You see a mysterious portal.#
-273 You see a chair.#
-274 You see a table.#
+253 Vidíš %s jménem %s.#
+254 Vidíš %s.#
+255 Vidíš nástěnnou pochodeň.#
+256 Vidíš dveře.#
+257 Vidíš %s.#
+258 Vidíš zlatku.#
+259 Vidíš %d zlatek.#
+260 Vidíš táborák.#
+262 Vidíš fontánu.#
+263 Vidíš umyvadlo.#
+264 Vidíš žebřík vedoucí dolů.#
+265 Vidíš žebřík vedoucí nahoru.#
+266 Vidíš truhlu.#
+267 Vidíš železnou mříž.#
+268 Vidíš past s hroty.#
+269 Vidíš páku.#
+270 Vidíš balvan.#
+271 Vidíš náhrobek.#
+272 Vidíš tajemný portál.#
+273 Vidíš židli.#
+274 Vidíš stůl.#
 
 
 # console command messages
 
-275 Only the server can modify server flags.#
-276 Server flags updated.#
-277 Cheats are disabled on this server.#
-278 '%s' is not an item!#
-279 Server kicked client %d (%s).#
-280 Failed to find a client by that name.#
-281 Only the server can kick another player.#
-282 You must be playing a multiplayer game to kick!#
-283 Saved map file as '%s'.#
-284 Only the server can do that.#
-285 Skipping to next level...#
-286 Camera at %d, %d, %d
- Orientation: %3.2f, %d#
-287 noclip always disabled in multiplayer.#
-288 noclip ON#
-289 noclip OFF#
-290 god mode always disabled in multiplayer.#
-291 god mode ON#
-292 god mode OFF#
-293 buddha mode always disabled in multiplayer.#
-294 buddha mode ON#
-295 buddha mode OFF#
-296 friendly mode ON#
-297 friendly mode OFF#
-298 exit at: %d, %d#
-299 That only works in singleplayer.#
-300 number of entities in level: %d#
-301 Killed %d monsters.#
-302 You summon a %s!#
-303 There is no room here for an %s!#
-304 Error! Could not spawn '%s'#
-305 Unrecognized command: '%s'#
+275 Pouze server může měnit server flagy.#
+276 Server flagy aktualizovány.#
+277 Cheaty jsou na tomto serveru zakázány.#
+278 '%s' není předmět!#
+279 Server vyhodil klienta %d (%s).#
+280 Nepodařilo se najít klienta s tímto jménem.#
+281 Pouze server může vyhodit jiného hráče.#
+282 Musíš hrát multiplayer, abys mohl vyhodit!#
+283 Mapa uložena jako '%s'.#
+284 Pouze server to může udělat.#
+285 Přeskakuji na další level...#
+286 Kamera na %d, %d, %d
+ Orientace: %3.2f, %d#
+287 noclip vždy zakázán v multiplayeru.#
+288 noclip ZAP#
+289 noclip VYP#
+290 god mode vždy zakázán v multiplayeru.#
+291 god mode ZAP#
+292 god mode VYP#
+293 buddha mode vždy zakázán v multiplayeru.#
+294 buddha mode ZAP#
+295 buddha mode VYP#
+296 friendly mode ZAP#
+297 friendly mode VYP#
+298 východ na: %d, %d#
+299 To funguje pouze v singleplayeru.#
+300 počet entit v levelu: %d#
+301 Zabito %d monster.#
+302 Přivoláváš %s!#
+303 Není tu místo pro %s!#
+304 Chyba! Nepodařilo se spawnnout '%s'#
+305 Neznámý příkaz: '%s'#
 
 
 # status bar
@@ -497,39 +498,39 @@ thou makest use of them.#
 316 DEPRECATED#
 317 DEPRECATED#
 318 DEPRECATED#
-319 This %s
- is already identified.#
-320 Identified "%s".#
-321 Appraising "%s"...#
-322 Spells#
-323 Unwield#
-324 Wield#
-325 Unequip#
-326 Equip#
-327 Take Off#
-328 Wear#
-329 Drink#
-330 Read#
-331 Put On#
-1881 Inspect#
-332 Use#
-333 Put Away#
-334 Prepare#
-335 Put Out#
-336 Ignite#
-337 Set#
-338 Eat#
-339 Ready#
-340 Appraising:     #
-341 Appraising:%3.0f%%#
-342 Spellbook#
-343 Inventory#
-344 Store#
-345 Sell#
-346 Remove Curse from Item#
-347 This %s
- is already uncursed.#
-348 Uncursed "%s".#
+319 Toto %s
+ je už identifikováno.#
+320 Identifikováno "%s".#
+321 Identifikuji "%s"...#
+322 Kouzla#
+323 Odložit#
+324 Vzít#
+325 Sundat#
+326 Vybavit#
+327 Svléknout#
+328 Obléknout#
+329 Vypít#
+330 Číst#
+331 Nasadit#
+1881 Prohlédnout#
+332 Použít#
+333 Odložit#
+334 Připravit#
+335 Uhasit#
+336 Zapálit#
+337 Nastavit#
+338 Sníst#
+339 Připravit#
+340 Identifikuji:     #
+341 Identifikuji:%3.0f%%#
+342 Kniha kouzel#
+343 Inventář#
+344 Obchod#
+345 Prodat#
+346 Odstranit prokletí z předmětu#
+347 Toto %s
+ už není prokleté.#
+348 Prokletí odstraněno z "%s".#
 
 
 # shop gui - removed category names
@@ -543,7 +544,7 @@ thou makest use of them.#
 355 #
 356 #
 357 #
-358 Welcome to %s's
+358 Vítej v %s's
 %s!#
 
 
@@ -562,13 +563,13 @@ thou makest use of them.#
 
 # skill levels
 
-363                  None#
-364                Novice#
-365                 Basic#
-366               Skilled#
+363                  Žádný#
+364                  Novic#
+365               Základní#
+366              Zkušený#
 367                Expert#
-368                Master#
-369                Legend#
+368                Mistr#
+369               Legenda#
 
 
 # rest of the character sheet
@@ -581,49 +582,49 @@ thou makest use of them.#
 # chest inventory
 
 373 DEPRECATED#
-374 Took %s from the chest.#
+374 Vzal jsi %s z truhly.#
 
 
 # magic
 
-375 Insufficient mana!#
-376 You are hit by a spell!#
-377 Your spell hits %s!#
-378 Your spell hits the %s!#
-379 But it bounces off!#
-380 Your cloak is damaged!#
-381 Your cloak is destroyed!#
-382 Your amulet is damaged!#
-383 Your amulet is destroyed!#
-384 Your shield is damaged!#
-385 Your shield is destroyed!#
+375 Nedostatek many!#
+376 Jsi zasažen kouzlem!#
+377 Tvé kouzlo zasáhlo %s!#
+378 Tvé kouzlo zasáhlo %s!#
+379 Ale odrazilo se to!#
+380 Tvůj plášť je poškozen!#
+381 Tvůj plášť je zničen!#
+382 Tvůj amulet je poškozen!#
+383 Tvůj amulet je zničen!#
+384 Tvůj štít je poškozen!#
+385 Tvůj štít je zničen!#
 386 DEPRECATED#
-387 Your spell destroys the door!#
-388 Your spell destroys the chair!#
-389 Your spell destroys the table!#
-390 %s is suddenly confused!#
-391 The %s is suddenly confused!#
-392 You are suddenly confused!#
-393 %s is slowed!#
-394 The %s is slowed!#
-395 You are suddenly slowed!#
-396 You suddenly fall fast asleep!#
-397 %s suddenly falls fast asleep!#
-398 The %s suddenly falls fast asleep!#
-399 You lock the door!#
-400 The spell locks the chest!#
-401 No telling what it did...#
-402 You open the door!#
-403 The spell opens the gate!#
-404 The spell unlocks the chest!#
-405 Your spell destroys the boulder!#
-406 You have angered the gods of Sokoban!#
-407 Cannot cast spells while defending!#
-408 Unsustaining spell %s.#
-409 You fumble the spell and it fizzles!#
-410 Cannot cast spells while swimming!#
-411 Your body feels cleansed!#
-412 A map coalesces in your mind!#
+387 Tvé kouzlo ničí dveře!#
+388 Tvé kouzlo ničí židli!#
+389 Tvé kouzlo ničí stůl!#
+390 %s je náhle zmatený!#
+391 %s je náhle zmatený!#
+392 Jsi náhle zmatený!#
+393 %s je zpomalen!#
+394 %s je zpomalen!#
+395 Jsi náhle zpomalen!#
+396 Náhle tvrdě usneš!#
+397 %s náhle tvrdě usne!#
+398 %s náhle tvrdě usne!#
+399 Zamknul jsi dveře!#
+400 Kouzlo zamklo truhlu!#
+401 Kdo ví, co to udělalo...#
+402 Otevřel jsi dveře!#
+403 Kouzlo otevřelo bránu!#
+404 Kouzlo odemklo truhlu!#
+405 Tvé kouzlo ničí balvan!#
+406 Rozzlobil jsi bohy Sokobanu!#
+407 Nemůžeš sesílat kouzla během blokování!#
+408 Zrušuji kouzlo %s.#
+409 Pokazil jsi kouzlo a ono vyprchlo!#
+410 Nemůžeš sesílat kouzla při plavání!#
+411 Tvé tělo se cítí očištěné!#
+412 Mapa se spojuje ve tvé mysli!#
 413 DEPRECATED_SPELL_NAME#
 414 DEPRECATED_SPELL_NAME#
 415 DEPRECATED_SPELL_NAME#
@@ -650,354 +651,388 @@ thou makest use of them.#
 436 DEPRECATED_SPELL_NAME#
 437 DEPRECATED_SPELL_NAME#
 438 DEPRECATED_SPELL_NAME#
-439 You already know the %s spell!#
-440 This spell is too difficult for you!#
-441 You learn the %s spell.#
-442 Prepared spell %s.#
-443 You feel better.#
-444 Your life force wavers for a moment.#
-445 You feel your life force diminish!#
+439 Už znáš kouzlo %s!#
+440 Toto kouzlo je pro tebe příliš obtížné!#
+441 Naučil ses kouzlo %s.#
+442 Připraveno kouzlo %s.#
+443 Cítíš se líp.#
+444 Tvá životní síla chvíli kolísá.#
+445 Cítíš, jak tvá životní síla slábne!#
 
 
 # arrows
 
-446 You shot the %s!#
-447 But it didn't even flinch!#
-448 You shot %s!#
-449 But she didn't even flinch!#
-450 But he didn't even flinch!#
-451 You are hit by an arrow!#
-452 But it bounced off your armor!#
-453 The arrow poisons you!#
+446 Zastřelil jsi %s!#
+447 Ale ani necouvl!#
+448 Zastřelil jsi %s!#
+449 Ale ona ani necouvla!#
+450 Ale on ani necouvl!#
+451 Jsi zasažen šípem!#
+452 Ale odrazil se od tvé zbroje!#
+453 Šíp tě otráví!#
 
 
 # traps and furniture
 
-454 You're caught in a beartrap!#
-455 You are struck by a boulder!#
-456 You lack the might to move the boulder.#
-457 You pull a torch from the fire.#
-458 The fire is extinguished.#
-459 The chest swings open!#
-460 You slam the chest shut!#
-461 Somebody closed the chest!#
-462 The chest is locked!#
-463 You put the %s into the chest.#
-464 You open the door.#
-465 You close the door.#
-466 The door is locked!#
-467 The fountain is dry.#
-468 You dowse yourself in the waters.#
-469 You summon a succubus!#
-470 You drink from the fountain.#
-471 The cool water refreshes you.#
-472 This is a font of holy water!#
-473 The fountain blesses your equipment.#
-474 The fountain dries up!#
-475 This gate is opened elsewhere.#
-476 This is no time for sitting.#
-477 You pound the table in frustration.#
+454 Jsi chycen v medvědí pasti!#
+455 Jsi zasažen balvanem!#
+456 Nemáš dost síly pohnout balvanem.#
+457 Vytahuj
+
+eš pochodeň z ohně.#
+458 Oheň zhasíná.#
+459 Truhla se otevírá!#
+460 Zabouchneš truhlu!#
+461 Někdo zavřel truhlu!#
+462 Truhla je zamčená!#
+463 Dáváš %s do truhly.#
+464 Otevíráš dveře.#
+465 Zavíráš dveře.#
+466 Dveře jsou zamčené!#
+467 Fontána je vyschlá.#
+468 Opláchl ses ve vodách.#
+469 Přivoláváš succubus!#
+470 Piješ z fontány.#
+471 Chladná voda tě osvěžuje.#
+472 Tohle je studna svaté vody!#
+473 Fontána požehnává tvé vybavení.#
+474 Fontána vyschne!#
+475 Tato brána se otvírá jinde.#
+476 Teď není čas na sezení.#
+477 Bouchneš do stolu frustrací.#
 
 
 # Easter egg messages
 
-478 This would be useful in another sort of game.#
-479 You feel like mining and crafting, then it passes.#
-480 This strange tool does not belong in this world.#
-481 You aren't crafting something, so you don't need this.#
-482 Lesser minds think this belongs to our universe.#
+478 To by bylo užitečné v jiné hře.#
+479 Máš chuť dolovat a craftovat, ale pak to přejde.#
+480 Tento podivný nástroj nepatří do tohoto světa.#
+481 Nic necraftuješ, takže tohle nepotřebuješ.#
+482 Menší mozky si myslí, že tohle patří do našeho vesmíru.#
 
 
 # Gold
 
-483 Picked up a gold piece.#
-484 Picked up %d gold pieces.#
+483 Sebral jsi zlatku.#
+484 Sebral jsi %d zlatek.#
 
 
 # headstone messages
 
-485 "Here lies Johnny Yeast
-  Pardon me for not rising"#
+485 "Zde leží Johnny Yeast
+  Promiň, že nevstanu"#
 
-486 "Here lies my wife
-  Here let her lie!
-  Now she's at rest and so am I"#
+486 "Zde leží moje žena
+  Ať tu leží!
+  Teď má klid a já taky"#
 
-487 "Here lies the body of Blake
-  Hit the gas instead of the brake"#
+487 "Zde leží Blake
+  Šlápl na plyn místo brzdy"#
 
-488 "Here lies Weird Ed
-  Got his package but now he's dead"#
+488 "Zde leží Weird Ed
+  Dostal balíček, ale teď je mrtvý"#
 
-489 "Rest in Peace"#
+489 "Odpočívej v pokoji"#
 
 490 "R.I.P."#
 
 491 "Sum quod eris"#
 
-492 "Off the dock dove Sir Jim
-  Then he found he couldn't swim"#
+492 "Z mola se ponořil Sir Jim
+  Pak zjistil, že neumí plavat"#
 
-493 "Here lies Mary Poppins
-  A hole in her umbrella proved undoing"#
+493 "Zde leží Mary Poppins
+  Díra v deštníku jí byla osudná"#
 
-494 "Here lies Horace P. Fetch
-  The goblins got him at last"#
+494 "Zde leží Horace P. Fetch
+  Goblini ho nakonec dostali"#
 
-495 "Here lies Julian
-  Got thumped by his pet troll"#
+495 "Zde leží Julian
+  Dostal výprask od svého mazlíčka trolla"#
 
-496 "Here lies Ingrid
-  Spooked by a scary skeleton"#
+496 "Zde leží Ingrid
+  Vyděsil ji strašidelný kostlivec"#
 
-497 "Here lies Sir Robin
-  He bravely ran away"#
+497 "Zde leží Sir Robin
+  Statečně utekel"#
 
-498 "Here lies Tom
-  Lost a game of Russian Roulette"#
+498 "Zde leží Tom
+  Prohrál hru Ruská ruleta"#
 
-499 "Here lies Mitch
-  Met his end by a lich"#
+499 "Zde leží Mitch
+  Potkal svůj konec od liche"#
 
-500 "Here lies The Proto Pegasus
-  Had a potato stuck in its exhaust pipe"#
+500 "Zde leží Proto Pegasus
+  Měl bramboru zabodnutou v výfuku"#
 
-501 This headstone is blank.#
+501 Tento náhrobek je prázdný.#
 
-502 You've disturbed the dead!#
-
+502 Vyrušil jsi mrtvé!#
 
 # item messages
 
-503 This %s can unlock objects.#
+503 Toto %s může odemykat objekty.#
 
-504 Picked up %s.#
+504 Sebral jsi %s.#
 
 
 # ladder and portal messages
 
-505 You must assemble your party to travel onward.#
-506 You descend the ladder.#
-507 You and your party descend the ladder.#
-508 You cannot go back that way.#
-509 %s is at the exit.#
-510 You step through the portal.#
-511 You and your party step through the portal.#
+505 Musíš sestavit svou partu k pokračování.#
+506 Sestupuješ po žebříku.#
+507 Ty a tvá parta sestupujete po žebříku.#
+508 Touto cestou nemůžeš jít zpět.#
+509 %s je u východu.#
+510 Vstupuješ do portálu.#
+511 Ty a tvá parta vstupujete do portálu.#
 
 
 # herx darkness line
 
-512 You hear a voice inside your head...
-"Can you break this secret technique of darkness?"#
+512 Slyšíš hlas ve své hlavě...
+"Dokážeš prolomit tuto tajnou techniku temnoty?"#
 
 
 # monster chat
 
-513 The %s says:#
-514 The %s doesn't respond.#
-515 %s doesn't respond.#
-516 %s %s! I shall have thy head!#
-517 %s %s! En Guarde!#
-518 Thou art mine, %s %s!#
-519 Prepare thyself, %s %s!#
-520 I shall be with thee shortly!#
-521 I am somewhat busy now.#
-522 I shall talk with thee in a bit!#
-523 Bid thy pardon, I speak with someone else.#
-524 Bother somebody else!#
-525 I shall gladly follow thee, %s!#
-526 Lead the way, %s!#
-527 I shall follow thee, %s!#
-528 Show me the way, %s!#
-529 The %s decides to follow you!#
-530 Excuse me.#
-531 Pardon me.#
-532 Good day.#
-533 I bid thy pardon.#
+513 %s říká:#
+514 %s neodpovídá.#
+515 %s neodpovídá.#
+516 %s %s! Vezmu tvou hlavu!#
+517 %s %s! En garde!#
+518 Jsi můj, %s %s!#
+519 Připrav se, %s %s!#
+520 Budu s tebou za chvíli!#
+521 Jsem teď trochu zaneprázdněn.#
+522 Promluvu si s tebou za chvíli!#
+523 Promiň, mluvím s někým jiným.#
+524 Obtěžuj někoho jiného!#
+525 Rád tě budu následovat, %s!#
+526 Veď cestu, %s!#
+527 Budu tě následovat, %s!#
+528 Ukaž mi cestu, %s!#
+529 %s se rozhodl tě následovat!#
+530 Promiň.#
+531 Pardon.#
+532 Dobrý den.#
+533 Promiň.#
 534 *grunt*#
-535 Pardon me, %s.#
-536 Sorry, %s. I follow another.#
+535 Pardon, %s.#
+536 Promiň, %s. Následuji jiného.#
 
 # sharur lines
 
-537 You hear a voice inside your head...#
-538 "Did you know?"
-"You can hear an evil air blowing from traps."
-"It's true!"#
-539 "Did you know?"
-"Fountains sometimes bless your equipment."
-"It's true!"#
-540 "Did you know?"
-"Shopkeepers pay nothing for unidentified gems."
-"It's true!"#
-541 "Did you know?"
-"King Arthur carries the magical sword Dyrnwyn."
-"It's true!"#
-542 "Did you know?"
-"You can set off traps with dropped items."
-"It's true!"#
-543 "Did you know?"
-"Han shot first."
-"It's true!"#
-544 "Did you know?"
-"Rainbow pony is best pony."
-"It's true!"#
-545 "Did you know?"
-"Spider venom fades in ten seconds."
-"It's true!"#
-546 "Did you know?"
-"You can find rings in sink drains."
-"It's true!"#
-547 "Did you know?"
-"Jet fuel can't melt steel beams."
-"It's true!"#
-548 "Did you know?"
-"Gungnir never fails to strike true."
-"It's true!"#
-549 "Did you know?"
-"Khryselekatos shoots poison arrows."
-"It's true!"#
-550 "Did you know?"
-"There's a creepy secret hidden in Minetown."
-"It's true!"#
-551 "Did you know?"
-"There are two hidden ways into the underworld."
-"It's true!"#
-552 "Did you know?"
-"General stores will buy anything."
-"It's true!"#
-553 "Did you know?"
-"Certain potions only come in certain colors."
-"It's true!"#
-554 "Did you know?"
-"There is a secret way into hell in the ruins."
-"It's true!"#
-555 "Did you know?"
-"Gungnir is hidden in the Minotaur Maze."
-"It's true!"#
-556 "Did you know?"
-"Khryselekatos lies hidden in the underworld."
-"It's true!"#
-557 "Did you know?"
-"Funny Bones carries the axe named Parashu."
-"It's true!"#
-558 "Did you know?"
-"A winner is you!"
-"It's true!"#
-559 "Did you know?"
-"I can't leave without my buddy Superfly!"
-"It's true!"#
-560 "Did you know?"
-"All toasters toast toast."
-"It's true!"#
-561 "Did you know?"
-"That Mimiga wasn't Sue!"
-"It's true!"#
-562 "Did you know?"
-"Solving Sokoban will make you rich."
-"It's true!"#
-563 "Did you know?"
-"Gnomes and trolls are best friends."
-"It's true!"#
-564 "Did you know?"
-"Shopkeepers really ARE magical geniuses."
-"It's true!"#
-565 "Did you know?"
-"Trolls would rather just be left alone."
-"It's true!"#
-566 "Did you know?"
-"Minotaurs are not quite invincible."
-"It's true!"#
-567 "Did you know?"
-"There is no cure for teleportitis."
-"It's true!"#
-568 "Did you know?"
-"Broken chests don't yield many items."
-"It's true!"#
-569 "Did you know?"
-"There is no spoon."
-"It's true!"#
+537 Slyšíš hlas ve své hlavě...#
+538 "Věděl jsi?"
+"Slyšíš zlý vzduch vanoucí z pastí."
+"Je to pravda!"#
+539 "Věděl jsi?"
+"Fontány někdy požehnají tvé vybavení."
+"Je to pravda!"#
+540 "Věděl jsi?"
+"Obchodníci neplatí nic za neidentifikované drahokamy."
+"Je to pravda!"#
+541 "Věděl jsi?"
+"Král Arthur nese magický meč Dyrnwyn."
+"Je to pravda!"#
+542 "Věděl jsi?"
+"Můžeš spustit pasti zahozenými předměty."
+"Je to pravda!"#
+543 "Věděl jsi?"
+"Han vystřelil první."
+"Je to pravda!"#
+544 "Věděl jsi?"
+"Duhový poník je nejlepší poník."
+"Je to pravda!"#
+545 "Věděl jsi?"
+"Pavoučí jed vyprchá za deset sekund."
+"Je to pravda!"#
+546 "Věděl jsi?"
+"V odpadech umyvadel můžeš najít prsteny."
+"Je to pravda!"#
+547 "Věděl jsi?"
+"Letecké palivo nemůže roztavit ocelové trámy."
+"Je to pravda!"#
+548 "Věděl jsi?"
+"Gungnir vždy zasáhne cíl."
+"Je to pravda!"#
+549 "Věděl jsi?"
+"Khryselekatos vystřeluje jedovaté šípy."
+"Je to pravda!"#
+550 "Věděl jsi?"
+"V Minetown je schované děsivé tajemství."
+"Je to pravda!"#
+551 "Věděl jsi?"
+"Jsou dvě skryté cesty do podsvětí."
+"Je to pravda!"#
+552 "Věděl jsi?"
+"Smíšené zboží koupí cokoli."
+"Je to pravda!"#
+553 "Věděl jsi?"
+"Některé lektvary mají jen určité barvy."
+"Je to pravda!"#
+554 "Věděl jsi?"
+"V ruinách je tajná cesta do pekla."
+"Je to pravda!"#
+555 "Věděl jsi?"
+"Gungnir je schován v Labyrintu minotaura."
+"Je to pravda!"#
+556 "Věděl jsi?"
+"Khryselekatos leží schován v podsvětí."
+"Je to pravda!"#
+557 "Věděl jsi?"
+"Funny Bones nese sekeru jménem Parashu."
+"Je to pravda!"#
+558 "Věděl jsi?"
+"Vítěz jsi ty!"
+"Je to pravda!"#
+559 "Věděl jsi?"
+"Nemůžu odejít bez mého kamaráda Superfly!"
+"Je to pravda!"#
+560 "Věděl jsi?"
+"Všechny tostery opékají toast."
+"Je to pravda!"#
+561 "Věděl jsi?"
+"Ten Mimiga nebyla Sue!"
+"Je to pravda!"#
+562 "Věděl jsi?"
+"Vyřešení Sokobanu tě udělá bohatým."
+"Je to pravda!"#
+563 "Věděl jsi?"
+"Gnómové a trollové jsou nejlepší přátelé."
+"Je to pravda!"#
+564 "Věděl jsi?"
+"Obchodníci opravdu JSOU magičtí géniové."
+"Je to pravda!"#
+565 "Věděl jsi?"
+"Trollové raději chtějí být necháni na pokoji."
+"Je to pravda!"#
+566 "Věděl jsi?"
+"Minotauři nejsou úplně neporazitelní."
+"Je to pravda!"#
+567 "Věděl jsi?"
+"Neexistuje lék na teleportitis."
+"Je to pravda!"#
+568 "Věděl jsi?"
+"Rozbité truhly nedávají mnoho předmětů."
+"Je to pravda!"#
+569 "Věděl jsi?"
+"Neexistuje lžíce."
+"Je to pravda!"#
 
 # random player messages
 
-570 Identified "%s".#
-571 Failed to identify "%s".#
-572 You fall to your death...#
-573 You've fallen in boiling lava!#
-574 The water extinguishes the flames!#
-575 You bump %s.#
-576 %s bumps you.#
-577 You die...#
+570 Identifikováno "%s".#
+571 Nepodařilo se identifikovat "%s".#
+572 Padáš k smrti...#
+573 Spadl jsi do vroucí lávy!#
+574 Voda uhasila plameny!#
+575 Narazíš do %s.#
+576 %s do tebe narazí.#
+577 Umíráš...#
 578
-You will be revived if your party
-survives to the next level.#
-579 *hic*#
+Budeš oživen, pokud tvá parta
+přežije do dalšího levelu.#
+579 *hik*#
 
 # more furniture
 
-580 The sink's no longer usable.
-You should call a plumber!#
-581 Hey, there's a ring caught in the drain.#
-582 A slime oozes from the faucet!#
-583 The tap water refreshes you somewhat.#
-584 The water is scalding!#
-585 You hear a pipe groan.
- The faucet breaks!#
-586 You stumble into a spike trap!#
-588 You are hit by a flying %s!#
-589 You take the torch from the wall.#
+580 Umyvadlo už nejde použít.
+Měl bys zavolat instalatéra!#
+581 Hej, v odpadu je zachycený prsten.#
+582 Ze sprchy vylézá slime!#
+583 Voda z kohoutku tě trochu osvěžuje.#
+584 Voda je horká!#
+585 Slyšíš zavrčení potrubí.
+ Kohoutek se rozbil!#
+586 Zakopneš o past s hroty!#
+588 Jsi zasažen letícím %s!#
+589 Bereš pochodeň ze zdi.#
 
 # entity messages
 
-590 You suddenly catch fire!#
-591 Your spell (invisibility) was interrupted!#
-592 Your spell (levitation) was interrupted!#
-593 You wake up.#
-594 The poison subsides.#
-595 You feel a bit steadier.#
-596 You can think more clearly now.#
-597 You feel sober again.#
-598 Failed to sustain spell (invisibility).#
-599 Hey! You can see yourself again!#
-600 You can see again.#
-601 Your eyes water.#
-602 Your hands seem cleaner now.#
-603 Your face is no longer messy.#
-604 You return to your normal speed.#
-605 You can move again.#
-606 Failed to sustain spell (levitation).#
-607 You return to the floor once more.#
-608 The voices in your head have stopped.#
-609 Your stomach settles itself.#
-610 You still don't feel very good though.#
-611 You feel hungry now.#
-612 You are very hungry now!
- You feel weak.#
-613 You are starving now!
- You feel faint.#
-614 You stop bleeding.#
-615 Your %s ability has improved.#
-616 You now have basic skill in %s.#
-617 You are now skilled in %s.#
-618 You are now an expert in %s.#
-619 You are now a master in %s.#
-620 You are now a legend in %s.#
-621 Your very life force is transformed into magical energy.#
+590 Náhle vzplaneš!#
+591 Tvé kouzlo (invisibility) bylo přerušeno!#
+592 Tvé kouzlo (levitation) bylo přerušeno!#
+593 Probouzíš se.#
+594 Jed ustupuje.#
+595 Cítíš se trochu stabilněji.#
+596 Můžeš teď myslet jasněji.#
+597 Cítíš se zase střízlivý.#
+598 Nepodařilo se udržet kouzlo (invisibility).#
+599 Hej! Znovu se vidíš!#
+600 Můžeš znovu vidět.#
+601 Slzí ti oči.#
+602 Ruce se ti zdají být čistější.#
+603 Tvůj obličej už není špinavý.#
+604 Vracíš se k normální rychlosti.#
+605 Můžeš se znovu hýbat.#
+606 Nepodařilo se udržet kouzlo (levitation).#
+607 Vracíš se zpět na zem.#
+608 Hlasy ve tvé hlavě přestaly.#
+609 Žaludek se ti uklidnil.#
+610 Pořád se ale necítíš moc dobře.#
+611 Teď máš hlad.#
+612 Jsi velmi hladový!
+ Cítíš slabost.#
+613 Teď hladovíš!
+ Je ti mdlo.#
+614 Přestáváš krvácet.#
+615 Tvá schopnost %s se zlepšila.#
+616 Teď máš basic skill v %s.#
+617 Teď jsi skilled v %s.#
+618 Teď jsi expert v %s.#
+619 Teď jsi master v %s.#
+620 Teď jsi legend v %s.#
+621 Tvá životní síla se mění v magickou energii.#
 622 Level up!#
-623 You feel strong!#
-624 You feel nimble!#
-625 You feel hardy!#
-626 You feel wise!#
-627 You feel observant!#
-628 You feel personable!#
-629 You feel a bit better now.#
-630 You feel hungry.#
-631 You are very hungry!
- You feel weak.#
-632 You are starving!
- You feel faint.#
-633 You're wasting away...#
-634 You suddenly feel very nauseated...#
+623 Cítíš sílu!#
+624 Cítíš obratnost!#
+625 Cítíš houževnatost!#
+626 Cítíš moudrost!#
+627 Cítíš bystrost!#
+628 Cítíš charisma!#
+629 Cítíš se teď trochu líp.#
+630 Máš hlad.#
+631 Jsi velmi hladový!
+ Cítíš slabost.#
+632 Hladovíš!
+ Je ti mdlo.#
+633 Chřadneš...#
+634 Náhle se cítíš velmi na zvracení...#
+635 Náhle se zvracíš!#
+636 Zbraň ti vyklouzne z prstů!#
+637 Tvůj %s bliká ve tmě.#
+638 Tvůj %s dohoří.#
+639 Tvůj amulet slabě zelené svítí.#
+640 Jed okamžitě ustupuje!#
+641 Jed zřejmě ustupuje.#
+642 Ztrácíš trochu krve.#
+643 Přestal jsi krvácet.#
+644 To pálí! To pálí!#
+645 Tvůj %s doutnná!#
+646 Tvůj %s shoří na popel!#
+647 Plameny hasnou.#
+648 Tvůj amulet tě dusí!#
+649 Tvůj amulet se svírá!#
+650 Ale jaké štěstí! Právě se sám rozlomil.#
+
+# the extra period here is important, make sure to leave it:
+
+651 Umíráš....#
+
+
+# more entity messages
+
+652 Ale počkat! Tvůj amulet svítí!#
+653 Ale počkat! Tvůj amulet je teplý!#
+654 Jsi vrácen zpět k životu a začínáš vznášet vzduchem!#
+655 Nicméně, tvůj amulet se rozpadne na prach.#
+656 Ups, promiň. Zřejmě to byla flákota.#
+657 Uvidíme se v dalším životě.#
+658 Náhle se probouzíš!#
+659 Tvá hůl ztrácí část svého náboje.#
+660 Tvá hůl se úplně vybila.#
 635 You suddenly vomit!#
 636 Your weapon slips through your fingers!#
 637 Your %s flickers in the darkness.#
