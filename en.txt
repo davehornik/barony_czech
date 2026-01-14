@@ -1006,7 +1006,7 @@ Měl bys zavolat instalatéra!#
 638 Tvůj %s dohoří.#
 639 Tvůj amulet slabě zelené svítí.#
 640 Jed okamžitě ustupuje!#
-641 Jed zřejmě ustupouje.#
+641 Jed zřejmě ustupuje.#
 642 Ztrácíš trochu krve.#
 643 Přestal jsi krvácet.#
 644 To pálí! To pálí!#
